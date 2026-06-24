@@ -1,0 +1,2497 @@
+,match_id,year,stage_name,equipe,gols_feitos,gols_sofridos,vitoria,empate,mando
+0,M-1930-01,1930,group stage,France,4,1,True,False,Casa
+1,M-1930-02,1930,group stage,United States,3,0,True,False,Casa
+2,M-1930-03,1930,group stage,Yugoslavia,2,1,True,False,Casa
+3,M-1930-04,1930,group stage,Romania,3,1,True,False,Casa
+4,M-1930-05,1930,group stage,Argentina,1,0,True,False,Casa
+5,M-1930-06,1930,group stage,Chile,3,0,True,False,Casa
+6,M-1930-07,1930,group stage,Yugoslavia,4,0,True,False,Casa
+7,M-1930-08,1930,group stage,United States,3,0,True,False,Casa
+8,M-1930-09,1930,group stage,Uruguay,1,0,True,False,Casa
+9,M-1930-10,1930,group stage,Chile,1,0,True,False,Casa
+10,M-1930-11,1930,group stage,Argentina,6,3,True,False,Casa
+11,M-1930-12,1930,group stage,Brazil,4,0,True,False,Casa
+12,M-1930-13,1930,group stage,Paraguay,1,0,True,False,Casa
+13,M-1930-14,1930,group stage,Uruguay,4,0,True,False,Casa
+14,M-1930-15,1930,group stage,Argentina,3,1,True,False,Casa
+15,M-1930-16,1930,semi-finals,Argentina,6,1,True,False,Casa
+16,M-1930-17,1930,semi-finals,Uruguay,6,1,True,False,Casa
+17,M-1930-18,1930,final,Uruguay,4,2,True,False,Casa
+18,M-1934-01,1934,round of 16,Austria,3,2,True,False,Casa
+19,M-1934-02,1934,round of 16,Czechoslovakia,2,1,True,False,Casa
+20,M-1934-03,1934,round of 16,Germany,5,2,True,False,Casa
+21,M-1934-04,1934,round of 16,Hungary,4,2,True,False,Casa
+22,M-1934-05,1934,round of 16,Italy,7,1,True,False,Casa
+23,M-1934-06,1934,round of 16,Spain,3,1,True,False,Casa
+24,M-1934-07,1934,round of 16,Sweden,3,2,True,False,Casa
+25,M-1934-08,1934,round of 16,Switzerland,3,2,True,False,Casa
+26,M-1934-09,1934,quarter-finals,Austria,2,1,True,False,Casa
+27,M-1934-10,1934,quarter-finals,Czechoslovakia,3,2,True,False,Casa
+28,M-1934-11,1934,quarter-finals,Germany,2,1,True,False,Casa
+29,M-1934-12,1934,quarter-finals,Italy,1,1,False,True,Casa
+30,M-1934-13,1934,quarter-finals,Italy,1,0,True,False,Casa
+31,M-1934-14,1934,semi-finals,Czechoslovakia,3,1,True,False,Casa
+32,M-1934-15,1934,semi-finals,Italy,1,0,True,False,Casa
+33,M-1934-16,1934,third-place match,Germany,3,2,True,False,Casa
+34,M-1934-17,1934,final,Italy,2,1,True,False,Casa
+35,M-1938-01,1938,round of 16,Switzerland,1,1,False,True,Casa
+36,M-1938-02,1938,round of 16,Cuba,3,3,False,True,Casa
+37,M-1938-03,1938,round of 16,France,3,1,True,False,Casa
+38,M-1938-04,1938,round of 16,Hungary,6,0,True,False,Casa
+39,M-1938-05,1938,round of 16,Italy,2,1,True,False,Casa
+40,M-1938-06,1938,round of 16,Brazil,6,5,True,False,Casa
+41,M-1938-07,1938,round of 16,Czechoslovakia,3,0,True,False,Casa
+42,M-1938-08,1938,round of 16,Cuba,2,1,True,False,Casa
+43,M-1938-09,1938,round of 16,Switzerland,4,2,True,False,Casa
+44,M-1938-10,1938,quarter-finals,Brazil,1,1,False,True,Casa
+45,M-1938-11,1938,quarter-finals,Hungary,2,0,True,False,Casa
+46,M-1938-12,1938,quarter-finals,Italy,3,1,True,False,Casa
+47,M-1938-13,1938,quarter-finals,Sweden,8,0,True,False,Casa
+48,M-1938-14,1938,quarter-finals,Brazil,2,1,True,False,Casa
+49,M-1938-15,1938,semi-finals,Hungary,5,1,True,False,Casa
+50,M-1938-16,1938,semi-finals,Italy,2,1,True,False,Casa
+51,M-1938-17,1938,third-place match,Brazil,4,2,True,False,Casa
+52,M-1938-18,1938,final,Italy,4,2,True,False,Casa
+53,M-1950-01,1950,group stage,Brazil,4,0,True,False,Casa
+54,M-1950-02,1950,group stage,Yugoslavia,3,0,True,False,Casa
+55,M-1950-03,1950,group stage,England,2,0,True,False,Casa
+56,M-1950-04,1950,group stage,Spain,3,1,True,False,Casa
+57,M-1950-05,1950,group stage,Sweden,3,2,True,False,Casa
+58,M-1950-06,1950,group stage,Brazil,2,2,False,True,Casa
+59,M-1950-07,1950,group stage,Yugoslavia,4,1,True,False,Casa
+60,M-1950-08,1950,group stage,Spain,2,0,True,False,Casa
+61,M-1950-09,1950,group stage,United States,1,0,True,False,Casa
+62,M-1950-10,1950,group stage,Sweden,2,2,False,True,Casa
+63,M-1950-11,1950,group stage,Brazil,2,0,True,False,Casa
+64,M-1950-12,1950,group stage,Chile,5,2,True,False,Casa
+65,M-1950-13,1950,group stage,Spain,1,0,True,False,Casa
+66,M-1950-14,1950,group stage,Italy,2,0,True,False,Casa
+67,M-1950-15,1950,group stage,Uruguay,8,0,True,False,Casa
+68,M-1950-16,1950,group stage,Switzerland,2,1,True,False,Casa
+69,M-1950-17,1950,final round,Brazil,7,1,True,False,Casa
+70,M-1950-18,1950,final round,Uruguay,2,2,False,True,Casa
+71,M-1950-19,1950,final round,Brazil,6,1,True,False,Casa
+72,M-1950-20,1950,final round,Uruguay,3,2,True,False,Casa
+73,M-1950-21,1950,final round,Sweden,3,1,True,False,Casa
+74,M-1950-22,1950,final round,Uruguay,2,1,True,False,Casa
+75,M-1954-01,1954,group stage,Brazil,5,0,True,False,Casa
+76,M-1954-02,1954,group stage,Yugoslavia,1,0,True,False,Casa
+77,M-1954-03,1954,group stage,Austria,1,0,True,False,Casa
+78,M-1954-04,1954,group stage,Uruguay,2,0,True,False,Casa
+79,M-1954-05,1954,group stage,Switzerland,2,1,True,False,Casa
+80,M-1954-06,1954,group stage,Hungary,9,0,True,False,Casa
+81,M-1954-07,1954,group stage,West Germany,4,1,True,False,Casa
+82,M-1954-08,1954,group stage,England,4,4,False,True,Casa
+83,M-1954-09,1954,group stage,Uruguay,7,0,True,False,Casa
+84,M-1954-10,1954,group stage,Brazil,1,1,False,True,Casa
+85,M-1954-11,1954,group stage,Austria,5,0,True,False,Casa
+86,M-1954-12,1954,group stage,France,3,2,True,False,Casa
+87,M-1954-13,1954,group stage,Hungary,8,3,True,False,Casa
+88,M-1954-14,1954,group stage,Turkey,7,0,True,False,Casa
+89,M-1954-15,1954,group stage,Italy,4,1,True,False,Casa
+90,M-1954-16,1954,group stage,England,2,0,True,False,Casa
+91,M-1954-17,1954,group stage,West Germany,7,2,True,False,Casa
+92,M-1954-18,1954,group stage,Switzerland,4,1,True,False,Casa
+93,M-1954-19,1954,quarter-finals,Austria,7,5,True,False,Casa
+94,M-1954-20,1954,quarter-finals,Uruguay,4,2,True,False,Casa
+95,M-1954-21,1954,quarter-finals,Hungary,4,2,True,False,Casa
+96,M-1954-22,1954,quarter-finals,West Germany,2,0,True,False,Casa
+97,M-1954-23,1954,semi-finals,Hungary,4,2,True,False,Casa
+98,M-1954-24,1954,semi-finals,West Germany,6,1,True,False,Casa
+99,M-1954-25,1954,third-place match,Austria,3,1,True,False,Casa
+100,M-1954-26,1954,final,West Germany,3,2,True,False,Casa
+101,M-1958-01,1958,group stage,Sweden,3,0,True,False,Casa
+102,M-1958-02,1958,group stage,Argentina,1,3,False,False,Casa
+103,M-1958-03,1958,group stage,Northern Ireland,1,0,True,False,Casa
+104,M-1958-04,1958,group stage,France,7,3,True,False,Casa
+105,M-1958-05,1958,group stage,Yugoslavia,1,1,False,True,Casa
+106,M-1958-06,1958,group stage,Hungary,1,1,False,True,Casa
+107,M-1958-07,1958,group stage,Brazil,3,0,True,False,Casa
+108,M-1958-08,1958,group stage,Soviet Union,2,2,False,True,Casa
+109,M-1958-09,1958,group stage,Argentina,3,1,True,False,Casa
+110,M-1958-10,1958,group stage,West Germany,2,2,False,True,Casa
+111,M-1958-11,1958,group stage,Paraguay,3,2,True,False,Casa
+112,M-1958-12,1958,group stage,Yugoslavia,3,2,True,False,Casa
+113,M-1958-13,1958,group stage,Mexico,1,1,False,True,Casa
+114,M-1958-14,1958,group stage,Brazil,0,0,False,True,Casa
+115,M-1958-15,1958,group stage,Soviet Union,2,0,True,False,Casa
+116,M-1958-16,1958,group stage,Sweden,2,1,True,False,Casa
+117,M-1958-17,1958,group stage,Sweden,0,0,False,True,Casa
+118,M-1958-18,1958,group stage,Czechoslovakia,6,1,True,False,Casa
+119,M-1958-19,1958,group stage,West Germany,2,2,False,True,Casa
+120,M-1958-20,1958,group stage,France,2,1,True,False,Casa
+121,M-1958-21,1958,group stage,Paraguay,3,3,False,True,Casa
+122,M-1958-22,1958,group stage,Hungary,4,0,True,False,Casa
+123,M-1958-23,1958,group stage,Brazil,2,0,True,False,Casa
+124,M-1958-24,1958,group stage,England,2,2,False,True,Casa
+125,M-1958-25,1958,group stage,Northern Ireland,2,1,True,False,Casa
+126,M-1958-26,1958,group stage,Wales,2,1,True,False,Casa
+127,M-1958-27,1958,group stage,Soviet Union,1,0,True,False,Casa
+128,M-1958-28,1958,quarter-finals,Brazil,1,0,True,False,Casa
+129,M-1958-29,1958,quarter-finals,France,4,0,True,False,Casa
+130,M-1958-30,1958,quarter-finals,Sweden,2,0,True,False,Casa
+131,M-1958-31,1958,quarter-finals,West Germany,1,0,True,False,Casa
+132,M-1958-32,1958,semi-finals,Brazil,5,2,True,False,Casa
+133,M-1958-33,1958,semi-finals,Sweden,3,1,True,False,Casa
+134,M-1958-34,1958,third-place match,France,6,3,True,False,Casa
+135,M-1958-35,1958,final,Brazil,5,2,True,False,Casa
+136,M-1962-01,1962,group stage,Uruguay,2,1,True,False,Casa
+137,M-1962-02,1962,group stage,Chile,3,1,True,False,Casa
+138,M-1962-03,1962,group stage,Brazil,2,0,True,False,Casa
+139,M-1962-04,1962,group stage,Argentina,1,0,True,False,Casa
+140,M-1962-05,1962,group stage,Soviet Union,2,0,True,False,Casa
+141,M-1962-06,1962,group stage,West Germany,0,0,False,True,Casa
+142,M-1962-07,1962,group stage,Czechoslovakia,1,0,True,False,Casa
+143,M-1962-08,1962,group stage,Hungary,2,1,True,False,Casa
+144,M-1962-09,1962,group stage,Yugoslavia,3,1,True,False,Casa
+145,M-1962-10,1962,group stage,Chile,2,0,True,False,Casa
+146,M-1962-11,1962,group stage,Brazil,0,0,False,True,Casa
+147,M-1962-12,1962,group stage,England,3,1,True,False,Casa
+148,M-1962-13,1962,group stage,Soviet Union,4,4,False,True,Casa
+149,M-1962-14,1962,group stage,West Germany,2,1,True,False,Casa
+150,M-1962-15,1962,group stage,Spain,1,0,True,False,Casa
+151,M-1962-16,1962,group stage,Hungary,6,1,True,False,Casa
+152,M-1962-17,1962,group stage,Soviet Union,2,1,True,False,Casa
+153,M-1962-18,1962,group stage,West Germany,2,0,True,False,Casa
+154,M-1962-19,1962,group stage,Brazil,2,1,True,False,Casa
+155,M-1962-20,1962,group stage,Hungary,0,0,False,True,Casa
+156,M-1962-21,1962,group stage,Yugoslavia,5,0,True,False,Casa
+157,M-1962-22,1962,group stage,Italy,3,0,True,False,Casa
+158,M-1962-23,1962,group stage,Mexico,3,1,True,False,Casa
+159,M-1962-24,1962,group stage,England,0,0,False,True,Casa
+160,M-1962-25,1962,quarter-finals,Brazil,3,1,True,False,Casa
+161,M-1962-26,1962,quarter-finals,Chile,2,1,True,False,Casa
+162,M-1962-27,1962,quarter-finals,Czechoslovakia,1,0,True,False,Casa
+163,M-1962-28,1962,quarter-finals,Yugoslavia,1,0,True,False,Casa
+164,M-1962-29,1962,semi-finals,Brazil,4,2,True,False,Casa
+165,M-1962-30,1962,semi-finals,Czechoslovakia,3,1,True,False,Casa
+166,M-1962-31,1962,third-place match,Chile,1,0,True,False,Casa
+167,M-1962-32,1962,final,Brazil,3,1,True,False,Casa
+168,M-1966-01,1966,group stage,England,0,0,False,True,Casa
+169,M-1966-02,1966,group stage,West Germany,5,0,True,False,Casa
+170,M-1966-03,1966,group stage,Brazil,2,0,True,False,Casa
+171,M-1966-04,1966,group stage,Soviet Union,3,0,True,False,Casa
+172,M-1966-05,1966,group stage,France,1,1,False,True,Casa
+173,M-1966-06,1966,group stage,Argentina,2,1,True,False,Casa
+174,M-1966-07,1966,group stage,Portugal,3,1,True,False,Casa
+175,M-1966-08,1966,group stage,Italy,2,0,True,False,Casa
+176,M-1966-09,1966,group stage,Uruguay,2,1,True,False,Casa
+177,M-1966-10,1966,group stage,Spain,2,1,True,False,Casa
+178,M-1966-11,1966,group stage,Hungary,3,1,True,False,Casa
+179,M-1966-12,1966,group stage,Chile,1,1,False,True,Casa
+180,M-1966-13,1966,group stage,Argentina,0,0,False,True,Casa
+181,M-1966-14,1966,group stage,Portugal,3,0,True,False,Casa
+182,M-1966-15,1966,group stage,Soviet Union,1,0,True,False,Casa
+183,M-1966-16,1966,group stage,England,2,0,True,False,Casa
+184,M-1966-17,1966,group stage,Mexico,0,0,False,True,Casa
+185,M-1966-18,1966,group stage,Argentina,2,0,True,False,Casa
+186,M-1966-19,1966,group stage,Portugal,3,1,True,False,Casa
+187,M-1966-20,1966,group stage,North Korea,1,0,True,False,Casa
+188,M-1966-21,1966,group stage,England,2,0,True,False,Casa
+189,M-1966-22,1966,group stage,West Germany,2,1,True,False,Casa
+190,M-1966-23,1966,group stage,Hungary,3,1,True,False,Casa
+191,M-1966-24,1966,group stage,Soviet Union,2,1,True,False,Casa
+192,M-1966-25,1966,quarter-finals,England,1,0,True,False,Casa
+193,M-1966-26,1966,quarter-finals,Portugal,5,3,True,False,Casa
+194,M-1966-27,1966,quarter-finals,Soviet Union,2,1,True,False,Casa
+195,M-1966-28,1966,quarter-finals,West Germany,4,0,True,False,Casa
+196,M-1966-29,1966,semi-finals,West Germany,2,1,True,False,Casa
+197,M-1966-30,1966,semi-finals,England,2,1,True,False,Casa
+198,M-1966-31,1966,third-place match,Portugal,2,1,True,False,Casa
+199,M-1966-32,1966,final,England,4,2,True,False,Casa
+200,M-1970-01,1970,group stage,Mexico,0,0,False,True,Casa
+201,M-1970-02,1970,group stage,Uruguay,2,0,True,False,Casa
+202,M-1970-03,1970,group stage,England,1,0,True,False,Casa
+203,M-1970-04,1970,group stage,Peru,3,2,True,False,Casa
+204,M-1970-05,1970,group stage,Belgium,3,0,True,False,Casa
+205,M-1970-06,1970,group stage,Italy,1,0,True,False,Casa
+206,M-1970-07,1970,group stage,Brazil,4,1,True,False,Casa
+207,M-1970-08,1970,group stage,West Germany,2,1,True,False,Casa
+208,M-1970-09,1970,group stage,Soviet Union,4,1,True,False,Casa
+209,M-1970-10,1970,group stage,Uruguay,0,0,False,True,Casa
+210,M-1970-11,1970,group stage,Romania,2,1,True,False,Casa
+211,M-1970-12,1970,group stage,Peru,3,0,True,False,Casa
+212,M-1970-13,1970,group stage,Mexico,4,0,True,False,Casa
+213,M-1970-14,1970,group stage,Sweden,1,1,False,True,Casa
+214,M-1970-15,1970,group stage,Brazil,1,0,True,False,Casa
+215,M-1970-16,1970,group stage,West Germany,5,2,True,False,Casa
+216,M-1970-17,1970,group stage,Soviet Union,2,0,True,False,Casa
+217,M-1970-18,1970,group stage,Sweden,1,0,True,False,Casa
+218,M-1970-19,1970,group stage,Brazil,3,2,True,False,Casa
+219,M-1970-20,1970,group stage,West Germany,3,1,True,False,Casa
+220,M-1970-21,1970,group stage,Mexico,1,0,True,False,Casa
+221,M-1970-22,1970,group stage,Italy,0,0,False,True,Casa
+222,M-1970-23,1970,group stage,England,1,0,True,False,Casa
+223,M-1970-24,1970,group stage,Bulgaria,1,1,False,True,Casa
+224,M-1970-25,1970,quarter-finals,Brazil,4,2,True,False,Casa
+225,M-1970-26,1970,quarter-finals,Italy,4,1,True,False,Casa
+226,M-1970-27,1970,quarter-finals,Soviet Union,0,1,False,False,Casa
+227,M-1970-28,1970,quarter-finals,West Germany,3,2,True,False,Casa
+228,M-1970-29,1970,semi-finals,Brazil,3,1,True,False,Casa
+229,M-1970-30,1970,semi-finals,Italy,4,3,True,False,Casa
+230,M-1970-31,1970,third-place match,West Germany,1,0,True,False,Casa
+231,M-1970-32,1970,final,Brazil,4,1,True,False,Casa
+232,M-1974-01,1974,group stage,Brazil,0,0,False,True,Casa
+233,M-1974-02,1974,group stage,West Germany,1,0,True,False,Casa
+234,M-1974-03,1974,group stage,East Germany,2,0,True,False,Casa
+235,M-1974-04,1974,group stage,Zaire,0,2,False,False,Casa
+236,M-1974-05,1974,group stage,Sweden,0,0,False,True,Casa
+237,M-1974-06,1974,group stage,Uruguay,0,2,False,False,Casa
+238,M-1974-07,1974,group stage,Italy,3,1,True,False,Casa
+239,M-1974-08,1974,group stage,Poland,3,2,True,False,Casa
+240,M-1974-09,1974,group stage,Australia,0,3,False,False,Casa
+241,M-1974-10,1974,group stage,Chile,1,1,False,True,Casa
+242,M-1974-11,1974,group stage,Scotland,0,0,False,True,Casa
+243,M-1974-12,1974,group stage,Yugoslavia,9,0,True,False,Casa
+244,M-1974-13,1974,group stage,Bulgaria,1,1,False,True,Casa
+245,M-1974-14,1974,group stage,Netherlands,0,0,False,True,Casa
+246,M-1974-15,1974,group stage,Argentina,1,1,False,True,Casa
+247,M-1974-16,1974,group stage,Haiti,0,7,False,False,Casa
+248,M-1974-17,1974,group stage,Australia,0,0,False,True,Casa
+249,M-1974-18,1974,group stage,Scotland,1,1,False,True,Casa
+250,M-1974-19,1974,group stage,Zaire,0,3,False,False,Casa
+251,M-1974-20,1974,group stage,East Germany,1,0,True,False,Casa
+252,M-1974-21,1974,group stage,Bulgaria,1,4,False,False,Casa
+253,M-1974-22,1974,group stage,Sweden,3,0,True,False,Casa
+254,M-1974-23,1974,group stage,Argentina,4,1,True,False,Casa
+255,M-1974-24,1974,group stage,Poland,2,1,True,False,Casa
+256,M-1974-25,1974,second group stage,Yugoslavia,0,2,False,False,Casa
+257,M-1974-26,1974,second group stage,Brazil,1,0,True,False,Casa
+258,M-1974-27,1974,second group stage,Netherlands,4,0,True,False,Casa
+259,M-1974-28,1974,second group stage,Sweden,0,1,False,False,Casa
+260,M-1974-29,1974,second group stage,Argentina,1,2,False,False,Casa
+261,M-1974-30,1974,second group stage,East Germany,0,2,False,False,Casa
+262,M-1974-31,1974,second group stage,Poland,2,1,True,False,Casa
+263,M-1974-32,1974,second group stage,West Germany,4,2,True,False,Casa
+264,M-1974-33,1974,second group stage,Poland,0,1,False,False,Casa
+265,M-1974-34,1974,second group stage,Argentina,1,1,False,True,Casa
+266,M-1974-35,1974,second group stage,Netherlands,2,0,True,False,Casa
+267,M-1974-36,1974,second group stage,Sweden,2,1,True,False,Casa
+268,M-1974-37,1974,third-place match,Brazil,0,1,False,False,Casa
+269,M-1974-38,1974,final,Netherlands,1,2,False,False,Casa
+270,M-1978-01,1978,group stage,West Germany,0,0,False,True,Casa
+271,M-1978-02,1978,group stage,Italy,2,1,True,False,Casa
+272,M-1978-03,1978,group stage,Tunisia,3,1,True,False,Casa
+273,M-1978-04,1978,group stage,Argentina,2,1,True,False,Casa
+274,M-1978-05,1978,group stage,Austria,2,1,True,False,Casa
+275,M-1978-06,1978,group stage,Brazil,1,1,False,True,Casa
+276,M-1978-07,1978,group stage,Netherlands,3,0,True,False,Casa
+277,M-1978-08,1978,group stage,Peru,3,1,True,False,Casa
+278,M-1978-09,1978,group stage,Italy,3,1,True,False,Casa
+279,M-1978-10,1978,group stage,Poland,1,0,True,False,Casa
+280,M-1978-11,1978,group stage,West Germany,6,0,True,False,Casa
+281,M-1978-12,1978,group stage,Argentina,2,1,True,False,Casa
+282,M-1978-13,1978,group stage,Austria,1,0,True,False,Casa
+283,M-1978-14,1978,group stage,Brazil,0,0,False,True,Casa
+284,M-1978-15,1978,group stage,Netherlands,0,0,False,True,Casa
+285,M-1978-16,1978,group stage,Scotland,1,1,False,True,Casa
+286,M-1978-17,1978,group stage,France,3,1,True,False,Casa
+287,M-1978-18,1978,group stage,Poland,3,1,True,False,Casa
+288,M-1978-19,1978,group stage,West Germany,0,0,False,True,Casa
+289,M-1978-20,1978,group stage,Argentina,0,1,False,False,Casa
+290,M-1978-21,1978,group stage,Brazil,1,0,True,False,Casa
+291,M-1978-22,1978,group stage,Spain,1,0,True,False,Casa
+292,M-1978-23,1978,group stage,Peru,4,1,True,False,Casa
+293,M-1978-24,1978,group stage,Scotland,3,2,True,False,Casa
+294,M-1978-25,1978,second group stage,Austria,1,5,False,False,Casa
+295,M-1978-26,1978,second group stage,Italy,0,0,False,True,Casa
+296,M-1978-27,1978,second group stage,Brazil,3,0,True,False,Casa
+297,M-1978-28,1978,second group stage,Argentina,2,0,True,False,Casa
+298,M-1978-29,1978,second group stage,Peru,0,1,False,False,Casa
+299,M-1978-30,1978,second group stage,Italy,1,0,True,False,Casa
+300,M-1978-31,1978,second group stage,Netherlands,2,2,False,True,Casa
+301,M-1978-32,1978,second group stage,Argentina,0,0,False,True,Casa
+302,M-1978-33,1978,second group stage,Austria,3,2,True,False,Casa
+303,M-1978-34,1978,second group stage,Italy,1,2,False,False,Casa
+304,M-1978-35,1978,second group stage,Brazil,3,1,True,False,Casa
+305,M-1978-36,1978,second group stage,Argentina,6,0,True,False,Casa
+306,M-1978-37,1978,third-place match,Brazil,2,1,True,False,Casa
+307,M-1978-38,1978,final,Argentina,3,1,True,False,Casa
+308,M-1982-01,1982,group stage,Argentina,0,1,False,False,Casa
+309,M-1982-02,1982,group stage,Italy,0,0,False,True,Casa
+310,M-1982-03,1982,group stage,Brazil,2,1,True,False,Casa
+311,M-1982-04,1982,group stage,Peru,0,0,False,True,Casa
+312,M-1982-05,1982,group stage,Hungary,10,1,True,False,Casa
+313,M-1982-06,1982,group stage,Scotland,5,2,True,False,Casa
+314,M-1982-07,1982,group stage,West Germany,1,2,False,False,Casa
+315,M-1982-08,1982,group stage,England,3,1,True,False,Casa
+316,M-1982-09,1982,group stage,Spain,1,1,False,True,Casa
+317,M-1982-10,1982,group stage,Chile,0,1,False,False,Casa
+318,M-1982-11,1982,group stage,Czechoslovakia,1,1,False,True,Casa
+319,M-1982-12,1982,group stage,Yugoslavia,0,0,False,True,Casa
+320,M-1982-13,1982,group stage,Italy,1,1,False,True,Casa
+321,M-1982-14,1982,group stage,Argentina,4,1,True,False,Casa
+322,M-1982-15,1982,group stage,Brazil,4,1,True,False,Casa
+323,M-1982-16,1982,group stage,Poland,0,0,False,True,Casa
+324,M-1982-17,1982,group stage,Belgium,1,0,True,False,Casa
+325,M-1982-18,1982,group stage,Soviet Union,3,0,True,False,Casa
+326,M-1982-19,1982,group stage,West Germany,4,1,True,False,Casa
+327,M-1982-20,1982,group stage,England,2,0,True,False,Casa
+328,M-1982-21,1982,group stage,Spain,2,1,True,False,Casa
+329,M-1982-22,1982,group stage,Algeria,0,2,False,False,Casa
+330,M-1982-23,1982,group stage,France,4,1,True,False,Casa
+331,M-1982-24,1982,group stage,Honduras,1,1,False,True,Casa
+332,M-1982-25,1982,group stage,Poland,5,1,True,False,Casa
+333,M-1982-26,1982,group stage,Belgium,1,1,False,True,Casa
+334,M-1982-27,1982,group stage,Soviet Union,2,2,False,True,Casa
+335,M-1982-28,1982,group stage,Italy,1,1,False,True,Casa
+336,M-1982-29,1982,group stage,Argentina,2,0,True,False,Casa
+337,M-1982-30,1982,group stage,Brazil,4,0,True,False,Casa
+338,M-1982-31,1982,group stage,Algeria,3,2,True,False,Casa
+339,M-1982-32,1982,group stage,France,1,1,False,True,Casa
+340,M-1982-33,1982,group stage,Honduras,0,1,False,False,Casa
+341,M-1982-34,1982,group stage,West Germany,1,0,True,False,Casa
+342,M-1982-35,1982,group stage,England,1,0,True,False,Casa
+343,M-1982-36,1982,group stage,Spain,0,1,False,False,Casa
+344,M-1982-37,1982,second group stage,Austria,0,1,False,False,Casa
+345,M-1982-38,1982,second group stage,Poland,3,0,True,False,Casa
+346,M-1982-39,1982,second group stage,Italy,2,1,True,False,Casa
+347,M-1982-40,1982,second group stage,West Germany,0,0,False,True,Casa
+348,M-1982-41,1982,second group stage,Austria,2,2,False,True,Casa
+349,M-1982-42,1982,second group stage,Belgium,0,1,False,False,Casa
+350,M-1982-43,1982,second group stage,Argentina,1,3,False,False,Casa
+351,M-1982-44,1982,second group stage,West Germany,2,1,True,False,Casa
+352,M-1982-45,1982,second group stage,France,4,1,True,False,Casa
+353,M-1982-46,1982,second group stage,Soviet Union,0,0,False,True,Casa
+354,M-1982-47,1982,second group stage,Italy,3,2,True,False,Casa
+355,M-1982-48,1982,second group stage,Spain,0,0,False,True,Casa
+356,M-1982-49,1982,semi-finals,Poland,0,2,False,False,Casa
+357,M-1982-50,1982,semi-finals,West Germany,3,3,False,True,Casa
+358,M-1982-51,1982,third-place match,Poland,3,2,True,False,Casa
+359,M-1982-52,1982,final,Italy,3,1,True,False,Casa
+360,M-1986-01,1986,group stage,Bulgaria,1,1,False,True,Casa
+361,M-1986-02,1986,group stage,Spain,0,1,False,False,Casa
+362,M-1986-03,1986,group stage,Canada,0,1,False,False,Casa
+363,M-1986-04,1986,group stage,Argentina,3,1,True,False,Casa
+364,M-1986-05,1986,group stage,Soviet Union,6,0,True,False,Casa
+365,M-1986-06,1986,group stage,Morocco,0,0,False,True,Casa
+366,M-1986-07,1986,group stage,Belgium,1,2,False,False,Casa
+367,M-1986-08,1986,group stage,Algeria,1,1,False,True,Casa
+368,M-1986-09,1986,group stage,Portugal,1,0,True,False,Casa
+369,M-1986-10,1986,group stage,Paraguay,1,0,True,False,Casa
+370,M-1986-11,1986,group stage,Uruguay,1,1,False,True,Casa
+371,M-1986-12,1986,group stage,Scotland,0,1,False,False,Casa
+372,M-1986-13,1986,group stage,Italy,1,1,False,True,Casa
+373,M-1986-14,1986,group stage,France,1,1,False,True,Casa
+374,M-1986-15,1986,group stage,South Korea,1,1,False,True,Casa
+375,M-1986-16,1986,group stage,Hungary,2,0,True,False,Casa
+376,M-1986-17,1986,group stage,Brazil,1,0,True,False,Casa
+377,M-1986-18,1986,group stage,England,0,0,False,True,Casa
+378,M-1986-19,1986,group stage,Mexico,1,1,False,True,Casa
+379,M-1986-20,1986,group stage,Northern Ireland,1,2,False,False,Casa
+380,M-1986-21,1986,group stage,Poland,1,0,True,False,Casa
+381,M-1986-22,1986,group stage,Iraq,1,2,False,False,Casa
+382,M-1986-23,1986,group stage,West Germany,2,1,True,False,Casa
+383,M-1986-24,1986,group stage,Denmark,6,1,True,False,Casa
+384,M-1986-25,1986,group stage,Hungary,0,3,False,False,Casa
+385,M-1986-26,1986,group stage,Soviet Union,2,0,True,False,Casa
+386,M-1986-27,1986,group stage,Argentina,2,0,True,False,Casa
+387,M-1986-28,1986,group stage,South Korea,2,3,False,False,Casa
+388,M-1986-29,1986,group stage,Iraq,0,1,False,False,Casa
+389,M-1986-30,1986,group stage,Paraguay,2,2,False,True,Casa
+390,M-1986-31,1986,group stage,England,3,0,True,False,Casa
+391,M-1986-32,1986,group stage,Portugal,1,3,False,False,Casa
+392,M-1986-33,1986,group stage,Algeria,0,3,False,False,Casa
+393,M-1986-34,1986,group stage,Northern Ireland,0,3,False,False,Casa
+394,M-1986-35,1986,group stage,Denmark,2,0,True,False,Casa
+395,M-1986-36,1986,group stage,Scotland,0,0,False,True,Casa
+396,M-1986-37,1986,round of 16,Mexico,2,0,True,False,Casa
+397,M-1986-38,1986,round of 16,Soviet Union,3,4,False,False,Casa
+398,M-1986-39,1986,round of 16,Brazil,4,0,True,False,Casa
+399,M-1986-40,1986,round of 16,Argentina,1,0,True,False,Casa
+400,M-1986-41,1986,round of 16,Italy,0,2,False,False,Casa
+401,M-1986-42,1986,round of 16,Morocco,0,1,False,False,Casa
+402,M-1986-43,1986,round of 16,England,3,0,True,False,Casa
+403,M-1986-44,1986,round of 16,Denmark,1,5,False,False,Casa
+404,M-1986-45,1986,quarter-finals,Brazil,1,1,False,True,Casa
+405,M-1986-46,1986,quarter-finals,West Germany,0,0,False,True,Casa
+406,M-1986-47,1986,quarter-finals,Argentina,2,1,True,False,Casa
+407,M-1986-48,1986,quarter-finals,Spain,1,1,False,True,Casa
+408,M-1986-49,1986,semi-finals,France,0,2,False,False,Casa
+409,M-1986-50,1986,semi-finals,Argentina,2,0,True,False,Casa
+410,M-1986-51,1986,third-place match,Belgium,2,4,False,False,Casa
+411,M-1986-52,1986,final,Argentina,3,2,True,False,Casa
+412,M-1990-01,1990,group stage,Argentina,0,1,False,False,Casa
+413,M-1990-02,1990,group stage,Soviet Union,0,2,False,False,Casa
+414,M-1990-03,1990,group stage,United Arab Emirates,0,2,False,False,Casa
+415,M-1990-04,1990,group stage,Italy,1,0,True,False,Casa
+416,M-1990-05,1990,group stage,United States,1,5,False,False,Casa
+417,M-1990-06,1990,group stage,Brazil,2,1,True,False,Casa
+418,M-1990-07,1990,group stage,West Germany,4,1,True,False,Casa
+419,M-1990-08,1990,group stage,Costa Rica,1,0,True,False,Casa
+420,M-1990-09,1990,group stage,England,1,1,False,True,Casa
+421,M-1990-10,1990,group stage,Belgium,2,0,True,False,Casa
+422,M-1990-11,1990,group stage,Netherlands,1,1,False,True,Casa
+423,M-1990-12,1990,group stage,Uruguay,0,0,False,True,Casa
+424,M-1990-13,1990,group stage,Argentina,2,0,True,False,Casa
+425,M-1990-14,1990,group stage,Cameroon,2,1,True,False,Casa
+426,M-1990-15,1990,group stage,Yugoslavia,1,0,True,False,Casa
+427,M-1990-16,1990,group stage,Italy,1,0,True,False,Casa
+428,M-1990-17,1990,group stage,Austria,0,1,False,False,Casa
+429,M-1990-18,1990,group stage,West Germany,5,1,True,False,Casa
+430,M-1990-19,1990,group stage,Brazil,1,0,True,False,Casa
+431,M-1990-20,1990,group stage,Sweden,1,2,False,False,Casa
+432,M-1990-21,1990,group stage,England,0,0,False,True,Casa
+433,M-1990-22,1990,group stage,Republic of Ireland,0,0,False,True,Casa
+434,M-1990-23,1990,group stage,Belgium,3,1,True,False,Casa
+435,M-1990-24,1990,group stage,South Korea,1,3,False,False,Casa
+436,M-1990-25,1990,group stage,Argentina,1,1,False,True,Casa
+437,M-1990-26,1990,group stage,Cameroon,0,4,False,False,Casa
+438,M-1990-27,1990,group stage,West Germany,1,1,False,True,Casa
+439,M-1990-28,1990,group stage,Yugoslavia,4,1,True,False,Casa
+440,M-1990-29,1990,group stage,Austria,2,1,True,False,Casa
+441,M-1990-30,1990,group stage,Italy,2,0,True,False,Casa
+442,M-1990-31,1990,group stage,Brazil,1,0,True,False,Casa
+443,M-1990-32,1990,group stage,Sweden,1,2,False,False,Casa
+444,M-1990-33,1990,group stage,Belgium,1,2,False,False,Casa
+445,M-1990-34,1990,group stage,South Korea,0,1,False,False,Casa
+446,M-1990-35,1990,group stage,England,1,0,True,False,Casa
+447,M-1990-36,1990,group stage,Republic of Ireland,1,1,False,True,Casa
+448,M-1990-37,1990,round of 16,Cameroon,2,1,True,False,Casa
+449,M-1990-38,1990,round of 16,Czechoslovakia,4,1,True,False,Casa
+450,M-1990-39,1990,round of 16,Brazil,0,1,False,False,Casa
+451,M-1990-40,1990,round of 16,West Germany,2,1,True,False,Casa
+452,M-1990-41,1990,round of 16,Republic of Ireland,0,0,False,True,Casa
+453,M-1990-42,1990,round of 16,Italy,2,0,True,False,Casa
+454,M-1990-43,1990,round of 16,Spain,1,2,False,False,Casa
+455,M-1990-44,1990,round of 16,England,1,0,True,False,Casa
+456,M-1990-45,1990,quarter-finals,Argentina,0,0,False,True,Casa
+457,M-1990-46,1990,quarter-finals,Republic of Ireland,0,1,False,False,Casa
+458,M-1990-47,1990,quarter-finals,Czechoslovakia,0,1,False,False,Casa
+459,M-1990-48,1990,quarter-finals,Cameroon,2,3,False,False,Casa
+460,M-1990-49,1990,semi-finals,Argentina,1,1,False,True,Casa
+461,M-1990-50,1990,semi-finals,West Germany,1,1,False,True,Casa
+462,M-1990-51,1990,third-place match,Italy,2,1,True,False,Casa
+463,M-1990-52,1990,final,West Germany,1,0,True,False,Casa
+464,M-1991-01,1991,group stage,China,4,0,True,False,Casa
+465,M-1991-02,1991,group stage,Germany,4,0,True,False,Casa
+466,M-1991-03,1991,group stage,Denmark,3,0,True,False,Casa
+467,M-1991-04,1991,group stage,Japan,0,1,False,False,Casa
+468,M-1991-05,1991,group stage,Sweden,2,3,False,False,Casa
+469,M-1991-06,1991,group stage,Chinese Taipei,0,5,False,False,Casa
+470,M-1991-07,1991,group stage,Norway,4,0,True,False,Casa
+471,M-1991-08,1991,group stage,Italy,1,0,True,False,Casa
+472,M-1991-09,1991,group stage,China,2,2,False,True,Casa
+473,M-1991-10,1991,group stage,Brazil,0,5,False,False,Casa
+474,M-1991-11,1991,group stage,Japan,0,8,False,False,Casa
+475,M-1991-12,1991,group stage,Chinese Taipei,0,3,False,False,Casa
+476,M-1991-13,1991,group stage,Brazil,0,2,False,False,Casa
+477,M-1991-14,1991,group stage,Japan,0,3,False,False,Casa
+478,M-1991-15,1991,group stage,China,4,1,True,False,Casa
+479,M-1991-16,1991,group stage,Norway,2,1,True,False,Casa
+480,M-1991-17,1991,group stage,Chinese Taipei,2,0,True,False,Casa
+481,M-1991-18,1991,group stage,Italy,0,2,False,False,Casa
+482,M-1991-19,1991,quarter-final,Denmark,1,2,False,False,Casa
+483,M-1991-20,1991,quarter-final,China,0,1,False,False,Casa
+484,M-1991-21,1991,quarter-final,Norway,3,2,True,False,Casa
+485,M-1991-22,1991,quarter-final,United States,7,0,True,False,Casa
+486,M-1991-23,1991,semi-final,Sweden,1,4,False,False,Casa
+487,M-1991-24,1991,semi-final,Germany,2,5,False,False,Casa
+488,M-1991-25,1991,third-place match,Sweden,4,0,True,False,Casa
+489,M-1991-26,1991,final,Norway,1,2,False,False,Casa
+490,M-1994-01,1994,group stage,Germany,1,0,True,False,Casa
+491,M-1994-02,1994,group stage,Spain,2,2,False,True,Casa
+492,M-1994-03,1994,group stage,United States,1,1,False,True,Casa
+493,M-1994-04,1994,group stage,Italy,0,1,False,False,Casa
+494,M-1994-05,1994,group stage,Colombia,1,3,False,False,Casa
+495,M-1994-06,1994,group stage,Belgium,1,0,True,False,Casa
+496,M-1994-07,1994,group stage,Norway,1,0,True,False,Casa
+497,M-1994-08,1994,group stage,Cameroon,2,2,False,True,Casa
+498,M-1994-09,1994,group stage,Brazil,2,0,True,False,Casa
+499,M-1994-10,1994,group stage,Netherlands,2,1,True,False,Casa
+500,M-1994-11,1994,group stage,Argentina,4,0,True,False,Casa
+501,M-1994-12,1994,group stage,Germany,1,1,False,True,Casa
+502,M-1994-13,1994,group stage,Nigeria,3,0,True,False,Casa
+503,M-1994-14,1994,group stage,Romania,1,4,False,False,Casa
+504,M-1994-15,1994,group stage,United States,2,1,True,False,Casa
+505,M-1994-16,1994,group stage,Italy,1,0,True,False,Casa
+506,M-1994-17,1994,group stage,South Korea,0,0,False,True,Casa
+507,M-1994-18,1994,group stage,Mexico,2,1,True,False,Casa
+508,M-1994-19,1994,group stage,Brazil,3,0,True,False,Casa
+509,M-1994-20,1994,group stage,Sweden,3,1,True,False,Casa
+510,M-1994-21,1994,group stage,Belgium,1,0,True,False,Casa
+511,M-1994-22,1994,group stage,Saudi Arabia,2,1,True,False,Casa
+512,M-1994-23,1994,group stage,Argentina,2,1,True,False,Casa
+513,M-1994-24,1994,group stage,Bulgaria,4,0,True,False,Casa
+514,M-1994-25,1994,group stage,Switzerland,0,2,False,False,Casa
+515,M-1994-26,1994,group stage,United States,0,1,False,False,Casa
+516,M-1994-27,1994,group stage,Bolivia,1,3,False,False,Casa
+517,M-1994-28,1994,group stage,Germany,3,2,True,False,Casa
+518,M-1994-29,1994,group stage,Italy,1,1,False,True,Casa
+519,M-1994-30,1994,group stage,Republic of Ireland,0,0,False,True,Casa
+520,M-1994-31,1994,group stage,Russia,6,1,True,False,Casa
+521,M-1994-32,1994,group stage,Brazil,1,1,False,True,Casa
+522,M-1994-33,1994,group stage,Belgium,0,1,False,False,Casa
+523,M-1994-34,1994,group stage,Morocco,1,2,False,False,Casa
+524,M-1994-35,1994,group stage,Argentina,0,2,False,False,Casa
+525,M-1994-36,1994,group stage,Greece,0,2,False,False,Casa
+526,M-1994-37,1994,round of 16,Germany,3,2,True,False,Casa
+527,M-1994-38,1994,round of 16,Spain,3,0,True,False,Casa
+528,M-1994-39,1994,round of 16,Saudi Arabia,1,3,False,False,Casa
+529,M-1994-40,1994,round of 16,Romania,3,2,True,False,Casa
+530,M-1994-41,1994,round of 16,Netherlands,2,0,True,False,Casa
+531,M-1994-42,1994,round of 16,Brazil,1,0,True,False,Casa
+532,M-1994-43,1994,round of 16,Nigeria,1,2,False,False,Casa
+533,M-1994-44,1994,round of 16,Mexico,1,1,False,True,Casa
+534,M-1994-45,1994,quarter-finals,Italy,2,1,True,False,Casa
+535,M-1994-46,1994,quarter-finals,Netherlands,2,3,False,False,Casa
+536,M-1994-47,1994,quarter-finals,Bulgaria,2,1,True,False,Casa
+537,M-1994-48,1994,quarter-finals,Romania,2,2,False,True,Casa
+538,M-1994-49,1994,semi-finals,Bulgaria,1,2,False,False,Casa
+539,M-1994-50,1994,semi-finals,Sweden,0,1,False,False,Casa
+540,M-1994-51,1994,third-place match,Sweden,4,0,True,False,Casa
+541,M-1994-52,1994,final,Brazil,0,0,False,True,Casa
+542,M-1995-01,1995,group stage,Germany,1,0,True,False,Casa
+543,M-1995-02,1995,group stage,Sweden,0,1,False,False,Casa
+544,M-1995-03,1995,group stage,England,3,2,True,False,Casa
+545,M-1995-04,1995,group stage,Norway,8,0,True,False,Casa
+546,M-1995-05,1995,group stage,Denmark,5,0,True,False,Casa
+547,M-1995-06,1995,group stage,United States,3,3,False,True,Casa
+548,M-1995-07,1995,group stage,Brazil,1,2,False,False,Casa
+549,M-1995-08,1995,group stage,Sweden,3,2,True,False,Casa
+550,M-1995-09,1995,group stage,Nigeria,3,3,False,True,Casa
+551,M-1995-10,1995,group stage,Norway,2,0,True,False,Casa
+552,M-1995-11,1995,group stage,China,4,2,True,False,Casa
+553,M-1995-12,1995,group stage,United States,2,0,True,False,Casa
+554,M-1995-13,1995,group stage,Brazil,1,6,False,False,Casa
+555,M-1995-14,1995,group stage,Sweden,2,0,True,False,Casa
+556,M-1995-15,1995,group stage,Nigeria,2,3,False,False,Casa
+557,M-1995-16,1995,group stage,Norway,7,0,True,False,Casa
+558,M-1995-17,1995,group stage,China,3,1,True,False,Casa
+559,M-1995-18,1995,group stage,United States,4,1,True,False,Casa
+560,M-1995-19,1995,quarter-final,Japan,0,4,False,False,Casa
+561,M-1995-20,1995,quarter-final,Norway,3,1,True,False,Casa
+562,M-1995-21,1995,quarter-final,Germany,3,0,True,False,Casa
+563,M-1995-22,1995,quarter-final,Sweden,1,1,False,True,Casa
+564,M-1995-23,1995,semi-final,United States,0,1,False,False,Casa
+565,M-1995-24,1995,semi-final,Germany,1,0,True,False,Casa
+566,M-1995-25,1995,third-place match,China,0,2,False,False,Casa
+567,M-1995-26,1995,final,Germany,0,2,False,False,Casa
+568,M-1998-01,1998,group stage,Brazil,2,1,True,False,Casa
+569,M-1998-02,1998,group stage,Morocco,2,2,False,True,Casa
+570,M-1998-03,1998,group stage,Italy,2,2,False,True,Casa
+571,M-1998-04,1998,group stage,Cameroon,1,1,False,True,Casa
+572,M-1998-05,1998,group stage,Paraguay,0,0,False,True,Casa
+573,M-1998-06,1998,group stage,Saudi Arabia,0,1,False,False,Casa
+574,M-1998-07,1998,group stage,France,3,0,True,False,Casa
+575,M-1998-08,1998,group stage,Spain,2,3,False,False,Casa
+576,M-1998-09,1998,group stage,South Korea,1,3,False,False,Casa
+577,M-1998-10,1998,group stage,Netherlands,0,0,False,True,Casa
+578,M-1998-11,1998,group stage,Argentina,1,0,True,False,Casa
+579,M-1998-12,1998,group stage,Yugoslavia,1,0,True,False,Casa
+580,M-1998-13,1998,group stage,Jamaica,1,3,False,False,Casa
+581,M-1998-14,1998,group stage,England,2,0,True,False,Casa
+582,M-1998-15,1998,group stage,Romania,1,0,True,False,Casa
+583,M-1998-16,1998,group stage,Germany,2,0,True,False,Casa
+584,M-1998-17,1998,group stage,Scotland,1,1,False,True,Casa
+585,M-1998-18,1998,group stage,Brazil,3,0,True,False,Casa
+586,M-1998-19,1998,group stage,Chile,1,1,False,True,Casa
+587,M-1998-20,1998,group stage,Italy,3,0,True,False,Casa
+588,M-1998-21,1998,group stage,South Africa,1,1,False,True,Casa
+589,M-1998-22,1998,group stage,France,4,0,True,False,Casa
+590,M-1998-23,1998,group stage,Nigeria,1,0,True,False,Casa
+591,M-1998-24,1998,group stage,Spain,0,0,False,True,Casa
+592,M-1998-25,1998,group stage,Japan,0,1,False,False,Casa
+593,M-1998-26,1998,group stage,Belgium,2,2,False,True,Casa
+594,M-1998-27,1998,group stage,Netherlands,5,0,True,False,Casa
+595,M-1998-28,1998,group stage,Germany,2,2,False,True,Casa
+596,M-1998-29,1998,group stage,Argentina,5,0,True,False,Casa
+597,M-1998-30,1998,group stage,United States,1,2,False,False,Casa
+598,M-1998-31,1998,group stage,Colombia,1,0,True,False,Casa
+599,M-1998-32,1998,group stage,Romania,2,1,True,False,Casa
+600,M-1998-33,1998,group stage,Chile,1,1,False,True,Casa
+601,M-1998-34,1998,group stage,Italy,2,1,True,False,Casa
+602,M-1998-35,1998,group stage,Brazil,1,2,False,False,Casa
+603,M-1998-36,1998,group stage,Scotland,0,3,False,False,Casa
+604,M-1998-37,1998,group stage,France,2,1,True,False,Casa
+605,M-1998-38,1998,group stage,South Africa,2,2,False,True,Casa
+606,M-1998-39,1998,group stage,Nigeria,1,3,False,False,Casa
+607,M-1998-40,1998,group stage,Spain,6,1,True,False,Casa
+608,M-1998-41,1998,group stage,Belgium,1,1,False,True,Casa
+609,M-1998-42,1998,group stage,Netherlands,2,2,False,True,Casa
+610,M-1998-43,1998,group stage,Germany,2,0,True,False,Casa
+611,M-1998-44,1998,group stage,United States,0,1,False,False,Casa
+612,M-1998-45,1998,group stage,Argentina,1,0,True,False,Casa
+613,M-1998-46,1998,group stage,Japan,1,2,False,False,Casa
+614,M-1998-47,1998,group stage,Colombia,0,2,False,False,Casa
+615,M-1998-48,1998,group stage,Romania,1,1,False,True,Casa
+616,M-1998-49,1998,round of 16,Italy,1,0,True,False,Casa
+617,M-1998-50,1998,round of 16,Brazil,4,1,True,False,Casa
+618,M-1998-51,1998,round of 16,France,1,0,True,False,Casa
+619,M-1998-52,1998,round of 16,Nigeria,1,4,False,False,Casa
+620,M-1998-53,1998,round of 16,Germany,2,1,True,False,Casa
+621,M-1998-54,1998,round of 16,Netherlands,2,1,True,False,Casa
+622,M-1998-55,1998,round of 16,Romania,0,1,False,False,Casa
+623,M-1998-56,1998,round of 16,Argentina,2,2,False,True,Casa
+624,M-1998-57,1998,quarter-finals,Italy,0,0,False,True,Casa
+625,M-1998-58,1998,quarter-finals,Brazil,3,2,True,False,Casa
+626,M-1998-59,1998,quarter-finals,Netherlands,2,1,True,False,Casa
+627,M-1998-60,1998,quarter-finals,Germany,0,3,False,False,Casa
+628,M-1998-61,1998,semi-finals,Brazil,1,1,False,True,Casa
+629,M-1998-62,1998,semi-finals,France,2,1,True,False,Casa
+630,M-1998-63,1998,third-place match,Netherlands,1,2,False,False,Casa
+631,M-1998-64,1998,final,Brazil,0,3,False,False,Casa
+632,M-1999-01,1999,group stage,United States,3,0,True,False,Casa
+633,M-1999-02,1999,group stage,China,2,1,True,False,Casa
+634,M-1999-03,1999,group stage,Brazil,7,1,True,False,Casa
+635,M-1999-04,1999,group stage,Japan,1,1,False,True,Casa
+636,M-1999-05,1999,group stage,Germany,1,1,False,True,Casa
+637,M-1999-06,1999,group stage,Norway,2,1,True,False,Casa
+638,M-1999-07,1999,group stage,North Korea,1,2,False,False,Casa
+639,M-1999-08,1999,group stage,Australia,1,1,False,True,Casa
+640,M-1999-09,1999,group stage,Japan,0,5,False,False,Casa
+641,M-1999-10,1999,group stage,Norway,7,1,True,False,Casa
+642,M-1999-11,1999,group stage,Australia,1,3,False,False,Casa
+643,M-1999-12,1999,group stage,China,7,0,True,False,Casa
+644,M-1999-13,1999,group stage,Brazil,2,0,True,False,Casa
+645,M-1999-14,1999,group stage,North Korea,3,1,True,False,Casa
+646,M-1999-15,1999,group stage,United States,7,1,True,False,Casa
+647,M-1999-16,1999,group stage,Germany,6,0,True,False,Casa
+648,M-1999-17,1999,group stage,Canada,1,4,False,False,Casa
+649,M-1999-18,1999,group stage,China,3,1,True,False,Casa
+650,M-1999-19,1999,group stage,Ghana,0,2,False,False,Casa
+651,M-1999-20,1999,group stage,Norway,4,0,True,False,Casa
+652,M-1999-21,1999,group stage,Germany,3,3,False,True,Casa
+653,M-1999-22,1999,group stage,Nigeria,2,0,True,False,Casa
+654,M-1999-23,1999,group stage,Mexico,0,2,False,False,Casa
+655,M-1999-24,1999,group stage,United States,3,0,True,False,Casa
+656,M-1999-25,1999,quarter-final,China,2,0,True,False,Casa
+657,M-1999-26,1999,quarter-final,Norway,3,1,True,False,Casa
+658,M-1999-27,1999,quarter-final,United States,3,2,True,False,Casa
+659,M-1999-28,1999,quarter-final,Brazil,4,3,True,False,Casa
+660,M-1999-29,1999,semi-final,United States,2,0,True,False,Casa
+661,M-1999-30,1999,semi-final,Norway,0,5,False,False,Casa
+662,M-1999-31,1999,third-place match,Brazil,0,0,False,True,Casa
+663,M-1999-32,1999,final,United States,0,0,False,True,Casa
+664,M-2002-01,2002,group stage,France,0,1,False,False,Casa
+665,M-2002-02,2002,group stage,Republic of Ireland,1,1,False,True,Casa
+666,M-2002-03,2002,group stage,Uruguay,1,2,False,False,Casa
+667,M-2002-04,2002,group stage,Germany,8,0,True,False,Casa
+668,M-2002-05,2002,group stage,Argentina,1,0,True,False,Casa
+669,M-2002-06,2002,group stage,Paraguay,2,2,False,True,Casa
+670,M-2002-07,2002,group stage,England,1,1,False,True,Casa
+671,M-2002-08,2002,group stage,Spain,3,1,True,False,Casa
+672,M-2002-09,2002,group stage,Croatia,0,1,False,False,Casa
+673,M-2002-10,2002,group stage,Brazil,2,1,True,False,Casa
+674,M-2002-11,2002,group stage,Italy,2,0,True,False,Casa
+675,M-2002-12,2002,group stage,China,0,2,False,False,Casa
+676,M-2002-13,2002,group stage,Japan,2,2,False,True,Casa
+677,M-2002-14,2002,group stage,South Korea,2,0,True,False,Casa
+678,M-2002-15,2002,group stage,Russia,2,0,True,False,Casa
+679,M-2002-16,2002,group stage,United States,3,2,True,False,Casa
+680,M-2002-17,2002,group stage,Germany,1,1,False,True,Casa
+681,M-2002-18,2002,group stage,Denmark,1,1,False,True,Casa
+682,M-2002-19,2002,group stage,Cameroon,1,0,True,False,Casa
+683,M-2002-20,2002,group stage,France,0,0,False,True,Casa
+684,M-2002-21,2002,group stage,Sweden,2,1,True,False,Casa
+685,M-2002-22,2002,group stage,Spain,3,1,True,False,Casa
+686,M-2002-23,2002,group stage,Argentina,0,1,False,False,Casa
+687,M-2002-24,2002,group stage,South Africa,1,0,True,False,Casa
+688,M-2002-25,2002,group stage,Italy,1,2,False,False,Casa
+689,M-2002-26,2002,group stage,Brazil,4,0,True,False,Casa
+690,M-2002-27,2002,group stage,Mexico,2,1,True,False,Casa
+691,M-2002-28,2002,group stage,Costa Rica,1,1,False,True,Casa
+692,M-2002-29,2002,group stage,Japan,1,0,True,False,Casa
+693,M-2002-30,2002,group stage,South Korea,1,1,False,True,Casa
+694,M-2002-31,2002,group stage,Tunisia,1,1,False,True,Casa
+695,M-2002-32,2002,group stage,Portugal,4,0,True,False,Casa
+696,M-2002-33,2002,group stage,Denmark,2,0,True,False,Casa
+697,M-2002-34,2002,group stage,Senegal,3,3,False,True,Casa
+698,M-2002-35,2002,group stage,Cameroon,0,2,False,False,Casa
+699,M-2002-36,2002,group stage,Saudi Arabia,0,3,False,False,Casa
+700,M-2002-37,2002,group stage,Nigeria,0,0,False,True,Casa
+701,M-2002-38,2002,group stage,Sweden,1,1,False,True,Casa
+702,M-2002-39,2002,group stage,Slovenia,1,3,False,False,Casa
+703,M-2002-40,2002,group stage,South Africa,2,3,False,False,Casa
+704,M-2002-41,2002,group stage,Costa Rica,2,5,False,False,Casa
+705,M-2002-42,2002,group stage,Turkey,3,0,True,False,Casa
+706,M-2002-43,2002,group stage,Ecuador,1,0,True,False,Casa
+707,M-2002-44,2002,group stage,Mexico,1,1,False,True,Casa
+708,M-2002-45,2002,group stage,Belgium,3,2,True,False,Casa
+709,M-2002-46,2002,group stage,Tunisia,0,2,False,False,Casa
+710,M-2002-47,2002,group stage,Poland,3,1,True,False,Casa
+711,M-2002-48,2002,group stage,Portugal,0,1,False,False,Casa
+712,M-2002-49,2002,round of 16,Germany,1,0,True,False,Casa
+713,M-2002-50,2002,round of 16,Denmark,0,3,False,False,Casa
+714,M-2002-51,2002,round of 16,Sweden,1,2,False,False,Casa
+715,M-2002-52,2002,round of 16,Spain,1,1,False,True,Casa
+716,M-2002-53,2002,round of 16,Mexico,0,2,False,False,Casa
+717,M-2002-54,2002,round of 16,Brazil,2,0,True,False,Casa
+718,M-2002-55,2002,round of 16,Japan,0,1,False,False,Casa
+719,M-2002-56,2002,round of 16,South Korea,2,1,True,False,Casa
+720,M-2002-57,2002,quarter-finals,England,1,2,False,False,Casa
+721,M-2002-58,2002,quarter-finals,Germany,1,0,True,False,Casa
+722,M-2002-59,2002,quarter-finals,Spain,0,0,False,True,Casa
+723,M-2002-60,2002,quarter-finals,Senegal,0,1,False,False,Casa
+724,M-2002-61,2002,semi-finals,Germany,1,0,True,False,Casa
+725,M-2002-62,2002,semi-finals,Brazil,1,0,True,False,Casa
+726,M-2002-63,2002,third-place match,South Korea,2,3,False,False,Casa
+727,M-2002-64,2002,final,Germany,0,2,False,False,Casa
+728,M-2003-01,2003,group stage,Norway,2,0,True,False,Casa
+729,M-2003-02,2003,group stage,Nigeria,0,3,False,False,Casa
+730,M-2003-03,2003,group stage,Germany,4,1,True,False,Casa
+731,M-2003-04,2003,group stage,Japan,6,0,True,False,Casa
+732,M-2003-05,2003,group stage,United States,3,1,True,False,Casa
+733,M-2003-06,2003,group stage,Brazil,3,0,True,False,Casa
+734,M-2003-07,2003,group stage,Australia,1,2,False,False,Casa
+735,M-2003-08,2003,group stage,China,1,0,True,False,Casa
+736,M-2003-09,2003,group stage,Norway,1,4,False,False,Casa
+737,M-2003-10,2003,group stage,Germany,3,0,True,False,Casa
+738,M-2003-11,2003,group stage,France,1,0,True,False,Casa
+739,M-2003-12,2003,group stage,Canada,3,0,True,False,Casa
+740,M-2003-13,2003,group stage,Ghana,0,3,False,False,Casa
+741,M-2003-14,2003,group stage,Sweden,1,0,True,False,Casa
+742,M-2003-15,2003,group stage,China,1,1,False,True,Casa
+743,M-2003-16,2003,group stage,United States,5,0,True,False,Casa
+744,M-2003-17,2003,group stage,France,1,1,False,True,Casa
+745,M-2003-18,2003,group stage,South Korea,1,7,False,False,Casa
+746,M-2003-19,2003,group stage,Argentina,1,6,False,False,Casa
+747,M-2003-20,2003,group stage,Canada,3,1,True,False,Casa
+748,M-2003-21,2003,group stage,Sweden,3,0,True,False,Casa
+749,M-2003-22,2003,group stage,North Korea,0,3,False,False,Casa
+750,M-2003-23,2003,group stage,Ghana,2,1,True,False,Casa
+751,M-2003-24,2003,group stage,China,1,0,True,False,Casa
+752,M-2003-25,2003,quarter-final,Brazil,1,2,False,False,Casa
+753,M-2003-26,2003,quarter-final,United States,1,0,True,False,Casa
+754,M-2003-27,2003,quarter-final,Germany,7,1,True,False,Casa
+755,M-2003-28,2003,quarter-final,China,0,1,False,False,Casa
+756,M-2003-29,2003,semi-final,United States,0,3,False,False,Casa
+757,M-2003-30,2003,semi-final,Sweden,2,1,True,False,Casa
+758,M-2003-31,2003,third-place match,United States,3,1,True,False,Casa
+759,M-2003-32,2003,final,Germany,2,1,True,False,Casa
+760,M-2006-01,2006,group stage,Germany,4,2,True,False,Casa
+761,M-2006-02,2006,group stage,Poland,0,2,False,False,Casa
+762,M-2006-03,2006,group stage,England,1,0,True,False,Casa
+763,M-2006-04,2006,group stage,Trinidad and Tobago,0,0,False,True,Casa
+764,M-2006-05,2006,group stage,Argentina,2,1,True,False,Casa
+765,M-2006-06,2006,group stage,Serbia and Montenegro,0,1,False,False,Casa
+766,M-2006-07,2006,group stage,Mexico,3,1,True,False,Casa
+767,M-2006-08,2006,group stage,Angola,0,1,False,False,Casa
+768,M-2006-09,2006,group stage,Australia,3,1,True,False,Casa
+769,M-2006-10,2006,group stage,United States,0,3,False,False,Casa
+770,M-2006-11,2006,group stage,Italy,2,0,True,False,Casa
+771,M-2006-12,2006,group stage,South Korea,2,1,True,False,Casa
+772,M-2006-13,2006,group stage,France,0,0,False,True,Casa
+773,M-2006-14,2006,group stage,Brazil,1,0,True,False,Casa
+774,M-2006-15,2006,group stage,Spain,4,0,True,False,Casa
+775,M-2006-16,2006,group stage,Tunisia,2,2,False,True,Casa
+776,M-2006-17,2006,group stage,Germany,1,0,True,False,Casa
+777,M-2006-18,2006,group stage,Ecuador,3,0,True,False,Casa
+778,M-2006-19,2006,group stage,England,2,0,True,False,Casa
+779,M-2006-20,2006,group stage,Sweden,1,0,True,False,Casa
+780,M-2006-21,2006,group stage,Argentina,6,0,True,False,Casa
+781,M-2006-22,2006,group stage,Netherlands,2,1,True,False,Casa
+782,M-2006-23,2006,group stage,Mexico,0,0,False,True,Casa
+783,M-2006-24,2006,group stage,Portugal,2,0,True,False,Casa
+784,M-2006-25,2006,group stage,Czech Republic,0,2,False,False,Casa
+785,M-2006-26,2006,group stage,Italy,1,1,False,True,Casa
+786,M-2006-27,2006,group stage,Japan,0,0,False,True,Casa
+787,M-2006-28,2006,group stage,Brazil,2,0,True,False,Casa
+788,M-2006-29,2006,group stage,France,1,1,False,True,Casa
+789,M-2006-30,2006,group stage,Togo,0,2,False,False,Casa
+790,M-2006-31,2006,group stage,Saudi Arabia,0,4,False,False,Casa
+791,M-2006-32,2006,group stage,Spain,3,1,True,False,Casa
+792,M-2006-33,2006,group stage,Costa Rica,1,2,False,False,Casa
+793,M-2006-34,2006,group stage,Ecuador,0,3,False,False,Casa
+794,M-2006-35,2006,group stage,Paraguay,2,0,True,False,Casa
+795,M-2006-36,2006,group stage,Sweden,2,2,False,True,Casa
+796,M-2006-37,2006,group stage,Iran,1,1,False,True,Casa
+797,M-2006-38,2006,group stage,Portugal,2,1,True,False,Casa
+798,M-2006-39,2006,group stage,Ivory Coast,3,2,True,False,Casa
+799,M-2006-40,2006,group stage,Netherlands,0,0,False,True,Casa
+800,M-2006-41,2006,group stage,Czech Republic,0,2,False,False,Casa
+801,M-2006-42,2006,group stage,Ghana,2,1,True,False,Casa
+802,M-2006-43,2006,group stage,Croatia,2,2,False,True,Casa
+803,M-2006-44,2006,group stage,Japan,1,4,False,False,Casa
+804,M-2006-45,2006,group stage,Saudi Arabia,0,1,False,False,Casa
+805,M-2006-46,2006,group stage,Ukraine,1,0,True,False,Casa
+806,M-2006-47,2006,group stage,Switzerland,2,0,True,False,Casa
+807,M-2006-48,2006,group stage,Togo,0,2,False,False,Casa
+808,M-2006-49,2006,round of 16,Germany,2,0,True,False,Casa
+809,M-2006-50,2006,round of 16,Argentina,2,1,True,False,Casa
+810,M-2006-51,2006,round of 16,England,1,0,True,False,Casa
+811,M-2006-52,2006,round of 16,Portugal,1,0,True,False,Casa
+812,M-2006-53,2006,round of 16,Italy,1,0,True,False,Casa
+813,M-2006-54,2006,round of 16,Switzerland,0,0,False,True,Casa
+814,M-2006-55,2006,round of 16,Brazil,3,0,True,False,Casa
+815,M-2006-56,2006,round of 16,Spain,1,3,False,False,Casa
+816,M-2006-57,2006,quarter-finals,Germany,1,1,False,True,Casa
+817,M-2006-58,2006,quarter-finals,Italy,3,0,True,False,Casa
+818,M-2006-59,2006,quarter-finals,England,0,0,False,True,Casa
+819,M-2006-60,2006,quarter-finals,Brazil,0,1,False,False,Casa
+820,M-2006-61,2006,semi-finals,Germany,0,2,False,False,Casa
+821,M-2006-62,2006,semi-finals,Portugal,0,1,False,False,Casa
+822,M-2006-63,2006,third-place match,Germany,3,1,True,False,Casa
+823,M-2006-64,2006,final,Italy,1,1,False,True,Casa
+824,M-2007-01,2007,group stage,Germany,11,0,True,False,Casa
+825,M-2007-02,2007,group stage,United States,2,2,False,True,Casa
+826,M-2007-03,2007,group stage,Japan,2,2,False,True,Casa
+827,M-2007-04,2007,group stage,Nigeria,1,1,False,True,Casa
+828,M-2007-05,2007,group stage,Ghana,1,4,False,False,Casa
+829,M-2007-06,2007,group stage,New Zealand,0,5,False,False,Casa
+830,M-2007-07,2007,group stage,Norway,2,1,True,False,Casa
+831,M-2007-08,2007,group stage,China,3,2,True,False,Casa
+832,M-2007-09,2007,group stage,Argentina,0,1,False,False,Casa
+833,M-2007-10,2007,group stage,Sweden,0,2,False,False,Casa
+834,M-2007-11,2007,group stage,England,0,0,False,True,Casa
+835,M-2007-12,2007,group stage,North Korea,2,0,True,False,Casa
+836,M-2007-13,2007,group stage,Canada,4,0,True,False,Casa
+837,M-2007-14,2007,group stage,Denmark,2,0,True,False,Casa
+838,M-2007-15,2007,group stage,Australia,1,1,False,True,Casa
+839,M-2007-16,2007,group stage,Brazil,4,0,True,False,Casa
+840,M-2007-17,2007,group stage,England,6,1,True,False,Casa
+841,M-2007-18,2007,group stage,Germany,2,0,True,False,Casa
+842,M-2007-19,2007,group stage,Nigeria,0,1,False,False,Casa
+843,M-2007-20,2007,group stage,North Korea,1,2,False,False,Casa
+844,M-2007-21,2007,group stage,Australia,2,2,False,True,Casa
+845,M-2007-22,2007,group stage,Norway,7,2,True,False,Casa
+846,M-2007-23,2007,group stage,Brazil,1,0,True,False,Casa
+847,M-2007-24,2007,group stage,China,2,0,True,False,Casa
+848,M-2007-25,2007,quarter-final,Germany,3,0,True,False,Casa
+849,M-2007-26,2007,quarter-final,United States,3,0,True,False,Casa
+850,M-2007-27,2007,quarter-final,Norway,1,0,True,False,Casa
+851,M-2007-28,2007,quarter-final,Brazil,3,2,True,False,Casa
+852,M-2007-29,2007,semi-final,Germany,3,0,True,False,Casa
+853,M-2007-30,2007,semi-final,United States,0,4,False,False,Casa
+854,M-2007-31,2007,third-place match,Norway,1,4,False,False,Casa
+855,M-2007-32,2007,final,Germany,2,0,True,False,Casa
+856,M-2010-01,2010,group stage,South Africa,1,1,False,True,Casa
+857,M-2010-02,2010,group stage,Uruguay,0,0,False,True,Casa
+858,M-2010-03,2010,group stage,South Korea,2,0,True,False,Casa
+859,M-2010-04,2010,group stage,Argentina,1,0,True,False,Casa
+860,M-2010-05,2010,group stage,England,1,1,False,True,Casa
+861,M-2010-06,2010,group stage,Algeria,0,1,False,False,Casa
+862,M-2010-07,2010,group stage,Serbia,0,1,False,False,Casa
+863,M-2010-08,2010,group stage,Germany,4,0,True,False,Casa
+864,M-2010-09,2010,group stage,Netherlands,2,0,True,False,Casa
+865,M-2010-10,2010,group stage,Japan,1,0,True,False,Casa
+866,M-2010-11,2010,group stage,Italy,1,1,False,True,Casa
+867,M-2010-12,2010,group stage,New Zealand,1,1,False,True,Casa
+868,M-2010-13,2010,group stage,Ivory Coast,0,0,False,True,Casa
+869,M-2010-14,2010,group stage,Brazil,2,1,True,False,Casa
+870,M-2010-15,2010,group stage,Honduras,0,1,False,False,Casa
+871,M-2010-16,2010,group stage,Spain,0,1,False,False,Casa
+872,M-2010-17,2010,group stage,South Africa,0,3,False,False,Casa
+873,M-2010-18,2010,group stage,Argentina,4,1,True,False,Casa
+874,M-2010-19,2010,group stage,Greece,2,1,True,False,Casa
+875,M-2010-20,2010,group stage,France,0,2,False,False,Casa
+876,M-2010-21,2010,group stage,Germany,0,1,False,False,Casa
+877,M-2010-22,2010,group stage,Slovenia,2,2,False,True,Casa
+878,M-2010-23,2010,group stage,England,0,0,False,True,Casa
+879,M-2010-24,2010,group stage,Netherlands,1,0,True,False,Casa
+880,M-2010-25,2010,group stage,Ghana,1,1,False,True,Casa
+881,M-2010-26,2010,group stage,Cameroon,1,2,False,False,Casa
+882,M-2010-27,2010,group stage,Slovakia,0,2,False,False,Casa
+883,M-2010-28,2010,group stage,Italy,1,1,False,True,Casa
+884,M-2010-29,2010,group stage,Brazil,3,1,True,False,Casa
+885,M-2010-30,2010,group stage,Portugal,7,0,True,False,Casa
+886,M-2010-31,2010,group stage,Chile,1,0,True,False,Casa
+887,M-2010-32,2010,group stage,Spain,2,0,True,False,Casa
+888,M-2010-33,2010,group stage,France,1,2,False,False,Casa
+889,M-2010-34,2010,group stage,Mexico,0,1,False,False,Casa
+890,M-2010-35,2010,group stage,Greece,0,2,False,False,Casa
+891,M-2010-36,2010,group stage,Nigeria,2,2,False,True,Casa
+892,M-2010-37,2010,group stage,Slovenia,0,1,False,False,Casa
+893,M-2010-38,2010,group stage,United States,1,0,True,False,Casa
+894,M-2010-39,2010,group stage,Australia,2,1,True,False,Casa
+895,M-2010-40,2010,group stage,Ghana,0,1,False,False,Casa
+896,M-2010-41,2010,group stage,Paraguay,0,0,False,True,Casa
+897,M-2010-42,2010,group stage,Slovakia,3,2,True,False,Casa
+898,M-2010-43,2010,group stage,Cameroon,1,2,False,False,Casa
+899,M-2010-44,2010,group stage,Denmark,1,3,False,False,Casa
+900,M-2010-45,2010,group stage,North Korea,0,3,False,False,Casa
+901,M-2010-46,2010,group stage,Portugal,0,0,False,True,Casa
+902,M-2010-47,2010,group stage,Chile,1,2,False,False,Casa
+903,M-2010-48,2010,group stage,Switzerland,0,0,False,True,Casa
+904,M-2010-49,2010,round of 16,Uruguay,2,1,True,False,Casa
+905,M-2010-50,2010,round of 16,United States,1,2,False,False,Casa
+906,M-2010-51,2010,round of 16,Germany,4,1,True,False,Casa
+907,M-2010-52,2010,round of 16,Argentina,3,1,True,False,Casa
+908,M-2010-53,2010,round of 16,Netherlands,2,1,True,False,Casa
+909,M-2010-54,2010,round of 16,Brazil,3,0,True,False,Casa
+910,M-2010-55,2010,round of 16,Paraguay,0,0,False,True,Casa
+911,M-2010-56,2010,round of 16,Spain,1,0,True,False,Casa
+912,M-2010-57,2010,quarter-finals,Netherlands,2,1,True,False,Casa
+913,M-2010-58,2010,quarter-finals,Uruguay,1,1,False,True,Casa
+914,M-2010-59,2010,quarter-finals,Argentina,0,4,False,False,Casa
+915,M-2010-60,2010,quarter-finals,Paraguay,0,1,False,False,Casa
+916,M-2010-61,2010,semi-finals,Uruguay,2,3,False,False,Casa
+917,M-2010-62,2010,semi-finals,Germany,0,1,False,False,Casa
+918,M-2010-63,2010,third-place match,Uruguay,2,3,False,False,Casa
+919,M-2010-64,2010,final,Netherlands,0,1,False,False,Casa
+920,M-2011-01,2011,group stage,Nigeria,0,1,False,False,Casa
+921,M-2011-02,2011,group stage,Germany,2,1,True,False,Casa
+922,M-2011-03,2011,group stage,Japan,2,1,True,False,Casa
+923,M-2011-04,2011,group stage,Mexico,1,1,False,True,Casa
+924,M-2011-05,2011,group stage,Colombia,0,1,False,False,Casa
+925,M-2011-06,2011,group stage,United States,2,0,True,False,Casa
+926,M-2011-07,2011,group stage,Norway,1,0,True,False,Casa
+927,M-2011-08,2011,group stage,Brazil,1,0,True,False,Casa
+928,M-2011-09,2011,group stage,Canada,0,4,False,False,Casa
+929,M-2011-10,2011,group stage,Germany,1,0,True,False,Casa
+930,M-2011-11,2011,group stage,Japan,4,0,True,False,Casa
+931,M-2011-12,2011,group stage,New Zealand,1,2,False,False,Casa
+932,M-2011-13,2011,group stage,North Korea,0,1,False,False,Casa
+933,M-2011-14,2011,group stage,United States,3,0,True,False,Casa
+934,M-2011-15,2011,group stage,Australia,3,2,True,False,Casa
+935,M-2011-16,2011,group stage,Brazil,3,0,True,False,Casa
+936,M-2011-17,2011,group stage,England,2,0,True,False,Casa
+937,M-2011-18,2011,group stage,New Zealand,2,2,False,True,Casa
+938,M-2011-19,2011,group stage,Canada,0,1,False,False,Casa
+939,M-2011-20,2011,group stage,France,2,4,False,False,Casa
+940,M-2011-21,2011,group stage,Australia,2,1,True,False,Casa
+941,M-2011-22,2011,group stage,Equatorial Guinea,0,3,False,False,Casa
+942,M-2011-23,2011,group stage,North Korea,0,0,False,True,Casa
+943,M-2011-24,2011,group stage,Sweden,2,1,True,False,Casa
+944,M-2011-25,2011,quarter-final,England,1,1,False,True,Casa
+945,M-2011-26,2011,quarter-final,Germany,0,1,False,False,Casa
+946,M-2011-27,2011,quarter-final,Sweden,3,1,True,False,Casa
+947,M-2011-28,2011,quarter-final,Brazil,2,2,False,True,Casa
+948,M-2011-29,2011,semi-final,France,1,3,False,False,Casa
+949,M-2011-30,2011,semi-final,Japan,3,1,True,False,Casa
+950,M-2011-31,2011,third-place match,Sweden,2,1,True,False,Casa
+951,M-2011-32,2011,final,Japan,2,2,False,True,Casa
+952,M-2014-01,2014,group stage,Brazil,3,1,True,False,Casa
+953,M-2014-02,2014,group stage,Mexico,1,0,True,False,Casa
+954,M-2014-03,2014,group stage,Spain,1,5,False,False,Casa
+955,M-2014-04,2014,group stage,Chile,3,1,True,False,Casa
+956,M-2014-05,2014,group stage,Colombia,3,0,True,False,Casa
+957,M-2014-06,2014,group stage,Uruguay,1,3,False,False,Casa
+958,M-2014-07,2014,group stage,England,1,2,False,False,Casa
+959,M-2014-08,2014,group stage,Ivory Coast,2,1,True,False,Casa
+960,M-2014-09,2014,group stage,Switzerland,2,1,True,False,Casa
+961,M-2014-10,2014,group stage,France,3,0,True,False,Casa
+962,M-2014-11,2014,group stage,Argentina,2,1,True,False,Casa
+963,M-2014-12,2014,group stage,Germany,4,0,True,False,Casa
+964,M-2014-13,2014,group stage,Iran,0,0,False,True,Casa
+965,M-2014-14,2014,group stage,Ghana,1,2,False,False,Casa
+966,M-2014-15,2014,group stage,Belgium,2,1,True,False,Casa
+967,M-2014-16,2014,group stage,Brazil,0,0,False,True,Casa
+968,M-2014-17,2014,group stage,Russia,1,1,False,True,Casa
+969,M-2014-18,2014,group stage,Australia,2,3,False,False,Casa
+970,M-2014-19,2014,group stage,Spain,0,2,False,False,Casa
+971,M-2014-20,2014,group stage,Cameroon,0,4,False,False,Casa
+972,M-2014-21,2014,group stage,Colombia,2,1,True,False,Casa
+973,M-2014-22,2014,group stage,Uruguay,2,1,True,False,Casa
+974,M-2014-23,2014,group stage,Japan,0,0,False,True,Casa
+975,M-2014-24,2014,group stage,Italy,0,1,False,False,Casa
+976,M-2014-25,2014,group stage,Switzerland,2,5,False,False,Casa
+977,M-2014-26,2014,group stage,Honduras,1,2,False,False,Casa
+978,M-2014-27,2014,group stage,Argentina,1,0,True,False,Casa
+979,M-2014-28,2014,group stage,Germany,2,2,False,True,Casa
+980,M-2014-29,2014,group stage,Nigeria,1,0,True,False,Casa
+981,M-2014-30,2014,group stage,Belgium,1,0,True,False,Casa
+982,M-2014-31,2014,group stage,South Korea,2,4,False,False,Casa
+983,M-2014-32,2014,group stage,United States,2,2,False,True,Casa
+984,M-2014-33,2014,group stage,Australia,0,3,False,False,Casa
+985,M-2014-34,2014,group stage,Netherlands,2,0,True,False,Casa
+986,M-2014-35,2014,group stage,Cameroon,1,4,False,False,Casa
+987,M-2014-36,2014,group stage,Croatia,1,3,False,False,Casa
+988,M-2014-37,2014,group stage,Costa Rica,0,0,False,True,Casa
+989,M-2014-38,2014,group stage,Italy,0,1,False,False,Casa
+990,M-2014-39,2014,group stage,Japan,1,4,False,False,Casa
+991,M-2014-40,2014,group stage,Greece,2,1,True,False,Casa
+992,M-2014-41,2014,group stage,Bosnia and Herzegovina,3,1,True,False,Casa
+993,M-2014-42,2014,group stage,Nigeria,2,3,False,False,Casa
+994,M-2014-43,2014,group stage,Honduras,0,3,False,False,Casa
+995,M-2014-44,2014,group stage,Ecuador,0,0,False,True,Casa
+996,M-2014-45,2014,group stage,Portugal,2,1,True,False,Casa
+997,M-2014-46,2014,group stage,United States,0,1,False,False,Casa
+998,M-2014-47,2014,group stage,Algeria,1,1,False,True,Casa
+999,M-2014-48,2014,group stage,South Korea,0,1,False,False,Casa
+1000,M-2014-49,2014,round of 16,Brazil,1,1,False,True,Casa
+1001,M-2014-50,2014,round of 16,Colombia,2,0,True,False,Casa
+1002,M-2014-51,2014,round of 16,Netherlands,2,1,True,False,Casa
+1003,M-2014-52,2014,round of 16,Costa Rica,1,1,False,True,Casa
+1004,M-2014-53,2014,round of 16,France,2,0,True,False,Casa
+1005,M-2014-54,2014,round of 16,Germany,2,1,True,False,Casa
+1006,M-2014-55,2014,round of 16,Argentina,1,0,True,False,Casa
+1007,M-2014-56,2014,round of 16,Belgium,2,1,True,False,Casa
+1008,M-2014-57,2014,quarter-finals,France,0,1,False,False,Casa
+1009,M-2014-58,2014,quarter-finals,Brazil,2,1,True,False,Casa
+1010,M-2014-59,2014,quarter-finals,Argentina,1,0,True,False,Casa
+1011,M-2014-60,2014,quarter-finals,Netherlands,0,0,False,True,Casa
+1012,M-2014-61,2014,semi-finals,Brazil,1,7,False,False,Casa
+1013,M-2014-62,2014,semi-finals,Netherlands,0,0,False,True,Casa
+1014,M-2014-63,2014,third-place match,Brazil,0,3,False,False,Casa
+1015,M-2014-64,2014,final,Germany,1,0,True,False,Casa
+1016,M-2015-01,2015,group stage,Canada,1,0,True,False,Casa
+1017,M-2015-02,2015,group stage,New Zealand,0,1,False,False,Casa
+1018,M-2015-03,2015,group stage,Norway,4,0,True,False,Casa
+1019,M-2015-04,2015,group stage,Germany,10,0,True,False,Casa
+1020,M-2015-05,2015,group stage,Sweden,3,3,False,True,Casa
+1021,M-2015-06,2015,group stage,Cameroon,6,0,True,False,Casa
+1022,M-2015-07,2015,group stage,United States,3,1,True,False,Casa
+1023,M-2015-08,2015,group stage,Japan,1,0,True,False,Casa
+1024,M-2015-09,2015,group stage,France,1,0,True,False,Casa
+1025,M-2015-10,2015,group stage,Spain,1,1,False,True,Casa
+1026,M-2015-11,2015,group stage,Colombia,1,1,False,True,Casa
+1027,M-2015-12,2015,group stage,Brazil,2,0,True,False,Casa
+1028,M-2015-13,2015,group stage,China,1,0,True,False,Casa
+1029,M-2015-14,2015,group stage,Germany,1,1,False,True,Casa
+1030,M-2015-15,2015,group stage,Canada,0,0,False,True,Casa
+1031,M-2015-16,2015,group stage,Ivory Coast,2,3,False,False,Casa
+1032,M-2015-17,2015,group stage,Switzerland,10,1,True,False,Casa
+1033,M-2015-18,2015,group stage,Australia,2,0,True,False,Casa
+1034,M-2015-19,2015,group stage,Japan,2,1,True,False,Casa
+1035,M-2015-20,2015,group stage,United States,0,0,False,True,Casa
+1036,M-2015-21,2015,group stage,France,0,2,False,False,Casa
+1037,M-2015-22,2015,group stage,Brazil,1,0,True,False,Casa
+1038,M-2015-23,2015,group stage,England,2,1,True,False,Casa
+1039,M-2015-24,2015,group stage,South Korea,2,2,False,True,Casa
+1040,M-2015-25,2015,group stage,Thailand,0,4,False,False,Casa
+1041,M-2015-26,2015,group stage,Ivory Coast,1,3,False,False,Casa
+1042,M-2015-27,2015,group stage,China,2,2,False,True,Casa
+1043,M-2015-28,2015,group stage,Netherlands,1,1,False,True,Casa
+1044,M-2015-29,2015,group stage,Switzerland,1,2,False,False,Casa
+1045,M-2015-30,2015,group stage,Ecuador,0,1,False,False,Casa
+1046,M-2015-31,2015,group stage,Nigeria,0,1,False,False,Casa
+1047,M-2015-32,2015,group stage,Australia,1,1,False,True,Casa
+1048,M-2015-33,2015,group stage,England,2,1,True,False,Casa
+1049,M-2015-34,2015,group stage,Mexico,0,5,False,False,Casa
+1050,M-2015-35,2015,group stage,South Korea,2,1,True,False,Casa
+1051,M-2015-36,2015,group stage,Costa Rica,0,1,False,False,Casa
+1052,M-2015-37,2015,round of 16,Germany,4,1,True,False,Casa
+1053,M-2015-38,2015,round of 16,China,1,0,True,False,Casa
+1054,M-2015-39,2015,round of 16,Brazil,0,1,False,False,Casa
+1055,M-2015-40,2015,round of 16,France,3,0,True,False,Casa
+1056,M-2015-41,2015,round of 16,Canada,1,0,True,False,Casa
+1057,M-2015-42,2015,round of 16,Norway,1,2,False,False,Casa
+1058,M-2015-43,2015,round of 16,United States,2,0,True,False,Casa
+1059,M-2015-44,2015,round of 16,Japan,2,1,True,False,Casa
+1060,M-2015-45,2015,quarter-final,Germany,1,1,False,True,Casa
+1061,M-2015-46,2015,quarter-final,China,0,1,False,False,Casa
+1062,M-2015-47,2015,quarter-final,Australia,0,1,False,False,Casa
+1063,M-2015-48,2015,quarter-final,England,2,1,True,False,Casa
+1064,M-2015-49,2015,semi-final,United States,2,0,True,False,Casa
+1065,M-2015-50,2015,semi-final,Japan,2,1,True,False,Casa
+1066,M-2015-51,2015,third-place match,Germany,0,1,False,False,Casa
+1067,M-2015-52,2015,final,United States,5,2,True,False,Casa
+1068,M-2018-01,2018,group stage,Russia,5,0,True,False,Casa
+1069,M-2018-02,2018,group stage,Egypt,0,1,False,False,Casa
+1070,M-2018-03,2018,group stage,Morocco,0,1,False,False,Casa
+1071,M-2018-04,2018,group stage,Portugal,3,3,False,True,Casa
+1072,M-2018-05,2018,group stage,France,2,1,True,False,Casa
+1073,M-2018-06,2018,group stage,Argentina,1,1,False,True,Casa
+1074,M-2018-07,2018,group stage,Peru,0,1,False,False,Casa
+1075,M-2018-08,2018,group stage,Croatia,2,0,True,False,Casa
+1076,M-2018-09,2018,group stage,Costa Rica,0,1,False,False,Casa
+1077,M-2018-10,2018,group stage,Germany,0,1,False,False,Casa
+1078,M-2018-11,2018,group stage,Brazil,1,1,False,True,Casa
+1079,M-2018-12,2018,group stage,Sweden,1,0,True,False,Casa
+1080,M-2018-13,2018,group stage,Belgium,3,0,True,False,Casa
+1081,M-2018-14,2018,group stage,Tunisia,1,2,False,False,Casa
+1082,M-2018-15,2018,group stage,Colombia,1,2,False,False,Casa
+1083,M-2018-16,2018,group stage,Poland,1,2,False,False,Casa
+1084,M-2018-17,2018,group stage,Russia,3,1,True,False,Casa
+1085,M-2018-18,2018,group stage,Portugal,1,0,True,False,Casa
+1086,M-2018-19,2018,group stage,Uruguay,1,0,True,False,Casa
+1087,M-2018-20,2018,group stage,Iran,0,1,False,False,Casa
+1088,M-2018-21,2018,group stage,Denmark,1,1,False,True,Casa
+1089,M-2018-22,2018,group stage,France,1,0,True,False,Casa
+1090,M-2018-23,2018,group stage,Argentina,0,3,False,False,Casa
+1091,M-2018-24,2018,group stage,Brazil,2,0,True,False,Casa
+1092,M-2018-25,2018,group stage,Nigeria,2,0,True,False,Casa
+1093,M-2018-26,2018,group stage,Serbia,1,2,False,False,Casa
+1094,M-2018-27,2018,group stage,Belgium,5,2,True,False,Casa
+1095,M-2018-28,2018,group stage,South Korea,1,2,False,False,Casa
+1096,M-2018-29,2018,group stage,Germany,2,1,True,False,Casa
+1097,M-2018-30,2018,group stage,England,6,1,True,False,Casa
+1098,M-2018-31,2018,group stage,Japan,2,2,False,True,Casa
+1099,M-2018-32,2018,group stage,Poland,0,3,False,False,Casa
+1100,M-2018-33,2018,group stage,Saudi Arabia,2,1,True,False,Casa
+1101,M-2018-34,2018,group stage,Uruguay,3,0,True,False,Casa
+1102,M-2018-35,2018,group stage,Spain,2,2,False,True,Casa
+1103,M-2018-36,2018,group stage,Iran,1,1,False,True,Casa
+1104,M-2018-37,2018,group stage,Australia,0,2,False,False,Casa
+1105,M-2018-38,2018,group stage,Denmark,0,0,False,True,Casa
+1106,M-2018-39,2018,group stage,Iceland,1,2,False,False,Casa
+1107,M-2018-40,2018,group stage,Nigeria,1,2,False,False,Casa
+1108,M-2018-41,2018,group stage,South Korea,2,0,True,False,Casa
+1109,M-2018-42,2018,group stage,Mexico,0,3,False,False,Casa
+1110,M-2018-43,2018,group stage,Serbia,0,2,False,False,Casa
+1111,M-2018-44,2018,group stage,Switzerland,2,2,False,True,Casa
+1112,M-2018-45,2018,group stage,Japan,0,1,False,False,Casa
+1113,M-2018-46,2018,group stage,Senegal,0,1,False,False,Casa
+1114,M-2018-47,2018,group stage,England,0,1,False,False,Casa
+1115,M-2018-48,2018,group stage,Panama,1,2,False,False,Casa
+1116,M-2018-49,2018,round of 16,France,4,3,True,False,Casa
+1117,M-2018-50,2018,round of 16,Uruguay,2,1,True,False,Casa
+1118,M-2018-51,2018,round of 16,Spain,1,1,False,True,Casa
+1119,M-2018-52,2018,round of 16,Croatia,1,1,False,True,Casa
+1120,M-2018-53,2018,round of 16,Brazil,2,0,True,False,Casa
+1121,M-2018-54,2018,round of 16,Belgium,3,2,True,False,Casa
+1122,M-2018-55,2018,round of 16,Sweden,1,0,True,False,Casa
+1123,M-2018-56,2018,round of 16,Colombia,1,1,False,True,Casa
+1124,M-2018-57,2018,quarter-finals,Uruguay,0,2,False,False,Casa
+1125,M-2018-58,2018,quarter-finals,Brazil,1,2,False,False,Casa
+1126,M-2018-59,2018,quarter-finals,Sweden,0,2,False,False,Casa
+1127,M-2018-60,2018,quarter-finals,Russia,2,2,False,True,Casa
+1128,M-2018-61,2018,semi-finals,France,1,0,True,False,Casa
+1129,M-2018-62,2018,semi-finals,Croatia,2,1,True,False,Casa
+1130,M-2018-63,2018,third-place match,Belgium,2,0,True,False,Casa
+1131,M-2018-64,2018,final,France,4,2,True,False,Casa
+1132,M-2019-01,2019,group stage,France,4,0,True,False,Casa
+1133,M-2019-02,2019,group stage,Germany,1,0,True,False,Casa
+1134,M-2019-03,2019,group stage,Spain,3,1,True,False,Casa
+1135,M-2019-04,2019,group stage,Norway,3,0,True,False,Casa
+1136,M-2019-05,2019,group stage,Australia,1,2,False,False,Casa
+1137,M-2019-06,2019,group stage,Brazil,3,0,True,False,Casa
+1138,M-2019-07,2019,group stage,England,2,1,True,False,Casa
+1139,M-2019-08,2019,group stage,Argentina,0,0,False,True,Casa
+1140,M-2019-09,2019,group stage,Canada,1,0,True,False,Casa
+1141,M-2019-10,2019,group stage,New Zealand,0,1,False,False,Casa
+1142,M-2019-11,2019,group stage,Chile,0,2,False,False,Casa
+1143,M-2019-12,2019,group stage,United States,13,0,True,False,Casa
+1144,M-2019-13,2019,group stage,Nigeria,2,0,True,False,Casa
+1145,M-2019-14,2019,group stage,Germany,1,0,True,False,Casa
+1146,M-2019-15,2019,group stage,France,2,1,True,False,Casa
+1147,M-2019-16,2019,group stage,Australia,3,2,True,False,Casa
+1148,M-2019-17,2019,group stage,South Africa,0,1,False,False,Casa
+1149,M-2019-18,2019,group stage,Japan,2,1,True,False,Casa
+1150,M-2019-19,2019,group stage,Jamaica,0,5,False,False,Casa
+1151,M-2019-20,2019,group stage,England,1,0,True,False,Casa
+1152,M-2019-21,2019,group stage,Netherlands,3,1,True,False,Casa
+1153,M-2019-22,2019,group stage,Canada,2,0,True,False,Casa
+1154,M-2019-23,2019,group stage,Sweden,5,1,True,False,Casa
+1155,M-2019-24,2019,group stage,United States,3,0,True,False,Casa
+1156,M-2019-25,2019,group stage,China,0,0,False,True,Casa
+1157,M-2019-26,2019,group stage,South Africa,0,4,False,False,Casa
+1158,M-2019-27,2019,group stage,Nigeria,0,1,False,False,Casa
+1159,M-2019-28,2019,group stage,South Korea,1,2,False,False,Casa
+1160,M-2019-29,2019,group stage,Italy,0,1,False,False,Casa
+1161,M-2019-30,2019,group stage,Jamaica,1,4,False,False,Casa
+1162,M-2019-31,2019,group stage,Japan,0,2,False,False,Casa
+1163,M-2019-32,2019,group stage,Scotland,3,3,False,True,Casa
+1164,M-2019-33,2019,group stage,Cameroon,2,1,True,False,Casa
+1165,M-2019-34,2019,group stage,Netherlands,2,1,True,False,Casa
+1166,M-2019-35,2019,group stage,Sweden,0,2,False,False,Casa
+1167,M-2019-36,2019,group stage,Thailand,0,2,False,False,Casa
+1168,M-2019-37,2019,round of 16,Germany,3,0,True,False,Casa
+1169,M-2019-38,2019,round of 16,Norway,1,1,False,True,Casa
+1170,M-2019-39,2019,round of 16,England,3,0,True,False,Casa
+1171,M-2019-40,2019,round of 16,France,2,1,True,False,Casa
+1172,M-2019-41,2019,round of 16,Spain,1,2,False,False,Casa
+1173,M-2019-42,2019,round of 16,Sweden,1,0,True,False,Casa
+1174,M-2019-43,2019,round of 16,Italy,2,0,True,False,Casa
+1175,M-2019-44,2019,round of 16,Netherlands,2,1,True,False,Casa
+1176,M-2019-45,2019,quarter-final,Norway,0,3,False,False,Casa
+1177,M-2019-46,2019,quarter-final,France,1,2,False,False,Casa
+1178,M-2019-47,2019,quarter-final,Italy,0,2,False,False,Casa
+1179,M-2019-48,2019,quarter-final,Germany,1,2,False,False,Casa
+1180,M-2019-49,2019,semi-final,England,1,2,False,False,Casa
+1181,M-2019-50,2019,semi-final,Netherlands,1,0,True,False,Casa
+1182,M-2019-51,2019,third-place match,England,1,2,False,False,Casa
+1183,M-2019-52,2019,final,United States,2,0,True,False,Casa
+1184,M-2022-01,2022,group stage,Qatar,0,2,False,False,Casa
+1185,M-2022-02,2022,group stage,England,6,2,True,False,Casa
+1186,M-2022-03,2022,group stage,Senegal,0,2,False,False,Casa
+1187,M-2022-04,2022,group stage,United States,1,1,False,True,Casa
+1188,M-2022-05,2022,group stage,Argentina,1,2,False,False,Casa
+1189,M-2022-06,2022,group stage,Denmark,0,0,False,True,Casa
+1190,M-2022-07,2022,group stage,Mexico,0,0,False,True,Casa
+1191,M-2022-08,2022,group stage,France,4,1,True,False,Casa
+1192,M-2022-09,2022,group stage,Morocco,0,0,False,True,Casa
+1193,M-2022-10,2022,group stage,Germany,1,2,False,False,Casa
+1194,M-2022-11,2022,group stage,Spain,7,0,True,False,Casa
+1195,M-2022-12,2022,group stage,Belgium,1,0,True,False,Casa
+1196,M-2022-13,2022,group stage,Switzerland,1,0,True,False,Casa
+1197,M-2022-14,2022,group stage,Uruguay,0,0,False,True,Casa
+1198,M-2022-15,2022,group stage,Portugal,3,2,True,False,Casa
+1199,M-2022-16,2022,group stage,Brazil,2,0,True,False,Casa
+1200,M-2022-17,2022,group stage,Wales,0,2,False,False,Casa
+1201,M-2022-18,2022,group stage,Qatar,1,3,False,False,Casa
+1202,M-2022-19,2022,group stage,Netherlands,1,1,False,True,Casa
+1203,M-2022-20,2022,group stage,England,0,0,False,True,Casa
+1204,M-2022-21,2022,group stage,Tunisia,0,1,False,False,Casa
+1205,M-2022-22,2022,group stage,Poland,2,0,True,False,Casa
+1206,M-2022-23,2022,group stage,France,2,1,True,False,Casa
+1207,M-2022-24,2022,group stage,Argentina,2,0,True,False,Casa
+1208,M-2022-25,2022,group stage,Japan,0,1,False,False,Casa
+1209,M-2022-26,2022,group stage,Belgium,0,2,False,False,Casa
+1210,M-2022-27,2022,group stage,Croatia,4,1,True,False,Casa
+1211,M-2022-28,2022,group stage,Spain,1,1,False,True,Casa
+1212,M-2022-29,2022,group stage,Cameroon,3,3,False,True,Casa
+1213,M-2022-30,2022,group stage,South Korea,2,3,False,False,Casa
+1214,M-2022-31,2022,group stage,Brazil,1,0,True,False,Casa
+1215,M-2022-32,2022,group stage,Portugal,2,0,True,False,Casa
+1216,M-2022-33,2022,group stage,Ecuador,1,2,False,False,Casa
+1217,M-2022-34,2022,group stage,Netherlands,2,0,True,False,Casa
+1218,M-2022-35,2022,group stage,Iran,0,1,False,False,Casa
+1219,M-2022-36,2022,group stage,Wales,0,3,False,False,Casa
+1220,M-2022-37,2022,group stage,Australia,1,0,True,False,Casa
+1221,M-2022-38,2022,group stage,Tunisia,1,0,True,False,Casa
+1222,M-2022-39,2022,group stage,Poland,0,2,False,False,Casa
+1223,M-2022-40,2022,group stage,Saudi Arabia,1,2,False,False,Casa
+1224,M-2022-41,2022,group stage,Canada,1,2,False,False,Casa
+1225,M-2022-42,2022,group stage,Croatia,0,0,False,True,Casa
+1226,M-2022-43,2022,group stage,Costa Rica,2,4,False,False,Casa
+1227,M-2022-44,2022,group stage,Japan,2,1,True,False,Casa
+1228,M-2022-45,2022,group stage,Ghana,0,2,False,False,Casa
+1229,M-2022-46,2022,group stage,South Korea,2,1,True,False,Casa
+1230,M-2022-47,2022,group stage,Cameroon,1,0,True,False,Casa
+1231,M-2022-48,2022,group stage,Serbia,2,3,False,False,Casa
+1232,M-2022-49,2022,round of 16,Netherlands,3,1,True,False,Casa
+1233,M-2022-50,2022,round of 16,Argentina,2,1,True,False,Casa
+1234,M-2022-51,2022,round of 16,France,3,1,True,False,Casa
+1235,M-2022-52,2022,round of 16,England,3,0,True,False,Casa
+1236,M-2022-53,2022,round of 16,Japan,1,1,False,True,Casa
+1237,M-2022-54,2022,round of 16,Brazil,4,1,True,False,Casa
+1238,M-2022-55,2022,round of 16,Morocco,0,0,False,True,Casa
+1239,M-2022-56,2022,round of 16,Portugal,6,1,True,False,Casa
+1240,M-2022-57,2022,quarter-finals,Croatia,1,1,False,True,Casa
+1241,M-2022-58,2022,quarter-finals,Netherlands,2,2,False,True,Casa
+1242,M-2022-59,2022,quarter-finals,Morocco,1,0,True,False,Casa
+1243,M-2022-60,2022,quarter-finals,England,1,2,False,False,Casa
+1244,M-2022-61,2022,semi-finals,Argentina,3,0,True,False,Casa
+1245,M-2022-62,2022,semi-finals,France,2,0,True,False,Casa
+1246,M-2022-63,2022,third-place match,Croatia,2,1,True,False,Casa
+1247,M-2022-64,2022,final,Argentina,3,3,False,True,Casa
+1248,M-1930-01,1930,group stage,Mexico,1,4,False,False,Fora
+1249,M-1930-02,1930,group stage,Belgium,0,3,False,False,Fora
+1250,M-1930-03,1930,group stage,Brazil,1,2,False,False,Fora
+1251,M-1930-04,1930,group stage,Peru,1,3,False,False,Fora
+1252,M-1930-05,1930,group stage,France,0,1,False,False,Fora
+1253,M-1930-06,1930,group stage,Mexico,0,3,False,False,Fora
+1254,M-1930-07,1930,group stage,Bolivia,0,4,False,False,Fora
+1255,M-1930-08,1930,group stage,Paraguay,0,3,False,False,Fora
+1256,M-1930-09,1930,group stage,Peru,0,1,False,False,Fora
+1257,M-1930-10,1930,group stage,France,0,1,False,False,Fora
+1258,M-1930-11,1930,group stage,Mexico,3,6,False,False,Fora
+1259,M-1930-12,1930,group stage,Bolivia,0,4,False,False,Fora
+1260,M-1930-13,1930,group stage,Belgium,0,1,False,False,Fora
+1261,M-1930-14,1930,group stage,Romania,0,4,False,False,Fora
+1262,M-1930-15,1930,group stage,Chile,1,3,False,False,Fora
+1263,M-1930-16,1930,semi-finals,United States,1,6,False,False,Fora
+1264,M-1930-17,1930,semi-finals,Yugoslavia,1,6,False,False,Fora
+1265,M-1930-18,1930,final,Argentina,2,4,False,False,Fora
+1266,M-1934-01,1934,round of 16,France,2,3,False,False,Fora
+1267,M-1934-02,1934,round of 16,Romania,1,2,False,False,Fora
+1268,M-1934-03,1934,round of 16,Belgium,2,5,False,False,Fora
+1269,M-1934-04,1934,round of 16,Egypt,2,4,False,False,Fora
+1270,M-1934-05,1934,round of 16,United States,1,7,False,False,Fora
+1271,M-1934-06,1934,round of 16,Brazil,1,3,False,False,Fora
+1272,M-1934-07,1934,round of 16,Argentina,2,3,False,False,Fora
+1273,M-1934-08,1934,round of 16,Netherlands,2,3,False,False,Fora
+1274,M-1934-09,1934,quarter-finals,Hungary,1,2,False,False,Fora
+1275,M-1934-10,1934,quarter-finals,Switzerland,2,3,False,False,Fora
+1276,M-1934-11,1934,quarter-finals,Sweden,1,2,False,False,Fora
+1277,M-1934-12,1934,quarter-finals,Spain,1,1,False,True,Fora
+1278,M-1934-13,1934,quarter-finals,Spain,0,1,False,False,Fora
+1279,M-1934-14,1934,semi-finals,Germany,1,3,False,False,Fora
+1280,M-1934-15,1934,semi-finals,Austria,0,1,False,False,Fora
+1281,M-1934-16,1934,third-place match,Austria,2,3,False,False,Fora
+1282,M-1934-17,1934,final,Czechoslovakia,1,2,False,False,Fora
+1283,M-1938-01,1938,round of 16,Germany,1,1,False,True,Fora
+1284,M-1938-02,1938,round of 16,Romania,3,3,False,True,Fora
+1285,M-1938-03,1938,round of 16,Belgium,1,3,False,False,Fora
+1286,M-1938-04,1938,round of 16,Dutch East Indies,0,6,False,False,Fora
+1287,M-1938-05,1938,round of 16,Norway,1,2,False,False,Fora
+1288,M-1938-06,1938,round of 16,Poland,5,6,False,False,Fora
+1289,M-1938-07,1938,round of 16,Netherlands,0,3,False,False,Fora
+1290,M-1938-08,1938,round of 16,Romania,1,2,False,False,Fora
+1291,M-1938-09,1938,round of 16,Germany,2,4,False,False,Fora
+1292,M-1938-10,1938,quarter-finals,Czechoslovakia,1,1,False,True,Fora
+1293,M-1938-11,1938,quarter-finals,Switzerland,0,2,False,False,Fora
+1294,M-1938-12,1938,quarter-finals,France,1,3,False,False,Fora
+1295,M-1938-13,1938,quarter-finals,Cuba,0,8,False,False,Fora
+1296,M-1938-14,1938,quarter-finals,Czechoslovakia,1,2,False,False,Fora
+1297,M-1938-15,1938,semi-finals,Sweden,1,5,False,False,Fora
+1298,M-1938-16,1938,semi-finals,Brazil,1,2,False,False,Fora
+1299,M-1938-17,1938,third-place match,Sweden,2,4,False,False,Fora
+1300,M-1938-18,1938,final,Hungary,2,4,False,False,Fora
+1301,M-1950-01,1950,group stage,Mexico,0,4,False,False,Fora
+1302,M-1950-02,1950,group stage,Switzerland,0,3,False,False,Fora
+1303,M-1950-03,1950,group stage,Chile,0,2,False,False,Fora
+1304,M-1950-04,1950,group stage,United States,1,3,False,False,Fora
+1305,M-1950-05,1950,group stage,Italy,2,3,False,False,Fora
+1306,M-1950-06,1950,group stage,Switzerland,2,2,False,True,Fora
+1307,M-1950-07,1950,group stage,Mexico,1,4,False,False,Fora
+1308,M-1950-08,1950,group stage,Chile,0,2,False,False,Fora
+1309,M-1950-09,1950,group stage,England,0,1,False,False,Fora
+1310,M-1950-10,1950,group stage,Paraguay,2,2,False,True,Fora
+1311,M-1950-11,1950,group stage,Yugoslavia,0,2,False,False,Fora
+1312,M-1950-12,1950,group stage,United States,2,5,False,False,Fora
+1313,M-1950-13,1950,group stage,England,0,1,False,False,Fora
+1314,M-1950-14,1950,group stage,Paraguay,0,2,False,False,Fora
+1315,M-1950-15,1950,group stage,Bolivia,0,8,False,False,Fora
+1316,M-1950-16,1950,group stage,Mexico,1,2,False,False,Fora
+1317,M-1950-17,1950,final round,Sweden,1,7,False,False,Fora
+1318,M-1950-18,1950,final round,Spain,2,2,False,True,Fora
+1319,M-1950-19,1950,final round,Spain,1,6,False,False,Fora
+1320,M-1950-20,1950,final round,Sweden,2,3,False,False,Fora
+1321,M-1950-21,1950,final round,Spain,1,3,False,False,Fora
+1322,M-1950-22,1950,final round,Brazil,1,2,False,False,Fora
+1323,M-1954-01,1954,group stage,Mexico,0,5,False,False,Fora
+1324,M-1954-02,1954,group stage,France,0,1,False,False,Fora
+1325,M-1954-03,1954,group stage,Scotland,0,1,False,False,Fora
+1326,M-1954-04,1954,group stage,Czechoslovakia,0,2,False,False,Fora
+1327,M-1954-05,1954,group stage,Italy,1,2,False,False,Fora
+1328,M-1954-06,1954,group stage,South Korea,0,9,False,False,Fora
+1329,M-1954-07,1954,group stage,Turkey,1,4,False,False,Fora
+1330,M-1954-08,1954,group stage,Belgium,4,4,False,True,Fora
+1331,M-1954-09,1954,group stage,Scotland,0,7,False,False,Fora
+1332,M-1954-10,1954,group stage,Yugoslavia,1,1,False,True,Fora
+1333,M-1954-11,1954,group stage,Czechoslovakia,0,5,False,False,Fora
+1334,M-1954-12,1954,group stage,Mexico,2,3,False,False,Fora
+1335,M-1954-13,1954,group stage,West Germany,3,8,False,False,Fora
+1336,M-1954-14,1954,group stage,South Korea,0,7,False,False,Fora
+1337,M-1954-15,1954,group stage,Belgium,1,4,False,False,Fora
+1338,M-1954-16,1954,group stage,Switzerland,0,2,False,False,Fora
+1339,M-1954-17,1954,group stage,Turkey,2,7,False,False,Fora
+1340,M-1954-18,1954,group stage,Italy,1,4,False,False,Fora
+1341,M-1954-19,1954,quarter-finals,Switzerland,5,7,False,False,Fora
+1342,M-1954-20,1954,quarter-finals,England,2,4,False,False,Fora
+1343,M-1954-21,1954,quarter-finals,Brazil,2,4,False,False,Fora
+1344,M-1954-22,1954,quarter-finals,Yugoslavia,0,2,False,False,Fora
+1345,M-1954-23,1954,semi-finals,Uruguay,2,4,False,False,Fora
+1346,M-1954-24,1954,semi-finals,Austria,1,6,False,False,Fora
+1347,M-1954-25,1954,third-place match,Uruguay,1,3,False,False,Fora
+1348,M-1954-26,1954,final,Hungary,2,3,False,False,Fora
+1349,M-1958-01,1958,group stage,Mexico,0,3,False,False,Fora
+1350,M-1958-02,1958,group stage,West Germany,3,1,True,False,Fora
+1351,M-1958-03,1958,group stage,Czechoslovakia,0,1,False,False,Fora
+1352,M-1958-04,1958,group stage,Paraguay,3,7,False,False,Fora
+1353,M-1958-05,1958,group stage,Scotland,1,1,False,True,Fora
+1354,M-1958-06,1958,group stage,Wales,1,1,False,True,Fora
+1355,M-1958-07,1958,group stage,Austria,0,3,False,False,Fora
+1356,M-1958-08,1958,group stage,England,2,2,False,True,Fora
+1357,M-1958-09,1958,group stage,Northern Ireland,1,3,False,False,Fora
+1358,M-1958-10,1958,group stage,Czechoslovakia,2,2,False,True,Fora
+1359,M-1958-11,1958,group stage,Scotland,2,3,False,False,Fora
+1360,M-1958-12,1958,group stage,France,2,3,False,False,Fora
+1361,M-1958-13,1958,group stage,Wales,1,1,False,True,Fora
+1362,M-1958-14,1958,group stage,England,0,0,False,True,Fora
+1363,M-1958-15,1958,group stage,Austria,0,2,False,False,Fora
+1364,M-1958-16,1958,group stage,Hungary,1,2,False,False,Fora
+1365,M-1958-17,1958,group stage,Wales,0,0,False,True,Fora
+1366,M-1958-18,1958,group stage,Argentina,1,6,False,False,Fora
+1367,M-1958-19,1958,group stage,Northern Ireland,2,2,False,True,Fora
+1368,M-1958-20,1958,group stage,Scotland,1,2,False,False,Fora
+1369,M-1958-21,1958,group stage,Yugoslavia,3,3,False,True,Fora
+1370,M-1958-22,1958,group stage,Mexico,0,4,False,False,Fora
+1371,M-1958-23,1958,group stage,Soviet Union,0,2,False,False,Fora
+1372,M-1958-24,1958,group stage,Austria,2,2,False,True,Fora
+1373,M-1958-25,1958,group stage,Czechoslovakia,1,2,False,False,Fora
+1374,M-1958-26,1958,group stage,Hungary,1,2,False,False,Fora
+1375,M-1958-27,1958,group stage,England,0,1,False,False,Fora
+1376,M-1958-28,1958,quarter-finals,Wales,0,1,False,False,Fora
+1377,M-1958-29,1958,quarter-finals,Northern Ireland,0,4,False,False,Fora
+1378,M-1958-30,1958,quarter-finals,Soviet Union,0,2,False,False,Fora
+1379,M-1958-31,1958,quarter-finals,Yugoslavia,0,1,False,False,Fora
+1380,M-1958-32,1958,semi-finals,France,2,5,False,False,Fora
+1381,M-1958-33,1958,semi-finals,West Germany,1,3,False,False,Fora
+1382,M-1958-34,1958,third-place match,West Germany,3,6,False,False,Fora
+1383,M-1958-35,1958,final,Sweden,2,5,False,False,Fora
+1384,M-1962-01,1962,group stage,Colombia,1,2,False,False,Fora
+1385,M-1962-02,1962,group stage,Switzerland,1,3,False,False,Fora
+1386,M-1962-03,1962,group stage,Mexico,0,2,False,False,Fora
+1387,M-1962-04,1962,group stage,Bulgaria,0,1,False,False,Fora
+1388,M-1962-05,1962,group stage,Yugoslavia,0,2,False,False,Fora
+1389,M-1962-06,1962,group stage,Italy,0,0,False,True,Fora
+1390,M-1962-07,1962,group stage,Spain,0,1,False,False,Fora
+1391,M-1962-08,1962,group stage,England,1,2,False,False,Fora
+1392,M-1962-09,1962,group stage,Uruguay,1,3,False,False,Fora
+1393,M-1962-10,1962,group stage,Italy,0,2,False,False,Fora
+1394,M-1962-11,1962,group stage,Czechoslovakia,0,0,False,True,Fora
+1395,M-1962-12,1962,group stage,Argentina,1,3,False,False,Fora
+1396,M-1962-13,1962,group stage,Colombia,4,4,False,True,Fora
+1397,M-1962-14,1962,group stage,Switzerland,1,2,False,False,Fora
+1398,M-1962-15,1962,group stage,Mexico,0,1,False,False,Fora
+1399,M-1962-16,1962,group stage,Bulgaria,1,6,False,False,Fora
+1400,M-1962-17,1962,group stage,Uruguay,1,2,False,False,Fora
+1401,M-1962-18,1962,group stage,Chile,0,2,False,False,Fora
+1402,M-1962-19,1962,group stage,Spain,1,2,False,False,Fora
+1403,M-1962-20,1962,group stage,Argentina,0,0,False,True,Fora
+1404,M-1962-21,1962,group stage,Colombia,0,5,False,False,Fora
+1405,M-1962-22,1962,group stage,Switzerland,0,3,False,False,Fora
+1406,M-1962-23,1962,group stage,Czechoslovakia,1,3,False,False,Fora
+1407,M-1962-24,1962,group stage,Bulgaria,0,0,False,True,Fora
+1408,M-1962-25,1962,quarter-finals,England,1,3,False,False,Fora
+1409,M-1962-26,1962,quarter-finals,Soviet Union,1,2,False,False,Fora
+1410,M-1962-27,1962,quarter-finals,Hungary,0,1,False,False,Fora
+1411,M-1962-28,1962,quarter-finals,West Germany,0,1,False,False,Fora
+1412,M-1962-29,1962,semi-finals,Chile,2,4,False,False,Fora
+1413,M-1962-30,1962,semi-finals,Yugoslavia,1,3,False,False,Fora
+1414,M-1962-31,1962,third-place match,Yugoslavia,0,1,False,False,Fora
+1415,M-1962-32,1962,final,Czechoslovakia,1,3,False,False,Fora
+1416,M-1966-01,1966,group stage,Uruguay,0,0,False,True,Fora
+1417,M-1966-02,1966,group stage,Switzerland,0,5,False,False,Fora
+1418,M-1966-03,1966,group stage,Bulgaria,0,2,False,False,Fora
+1419,M-1966-04,1966,group stage,North Korea,0,3,False,False,Fora
+1420,M-1966-05,1966,group stage,Mexico,1,1,False,True,Fora
+1421,M-1966-06,1966,group stage,Spain,1,2,False,False,Fora
+1422,M-1966-07,1966,group stage,Hungary,1,3,False,False,Fora
+1423,M-1966-08,1966,group stage,Chile,0,2,False,False,Fora
+1424,M-1966-09,1966,group stage,France,1,2,False,False,Fora
+1425,M-1966-10,1966,group stage,Switzerland,1,2,False,False,Fora
+1426,M-1966-11,1966,group stage,Brazil,1,3,False,False,Fora
+1427,M-1966-12,1966,group stage,North Korea,1,1,False,True,Fora
+1428,M-1966-13,1966,group stage,West Germany,0,0,False,True,Fora
+1429,M-1966-14,1966,group stage,Bulgaria,0,3,False,False,Fora
+1430,M-1966-15,1966,group stage,Italy,0,1,False,False,Fora
+1431,M-1966-16,1966,group stage,Mexico,0,2,False,False,Fora
+1432,M-1966-17,1966,group stage,Uruguay,0,0,False,True,Fora
+1433,M-1966-18,1966,group stage,Switzerland,0,2,False,False,Fora
+1434,M-1966-19,1966,group stage,Brazil,1,3,False,False,Fora
+1435,M-1966-20,1966,group stage,Italy,0,1,False,False,Fora
+1436,M-1966-21,1966,group stage,France,0,2,False,False,Fora
+1437,M-1966-22,1966,group stage,Spain,1,2,False,False,Fora
+1438,M-1966-23,1966,group stage,Bulgaria,1,3,False,False,Fora
+1439,M-1966-24,1966,group stage,Chile,1,2,False,False,Fora
+1440,M-1966-25,1966,quarter-finals,Argentina,0,1,False,False,Fora
+1441,M-1966-26,1966,quarter-finals,North Korea,3,5,False,False,Fora
+1442,M-1966-27,1966,quarter-finals,Hungary,1,2,False,False,Fora
+1443,M-1966-28,1966,quarter-finals,Uruguay,0,4,False,False,Fora
+1444,M-1966-29,1966,semi-finals,Soviet Union,1,2,False,False,Fora
+1445,M-1966-30,1966,semi-finals,Portugal,1,2,False,False,Fora
+1446,M-1966-31,1966,third-place match,Soviet Union,1,2,False,False,Fora
+1447,M-1966-32,1966,final,West Germany,2,4,False,False,Fora
+1448,M-1970-01,1970,group stage,Soviet Union,0,0,False,True,Fora
+1449,M-1970-02,1970,group stage,Israel,0,2,False,False,Fora
+1450,M-1970-03,1970,group stage,Romania,0,1,False,False,Fora
+1451,M-1970-04,1970,group stage,Bulgaria,2,3,False,False,Fora
+1452,M-1970-05,1970,group stage,El Salvador,0,3,False,False,Fora
+1453,M-1970-06,1970,group stage,Sweden,0,1,False,False,Fora
+1454,M-1970-07,1970,group stage,Czechoslovakia,1,4,False,False,Fora
+1455,M-1970-08,1970,group stage,Morocco,1,2,False,False,Fora
+1456,M-1970-09,1970,group stage,Belgium,1,4,False,False,Fora
+1457,M-1970-10,1970,group stage,Italy,0,0,False,True,Fora
+1458,M-1970-11,1970,group stage,Czechoslovakia,1,2,False,False,Fora
+1459,M-1970-12,1970,group stage,Morocco,0,3,False,False,Fora
+1460,M-1970-13,1970,group stage,El Salvador,0,4,False,False,Fora
+1461,M-1970-14,1970,group stage,Israel,1,1,False,True,Fora
+1462,M-1970-15,1970,group stage,England,0,1,False,False,Fora
+1463,M-1970-16,1970,group stage,Bulgaria,2,5,False,False,Fora
+1464,M-1970-17,1970,group stage,El Salvador,0,2,False,False,Fora
+1465,M-1970-18,1970,group stage,Uruguay,0,1,False,False,Fora
+1466,M-1970-19,1970,group stage,Romania,2,3,False,False,Fora
+1467,M-1970-20,1970,group stage,Peru,1,3,False,False,Fora
+1468,M-1970-21,1970,group stage,Belgium,0,1,False,False,Fora
+1469,M-1970-22,1970,group stage,Israel,0,0,False,True,Fora
+1470,M-1970-23,1970,group stage,Czechoslovakia,0,1,False,False,Fora
+1471,M-1970-24,1970,group stage,Morocco,1,1,False,True,Fora
+1472,M-1970-25,1970,quarter-finals,Peru,2,4,False,False,Fora
+1473,M-1970-26,1970,quarter-finals,Mexico,1,4,False,False,Fora
+1474,M-1970-27,1970,quarter-finals,Uruguay,1,0,True,False,Fora
+1475,M-1970-28,1970,quarter-finals,England,2,3,False,False,Fora
+1476,M-1970-29,1970,semi-finals,Uruguay,1,3,False,False,Fora
+1477,M-1970-30,1970,semi-finals,West Germany,3,4,False,False,Fora
+1478,M-1970-31,1970,third-place match,Uruguay,0,1,False,False,Fora
+1479,M-1970-32,1970,final,Italy,1,4,False,False,Fora
+1480,M-1974-01,1974,group stage,Yugoslavia,0,0,False,True,Fora
+1481,M-1974-02,1974,group stage,Chile,0,1,False,False,Fora
+1482,M-1974-03,1974,group stage,Australia,0,2,False,False,Fora
+1483,M-1974-04,1974,group stage,Scotland,2,0,True,False,Fora
+1484,M-1974-05,1974,group stage,Bulgaria,0,0,False,True,Fora
+1485,M-1974-06,1974,group stage,Netherlands,2,0,True,False,Fora
+1486,M-1974-07,1974,group stage,Haiti,1,3,False,False,Fora
+1487,M-1974-08,1974,group stage,Argentina,2,3,False,False,Fora
+1488,M-1974-09,1974,group stage,West Germany,3,0,True,False,Fora
+1489,M-1974-10,1974,group stage,East Germany,1,1,False,True,Fora
+1490,M-1974-11,1974,group stage,Brazil,0,0,False,True,Fora
+1491,M-1974-12,1974,group stage,Zaire,0,9,False,False,Fora
+1492,M-1974-13,1974,group stage,Uruguay,1,1,False,True,Fora
+1493,M-1974-14,1974,group stage,Sweden,0,0,False,True,Fora
+1494,M-1974-15,1974,group stage,Italy,1,1,False,True,Fora
+1495,M-1974-16,1974,group stage,Poland,7,0,True,False,Fora
+1496,M-1974-17,1974,group stage,Chile,0,0,False,True,Fora
+1497,M-1974-18,1974,group stage,Yugoslavia,1,1,False,True,Fora
+1498,M-1974-19,1974,group stage,Brazil,3,0,True,False,Fora
+1499,M-1974-20,1974,group stage,West Germany,0,1,False,False,Fora
+1500,M-1974-21,1974,group stage,Netherlands,4,1,True,False,Fora
+1501,M-1974-22,1974,group stage,Uruguay,0,3,False,False,Fora
+1502,M-1974-23,1974,group stage,Haiti,1,4,False,False,Fora
+1503,M-1974-24,1974,group stage,Italy,1,2,False,False,Fora
+1504,M-1974-25,1974,second group stage,West Germany,2,0,True,False,Fora
+1505,M-1974-26,1974,second group stage,East Germany,0,1,False,False,Fora
+1506,M-1974-27,1974,second group stage,Argentina,0,4,False,False,Fora
+1507,M-1974-28,1974,second group stage,Poland,1,0,True,False,Fora
+1508,M-1974-29,1974,second group stage,Brazil,2,1,True,False,Fora
+1509,M-1974-30,1974,second group stage,Netherlands,2,0,True,False,Fora
+1510,M-1974-31,1974,second group stage,Yugoslavia,1,2,False,False,Fora
+1511,M-1974-32,1974,second group stage,Sweden,2,4,False,False,Fora
+1512,M-1974-33,1974,second group stage,West Germany,1,0,True,False,Fora
+1513,M-1974-34,1974,second group stage,East Germany,1,1,False,True,Fora
+1514,M-1974-35,1974,second group stage,Brazil,0,2,False,False,Fora
+1515,M-1974-36,1974,second group stage,Yugoslavia,1,2,False,False,Fora
+1516,M-1974-37,1974,third-place match,Poland,1,0,True,False,Fora
+1517,M-1974-38,1974,final,West Germany,2,1,True,False,Fora
+1518,M-1978-01,1978,group stage,Poland,0,0,False,True,Fora
+1519,M-1978-02,1978,group stage,France,1,2,False,False,Fora
+1520,M-1978-03,1978,group stage,Mexico,1,3,False,False,Fora
+1521,M-1978-04,1978,group stage,Hungary,1,2,False,False,Fora
+1522,M-1978-05,1978,group stage,Spain,1,2,False,False,Fora
+1523,M-1978-06,1978,group stage,Sweden,1,1,False,True,Fora
+1524,M-1978-07,1978,group stage,Iran,0,3,False,False,Fora
+1525,M-1978-08,1978,group stage,Scotland,1,3,False,False,Fora
+1526,M-1978-09,1978,group stage,Hungary,1,3,False,False,Fora
+1527,M-1978-10,1978,group stage,Tunisia,0,1,False,False,Fora
+1528,M-1978-11,1978,group stage,Mexico,0,6,False,False,Fora
+1529,M-1978-12,1978,group stage,France,1,2,False,False,Fora
+1530,M-1978-13,1978,group stage,Sweden,0,1,False,False,Fora
+1531,M-1978-14,1978,group stage,Spain,0,0,False,True,Fora
+1532,M-1978-15,1978,group stage,Peru,0,0,False,True,Fora
+1533,M-1978-16,1978,group stage,Iran,1,1,False,True,Fora
+1534,M-1978-17,1978,group stage,Hungary,1,3,False,False,Fora
+1535,M-1978-18,1978,group stage,Mexico,1,3,False,False,Fora
+1536,M-1978-19,1978,group stage,Tunisia,0,0,False,True,Fora
+1537,M-1978-20,1978,group stage,Italy,1,0,True,False,Fora
+1538,M-1978-21,1978,group stage,Austria,0,1,False,False,Fora
+1539,M-1978-22,1978,group stage,Sweden,0,1,False,False,Fora
+1540,M-1978-23,1978,group stage,Iran,1,4,False,False,Fora
+1541,M-1978-24,1978,group stage,Netherlands,2,3,False,False,Fora
+1542,M-1978-25,1978,second group stage,Netherlands,5,1,True,False,Fora
+1543,M-1978-26,1978,second group stage,West Germany,0,0,False,True,Fora
+1544,M-1978-27,1978,second group stage,Peru,0,3,False,False,Fora
+1545,M-1978-28,1978,second group stage,Poland,0,2,False,False,Fora
+1546,M-1978-29,1978,second group stage,Poland,1,0,True,False,Fora
+1547,M-1978-30,1978,second group stage,Austria,0,1,False,False,Fora
+1548,M-1978-31,1978,second group stage,West Germany,2,2,False,True,Fora
+1549,M-1978-32,1978,second group stage,Brazil,0,0,False,True,Fora
+1550,M-1978-33,1978,second group stage,West Germany,2,3,False,False,Fora
+1551,M-1978-34,1978,second group stage,Netherlands,2,1,True,False,Fora
+1552,M-1978-35,1978,second group stage,Poland,1,3,False,False,Fora
+1553,M-1978-36,1978,second group stage,Peru,0,6,False,False,Fora
+1554,M-1978-37,1978,third-place match,Italy,1,2,False,False,Fora
+1555,M-1978-38,1978,final,Netherlands,1,3,False,False,Fora
+1556,M-1982-01,1982,group stage,Belgium,1,0,True,False,Fora
+1557,M-1982-02,1982,group stage,Poland,0,0,False,True,Fora
+1558,M-1982-03,1982,group stage,Soviet Union,1,2,False,False,Fora
+1559,M-1982-04,1982,group stage,Cameroon,0,0,False,True,Fora
+1560,M-1982-05,1982,group stage,El Salvador,1,10,False,False,Fora
+1561,M-1982-06,1982,group stage,New Zealand,2,5,False,False,Fora
+1562,M-1982-07,1982,group stage,Algeria,2,1,True,False,Fora
+1563,M-1982-08,1982,group stage,France,1,3,False,False,Fora
+1564,M-1982-09,1982,group stage,Honduras,1,1,False,True,Fora
+1565,M-1982-10,1982,group stage,Austria,1,0,True,False,Fora
+1566,M-1982-11,1982,group stage,Kuwait,1,1,False,True,Fora
+1567,M-1982-12,1982,group stage,Northern Ireland,0,0,False,True,Fora
+1568,M-1982-13,1982,group stage,Peru,1,1,False,True,Fora
+1569,M-1982-14,1982,group stage,Hungary,1,4,False,False,Fora
+1570,M-1982-15,1982,group stage,Scotland,1,4,False,False,Fora
+1571,M-1982-16,1982,group stage,Cameroon,0,0,False,True,Fora
+1572,M-1982-17,1982,group stage,El Salvador,0,1,False,False,Fora
+1573,M-1982-18,1982,group stage,New Zealand,0,3,False,False,Fora
+1574,M-1982-19,1982,group stage,Chile,1,4,False,False,Fora
+1575,M-1982-20,1982,group stage,Czechoslovakia,0,2,False,False,Fora
+1576,M-1982-21,1982,group stage,Yugoslavia,1,2,False,False,Fora
+1577,M-1982-22,1982,group stage,Austria,2,0,True,False,Fora
+1578,M-1982-23,1982,group stage,Kuwait,1,4,False,False,Fora
+1579,M-1982-24,1982,group stage,Northern Ireland,1,1,False,True,Fora
+1580,M-1982-25,1982,group stage,Peru,1,5,False,False,Fora
+1581,M-1982-26,1982,group stage,Hungary,1,1,False,True,Fora
+1582,M-1982-27,1982,group stage,Scotland,2,2,False,True,Fora
+1583,M-1982-28,1982,group stage,Cameroon,1,1,False,True,Fora
+1584,M-1982-29,1982,group stage,El Salvador,0,2,False,False,Fora
+1585,M-1982-30,1982,group stage,New Zealand,0,4,False,False,Fora
+1586,M-1982-31,1982,group stage,Chile,2,3,False,False,Fora
+1587,M-1982-32,1982,group stage,Czechoslovakia,1,1,False,True,Fora
+1588,M-1982-33,1982,group stage,Yugoslavia,1,0,True,False,Fora
+1589,M-1982-34,1982,group stage,Austria,0,1,False,False,Fora
+1590,M-1982-35,1982,group stage,Kuwait,0,1,False,False,Fora
+1591,M-1982-36,1982,group stage,Northern Ireland,1,0,True,False,Fora
+1592,M-1982-37,1982,second group stage,France,1,0,True,False,Fora
+1593,M-1982-38,1982,second group stage,Belgium,0,3,False,False,Fora
+1594,M-1982-39,1982,second group stage,Argentina,1,2,False,False,Fora
+1595,M-1982-40,1982,second group stage,England,0,0,False,True,Fora
+1596,M-1982-41,1982,second group stage,Northern Ireland,2,2,False,True,Fora
+1597,M-1982-42,1982,second group stage,Soviet Union,1,0,True,False,Fora
+1598,M-1982-43,1982,second group stage,Brazil,3,1,True,False,Fora
+1599,M-1982-44,1982,second group stage,Spain,1,2,False,False,Fora
+1600,M-1982-45,1982,second group stage,Northern Ireland,1,4,False,False,Fora
+1601,M-1982-46,1982,second group stage,Poland,0,0,False,True,Fora
+1602,M-1982-47,1982,second group stage,Brazil,2,3,False,False,Fora
+1603,M-1982-48,1982,second group stage,England,0,0,False,True,Fora
+1604,M-1982-49,1982,semi-finals,Italy,2,0,True,False,Fora
+1605,M-1982-50,1982,semi-finals,France,3,3,False,True,Fora
+1606,M-1982-51,1982,third-place match,France,2,3,False,False,Fora
+1607,M-1982-52,1982,final,West Germany,1,3,False,False,Fora
+1608,M-1986-01,1986,group stage,Italy,1,1,False,True,Fora
+1609,M-1986-02,1986,group stage,Brazil,1,0,True,False,Fora
+1610,M-1986-03,1986,group stage,France,1,0,True,False,Fora
+1611,M-1986-04,1986,group stage,South Korea,1,3,False,False,Fora
+1612,M-1986-05,1986,group stage,Hungary,0,6,False,False,Fora
+1613,M-1986-06,1986,group stage,Poland,0,0,False,True,Fora
+1614,M-1986-07,1986,group stage,Mexico,2,1,True,False,Fora
+1615,M-1986-08,1986,group stage,Northern Ireland,1,1,False,True,Fora
+1616,M-1986-09,1986,group stage,England,0,1,False,False,Fora
+1617,M-1986-10,1986,group stage,Iraq,0,1,False,False,Fora
+1618,M-1986-11,1986,group stage,West Germany,1,1,False,True,Fora
+1619,M-1986-12,1986,group stage,Denmark,1,0,True,False,Fora
+1620,M-1986-13,1986,group stage,Argentina,1,1,False,True,Fora
+1621,M-1986-14,1986,group stage,Soviet Union,1,1,False,True,Fora
+1622,M-1986-15,1986,group stage,Bulgaria,1,1,False,True,Fora
+1623,M-1986-16,1986,group stage,Canada,0,2,False,False,Fora
+1624,M-1986-17,1986,group stage,Algeria,0,1,False,False,Fora
+1625,M-1986-18,1986,group stage,Morocco,0,0,False,True,Fora
+1626,M-1986-19,1986,group stage,Paraguay,1,1,False,True,Fora
+1627,M-1986-20,1986,group stage,Spain,2,1,True,False,Fora
+1628,M-1986-21,1986,group stage,Portugal,0,1,False,False,Fora
+1629,M-1986-22,1986,group stage,Belgium,2,1,True,False,Fora
+1630,M-1986-23,1986,group stage,Scotland,1,2,False,False,Fora
+1631,M-1986-24,1986,group stage,Uruguay,1,6,False,False,Fora
+1632,M-1986-25,1986,group stage,France,3,0,True,False,Fora
+1633,M-1986-26,1986,group stage,Canada,0,2,False,False,Fora
+1634,M-1986-27,1986,group stage,Bulgaria,0,2,False,False,Fora
+1635,M-1986-28,1986,group stage,Italy,3,2,True,False,Fora
+1636,M-1986-29,1986,group stage,Mexico,1,0,True,False,Fora
+1637,M-1986-30,1986,group stage,Belgium,2,2,False,True,Fora
+1638,M-1986-31,1986,group stage,Poland,0,3,False,False,Fora
+1639,M-1986-32,1986,group stage,Morocco,3,1,True,False,Fora
+1640,M-1986-33,1986,group stage,Spain,3,0,True,False,Fora
+1641,M-1986-34,1986,group stage,Brazil,3,0,True,False,Fora
+1642,M-1986-35,1986,group stage,West Germany,0,2,False,False,Fora
+1643,M-1986-36,1986,group stage,Uruguay,0,0,False,True,Fora
+1644,M-1986-37,1986,round of 16,Bulgaria,0,2,False,False,Fora
+1645,M-1986-38,1986,round of 16,Belgium,4,3,True,False,Fora
+1646,M-1986-39,1986,round of 16,Poland,0,4,False,False,Fora
+1647,M-1986-40,1986,round of 16,Uruguay,0,1,False,False,Fora
+1648,M-1986-41,1986,round of 16,France,2,0,True,False,Fora
+1649,M-1986-42,1986,round of 16,West Germany,1,0,True,False,Fora
+1650,M-1986-43,1986,round of 16,Paraguay,0,3,False,False,Fora
+1651,M-1986-44,1986,round of 16,Spain,5,1,True,False,Fora
+1652,M-1986-45,1986,quarter-finals,France,1,1,False,True,Fora
+1653,M-1986-46,1986,quarter-finals,Mexico,0,0,False,True,Fora
+1654,M-1986-47,1986,quarter-finals,England,1,2,False,False,Fora
+1655,M-1986-48,1986,quarter-finals,Belgium,1,1,False,True,Fora
+1656,M-1986-49,1986,semi-finals,West Germany,2,0,True,False,Fora
+1657,M-1986-50,1986,semi-finals,Belgium,0,2,False,False,Fora
+1658,M-1986-51,1986,third-place match,France,4,2,True,False,Fora
+1659,M-1986-52,1986,final,West Germany,2,3,False,False,Fora
+1660,M-1990-01,1990,group stage,Cameroon,1,0,True,False,Fora
+1661,M-1990-02,1990,group stage,Romania,2,0,True,False,Fora
+1662,M-1990-03,1990,group stage,Colombia,2,0,True,False,Fora
+1663,M-1990-04,1990,group stage,Austria,0,1,False,False,Fora
+1664,M-1990-05,1990,group stage,Czechoslovakia,5,1,True,False,Fora
+1665,M-1990-06,1990,group stage,Sweden,1,2,False,False,Fora
+1666,M-1990-07,1990,group stage,Yugoslavia,1,4,False,False,Fora
+1667,M-1990-08,1990,group stage,Scotland,0,1,False,False,Fora
+1668,M-1990-09,1990,group stage,Republic of Ireland,1,1,False,True,Fora
+1669,M-1990-10,1990,group stage,South Korea,0,2,False,False,Fora
+1670,M-1990-11,1990,group stage,Egypt,1,1,False,True,Fora
+1671,M-1990-12,1990,group stage,Spain,0,0,False,True,Fora
+1672,M-1990-13,1990,group stage,Soviet Union,0,2,False,False,Fora
+1673,M-1990-14,1990,group stage,Romania,1,2,False,False,Fora
+1674,M-1990-15,1990,group stage,Colombia,0,1,False,False,Fora
+1675,M-1990-16,1990,group stage,United States,0,1,False,False,Fora
+1676,M-1990-17,1990,group stage,Czechoslovakia,1,0,True,False,Fora
+1677,M-1990-18,1990,group stage,United Arab Emirates,1,5,False,False,Fora
+1678,M-1990-19,1990,group stage,Costa Rica,0,1,False,False,Fora
+1679,M-1990-20,1990,group stage,Scotland,2,1,True,False,Fora
+1680,M-1990-21,1990,group stage,Netherlands,0,0,False,True,Fora
+1681,M-1990-22,1990,group stage,Egypt,0,0,False,True,Fora
+1682,M-1990-23,1990,group stage,Uruguay,1,3,False,False,Fora
+1683,M-1990-24,1990,group stage,Spain,3,1,True,False,Fora
+1684,M-1990-25,1990,group stage,Romania,1,1,False,True,Fora
+1685,M-1990-26,1990,group stage,Soviet Union,4,0,True,False,Fora
+1686,M-1990-27,1990,group stage,Colombia,1,1,False,True,Fora
+1687,M-1990-28,1990,group stage,United Arab Emirates,1,4,False,False,Fora
+1688,M-1990-29,1990,group stage,United States,1,2,False,False,Fora
+1689,M-1990-30,1990,group stage,Czechoslovakia,0,2,False,False,Fora
+1690,M-1990-31,1990,group stage,Scotland,0,1,False,False,Fora
+1691,M-1990-32,1990,group stage,Costa Rica,2,1,True,False,Fora
+1692,M-1990-33,1990,group stage,Spain,2,1,True,False,Fora
+1693,M-1990-34,1990,group stage,Uruguay,1,0,True,False,Fora
+1694,M-1990-35,1990,group stage,Egypt,0,1,False,False,Fora
+1695,M-1990-36,1990,group stage,Netherlands,1,1,False,True,Fora
+1696,M-1990-37,1990,round of 16,Colombia,1,2,False,False,Fora
+1697,M-1990-38,1990,round of 16,Costa Rica,1,4,False,False,Fora
+1698,M-1990-39,1990,round of 16,Argentina,1,0,True,False,Fora
+1699,M-1990-40,1990,round of 16,Netherlands,1,2,False,False,Fora
+1700,M-1990-41,1990,round of 16,Romania,0,0,False,True,Fora
+1701,M-1990-42,1990,round of 16,Uruguay,0,2,False,False,Fora
+1702,M-1990-43,1990,round of 16,Yugoslavia,2,1,True,False,Fora
+1703,M-1990-44,1990,round of 16,Belgium,0,1,False,False,Fora
+1704,M-1990-45,1990,quarter-finals,Yugoslavia,0,0,False,True,Fora
+1705,M-1990-46,1990,quarter-finals,Italy,1,0,True,False,Fora
+1706,M-1990-47,1990,quarter-finals,West Germany,1,0,True,False,Fora
+1707,M-1990-48,1990,quarter-finals,England,3,2,True,False,Fora
+1708,M-1990-49,1990,semi-finals,Italy,1,1,False,True,Fora
+1709,M-1990-50,1990,semi-finals,England,1,1,False,True,Fora
+1710,M-1990-51,1990,third-place match,England,1,2,False,False,Fora
+1711,M-1990-52,1990,final,Argentina,0,1,False,False,Fora
+1712,M-1991-01,1991,group stage,Norway,0,4,False,False,Fora
+1713,M-1991-02,1991,group stage,Nigeria,0,4,False,False,Fora
+1714,M-1991-03,1991,group stage,New Zealand,0,3,False,False,Fora
+1715,M-1991-04,1991,group stage,Brazil,1,0,True,False,Fora
+1716,M-1991-05,1991,group stage,United States,3,2,True,False,Fora
+1717,M-1991-06,1991,group stage,Italy,5,0,True,False,Fora
+1718,M-1991-07,1991,group stage,New Zealand,0,4,False,False,Fora
+1719,M-1991-08,1991,group stage,Nigeria,0,1,False,False,Fora
+1720,M-1991-09,1991,group stage,Denmark,2,2,False,True,Fora
+1721,M-1991-10,1991,group stage,United States,5,0,True,False,Fora
+1722,M-1991-11,1991,group stage,Sweden,8,0,True,False,Fora
+1723,M-1991-12,1991,group stage,Germany,3,0,True,False,Fora
+1724,M-1991-13,1991,group stage,Sweden,2,0,True,False,Fora
+1725,M-1991-14,1991,group stage,United States,3,0,True,False,Fora
+1726,M-1991-15,1991,group stage,New Zealand,1,4,False,False,Fora
+1727,M-1991-16,1991,group stage,Denmark,1,2,False,False,Fora
+1728,M-1991-17,1991,group stage,Nigeria,0,2,False,False,Fora
+1729,M-1991-18,1991,group stage,Germany,2,0,True,False,Fora
+1730,M-1991-19,1991,quarter-final,Germany,2,1,True,False,Fora
+1731,M-1991-20,1991,quarter-final,Sweden,1,0,True,False,Fora
+1732,M-1991-21,1991,quarter-final,Italy,2,3,False,False,Fora
+1733,M-1991-22,1991,quarter-final,Chinese Taipei,0,7,False,False,Fora
+1734,M-1991-23,1991,semi-final,Norway,4,1,True,False,Fora
+1735,M-1991-24,1991,semi-final,United States,5,2,True,False,Fora
+1736,M-1991-25,1991,third-place match,Germany,0,4,False,False,Fora
+1737,M-1991-26,1991,final,United States,2,1,True,False,Fora
+1738,M-1994-01,1994,group stage,Bolivia,0,1,False,False,Fora
+1739,M-1994-02,1994,group stage,South Korea,2,2,False,True,Fora
+1740,M-1994-03,1994,group stage,Switzerland,1,1,False,True,Fora
+1741,M-1994-04,1994,group stage,Republic of Ireland,1,0,True,False,Fora
+1742,M-1994-05,1994,group stage,Romania,3,1,True,False,Fora
+1743,M-1994-06,1994,group stage,Morocco,0,1,False,False,Fora
+1744,M-1994-07,1994,group stage,Mexico,0,1,False,False,Fora
+1745,M-1994-08,1994,group stage,Sweden,2,2,False,True,Fora
+1746,M-1994-09,1994,group stage,Russia,0,2,False,False,Fora
+1747,M-1994-10,1994,group stage,Saudi Arabia,1,2,False,False,Fora
+1748,M-1994-11,1994,group stage,Greece,0,4,False,False,Fora
+1749,M-1994-12,1994,group stage,Spain,1,1,False,True,Fora
+1750,M-1994-13,1994,group stage,Bulgaria,0,3,False,False,Fora
+1751,M-1994-14,1994,group stage,Switzerland,4,1,True,False,Fora
+1752,M-1994-15,1994,group stage,Colombia,1,2,False,False,Fora
+1753,M-1994-16,1994,group stage,Norway,0,1,False,False,Fora
+1754,M-1994-17,1994,group stage,Bolivia,0,0,False,True,Fora
+1755,M-1994-18,1994,group stage,Republic of Ireland,1,2,False,False,Fora
+1756,M-1994-19,1994,group stage,Cameroon,0,3,False,False,Fora
+1757,M-1994-20,1994,group stage,Russia,1,3,False,False,Fora
+1758,M-1994-21,1994,group stage,Netherlands,0,1,False,False,Fora
+1759,M-1994-22,1994,group stage,Morocco,1,2,False,False,Fora
+1760,M-1994-23,1994,group stage,Nigeria,1,2,False,False,Fora
+1761,M-1994-24,1994,group stage,Greece,0,4,False,False,Fora
+1762,M-1994-25,1994,group stage,Colombia,2,0,True,False,Fora
+1763,M-1994-26,1994,group stage,Romania,1,0,True,False,Fora
+1764,M-1994-27,1994,group stage,Spain,3,1,True,False,Fora
+1765,M-1994-28,1994,group stage,South Korea,2,3,False,False,Fora
+1766,M-1994-29,1994,group stage,Mexico,1,1,False,True,Fora
+1767,M-1994-30,1994,group stage,Norway,0,0,False,True,Fora
+1768,M-1994-31,1994,group stage,Cameroon,1,6,False,False,Fora
+1769,M-1994-32,1994,group stage,Sweden,1,1,False,True,Fora
+1770,M-1994-33,1994,group stage,Saudi Arabia,1,0,True,False,Fora
+1771,M-1994-34,1994,group stage,Netherlands,2,1,True,False,Fora
+1772,M-1994-35,1994,group stage,Bulgaria,2,0,True,False,Fora
+1773,M-1994-36,1994,group stage,Nigeria,2,0,True,False,Fora
+1774,M-1994-37,1994,round of 16,Belgium,2,3,False,False,Fora
+1775,M-1994-38,1994,round of 16,Switzerland,0,3,False,False,Fora
+1776,M-1994-39,1994,round of 16,Sweden,3,1,True,False,Fora
+1777,M-1994-40,1994,round of 16,Argentina,2,3,False,False,Fora
+1778,M-1994-41,1994,round of 16,Republic of Ireland,0,2,False,False,Fora
+1779,M-1994-42,1994,round of 16,United States,0,1,False,False,Fora
+1780,M-1994-43,1994,round of 16,Italy,2,1,True,False,Fora
+1781,M-1994-44,1994,round of 16,Bulgaria,1,1,False,True,Fora
+1782,M-1994-45,1994,quarter-finals,Spain,1,2,False,False,Fora
+1783,M-1994-46,1994,quarter-finals,Brazil,3,2,True,False,Fora
+1784,M-1994-47,1994,quarter-finals,Germany,1,2,False,False,Fora
+1785,M-1994-48,1994,quarter-finals,Sweden,2,2,False,True,Fora
+1786,M-1994-49,1994,semi-finals,Italy,2,1,True,False,Fora
+1787,M-1994-50,1994,semi-finals,Brazil,1,0,True,False,Fora
+1788,M-1994-51,1994,third-place match,Bulgaria,0,4,False,False,Fora
+1789,M-1994-52,1994,final,Italy,0,0,False,True,Fora
+1790,M-1995-01,1995,group stage,Japan,0,1,False,False,Fora
+1791,M-1995-02,1995,group stage,Brazil,1,0,True,False,Fora
+1792,M-1995-03,1995,group stage,Canada,2,3,False,False,Fora
+1793,M-1995-04,1995,group stage,Nigeria,0,8,False,False,Fora
+1794,M-1995-05,1995,group stage,Australia,0,5,False,False,Fora
+1795,M-1995-06,1995,group stage,China,3,3,False,True,Fora
+1796,M-1995-07,1995,group stage,Japan,2,1,True,False,Fora
+1797,M-1995-08,1995,group stage,Germany,2,3,False,False,Fora
+1798,M-1995-09,1995,group stage,Canada,3,3,False,True,Fora
+1799,M-1995-10,1995,group stage,England,0,2,False,False,Fora
+1800,M-1995-11,1995,group stage,Australia,2,4,False,False,Fora
+1801,M-1995-12,1995,group stage,Denmark,0,2,False,False,Fora
+1802,M-1995-13,1995,group stage,Germany,6,1,True,False,Fora
+1803,M-1995-14,1995,group stage,Japan,0,2,False,False,Fora
+1804,M-1995-15,1995,group stage,England,3,2,True,False,Fora
+1805,M-1995-16,1995,group stage,Canada,0,7,False,False,Fora
+1806,M-1995-17,1995,group stage,Denmark,1,3,False,False,Fora
+1807,M-1995-18,1995,group stage,Australia,1,4,False,False,Fora
+1808,M-1995-19,1995,quarter-final,United States,4,0,True,False,Fora
+1809,M-1995-20,1995,quarter-final,Denmark,1,3,False,False,Fora
+1810,M-1995-21,1995,quarter-final,England,0,3,False,False,Fora
+1811,M-1995-22,1995,quarter-final,China,1,1,False,True,Fora
+1812,M-1995-23,1995,semi-final,Norway,1,0,True,False,Fora
+1813,M-1995-24,1995,semi-final,China,0,1,False,False,Fora
+1814,M-1995-25,1995,third-place match,United States,2,0,True,False,Fora
+1815,M-1995-26,1995,final,Norway,2,0,True,False,Fora
+1816,M-1998-01,1998,group stage,Scotland,1,2,False,False,Fora
+1817,M-1998-02,1998,group stage,Norway,2,2,False,True,Fora
+1818,M-1998-03,1998,group stage,Chile,2,2,False,True,Fora
+1819,M-1998-04,1998,group stage,Austria,1,1,False,True,Fora
+1820,M-1998-05,1998,group stage,Bulgaria,0,0,False,True,Fora
+1821,M-1998-06,1998,group stage,Denmark,1,0,True,False,Fora
+1822,M-1998-07,1998,group stage,South Africa,0,3,False,False,Fora
+1823,M-1998-08,1998,group stage,Nigeria,3,2,True,False,Fora
+1824,M-1998-09,1998,group stage,Mexico,3,1,True,False,Fora
+1825,M-1998-10,1998,group stage,Belgium,0,0,False,True,Fora
+1826,M-1998-11,1998,group stage,Japan,0,1,False,False,Fora
+1827,M-1998-12,1998,group stage,Iran,0,1,False,False,Fora
+1828,M-1998-13,1998,group stage,Croatia,3,1,True,False,Fora
+1829,M-1998-14,1998,group stage,Tunisia,0,2,False,False,Fora
+1830,M-1998-15,1998,group stage,Colombia,0,1,False,False,Fora
+1831,M-1998-16,1998,group stage,United States,0,2,False,False,Fora
+1832,M-1998-17,1998,group stage,Norway,1,1,False,True,Fora
+1833,M-1998-18,1998,group stage,Morocco,0,3,False,False,Fora
+1834,M-1998-19,1998,group stage,Austria,1,1,False,True,Fora
+1835,M-1998-20,1998,group stage,Cameroon,0,3,False,False,Fora
+1836,M-1998-21,1998,group stage,Denmark,1,1,False,True,Fora
+1837,M-1998-22,1998,group stage,Saudi Arabia,0,4,False,False,Fora
+1838,M-1998-23,1998,group stage,Bulgaria,0,1,False,False,Fora
+1839,M-1998-24,1998,group stage,Paraguay,0,0,False,True,Fora
+1840,M-1998-25,1998,group stage,Croatia,1,0,True,False,Fora
+1841,M-1998-26,1998,group stage,Mexico,2,2,False,True,Fora
+1842,M-1998-27,1998,group stage,South Korea,0,5,False,False,Fora
+1843,M-1998-28,1998,group stage,Yugoslavia,2,2,False,True,Fora
+1844,M-1998-29,1998,group stage,Jamaica,0,5,False,False,Fora
+1845,M-1998-30,1998,group stage,Iran,2,1,True,False,Fora
+1846,M-1998-31,1998,group stage,Tunisia,0,1,False,False,Fora
+1847,M-1998-32,1998,group stage,England,1,2,False,False,Fora
+1848,M-1998-33,1998,group stage,Cameroon,1,1,False,True,Fora
+1849,M-1998-34,1998,group stage,Austria,1,2,False,False,Fora
+1850,M-1998-35,1998,group stage,Norway,2,1,True,False,Fora
+1851,M-1998-36,1998,group stage,Morocco,3,0,True,False,Fora
+1852,M-1998-37,1998,group stage,Denmark,1,2,False,False,Fora
+1853,M-1998-38,1998,group stage,Saudi Arabia,2,2,False,True,Fora
+1854,M-1998-39,1998,group stage,Paraguay,3,1,True,False,Fora
+1855,M-1998-40,1998,group stage,Bulgaria,1,6,False,False,Fora
+1856,M-1998-41,1998,group stage,South Korea,1,1,False,True,Fora
+1857,M-1998-42,1998,group stage,Mexico,2,2,False,True,Fora
+1858,M-1998-43,1998,group stage,Iran,0,2,False,False,Fora
+1859,M-1998-44,1998,group stage,Yugoslavia,1,0,True,False,Fora
+1860,M-1998-45,1998,group stage,Croatia,0,1,False,False,Fora
+1861,M-1998-46,1998,group stage,Jamaica,2,1,True,False,Fora
+1862,M-1998-47,1998,group stage,England,2,0,True,False,Fora
+1863,M-1998-48,1998,group stage,Tunisia,1,1,False,True,Fora
+1864,M-1998-49,1998,round of 16,Norway,0,1,False,False,Fora
+1865,M-1998-50,1998,round of 16,Chile,1,4,False,False,Fora
+1866,M-1998-51,1998,round of 16,Paraguay,0,1,False,False,Fora
+1867,M-1998-52,1998,round of 16,Denmark,4,1,True,False,Fora
+1868,M-1998-53,1998,round of 16,Mexico,1,2,False,False,Fora
+1869,M-1998-54,1998,round of 16,Yugoslavia,1,2,False,False,Fora
+1870,M-1998-55,1998,round of 16,Croatia,1,0,True,False,Fora
+1871,M-1998-56,1998,round of 16,England,2,2,False,True,Fora
+1872,M-1998-57,1998,quarter-finals,France,0,0,False,True,Fora
+1873,M-1998-58,1998,quarter-finals,Denmark,2,3,False,False,Fora
+1874,M-1998-59,1998,quarter-finals,Argentina,1,2,False,False,Fora
+1875,M-1998-60,1998,quarter-finals,Croatia,3,0,True,False,Fora
+1876,M-1998-61,1998,semi-finals,Netherlands,1,1,False,True,Fora
+1877,M-1998-62,1998,semi-finals,Croatia,1,2,False,False,Fora
+1878,M-1998-63,1998,third-place match,Croatia,2,1,True,False,Fora
+1879,M-1998-64,1998,final,France,3,0,True,False,Fora
+1880,M-1999-01,1999,group stage,Denmark,0,3,False,False,Fora
+1881,M-1999-02,1999,group stage,Sweden,1,2,False,False,Fora
+1882,M-1999-03,1999,group stage,Mexico,1,7,False,False,Fora
+1883,M-1999-04,1999,group stage,Canada,1,1,False,True,Fora
+1884,M-1999-05,1999,group stage,Italy,1,1,False,True,Fora
+1885,M-1999-06,1999,group stage,Russia,1,2,False,False,Fora
+1886,M-1999-07,1999,group stage,Nigeria,2,1,True,False,Fora
+1887,M-1999-08,1999,group stage,Ghana,1,1,False,True,Fora
+1888,M-1999-09,1999,group stage,Russia,5,0,True,False,Fora
+1889,M-1999-10,1999,group stage,Canada,1,7,False,False,Fora
+1890,M-1999-11,1999,group stage,Sweden,3,1,True,False,Fora
+1891,M-1999-12,1999,group stage,Ghana,0,7,False,False,Fora
+1892,M-1999-13,1999,group stage,Italy,0,2,False,False,Fora
+1893,M-1999-14,1999,group stage,Denmark,1,3,False,False,Fora
+1894,M-1999-15,1999,group stage,Nigeria,1,7,False,False,Fora
+1895,M-1999-16,1999,group stage,Mexico,0,6,False,False,Fora
+1896,M-1999-17,1999,group stage,Russia,4,1,True,False,Fora
+1897,M-1999-18,1999,group stage,Australia,1,3,False,False,Fora
+1898,M-1999-19,1999,group stage,Sweden,2,0,True,False,Fora
+1899,M-1999-20,1999,group stage,Japan,0,4,False,False,Fora
+1900,M-1999-21,1999,group stage,Brazil,3,3,False,True,Fora
+1901,M-1999-22,1999,group stage,Denmark,0,2,False,False,Fora
+1902,M-1999-23,1999,group stage,Italy,2,0,True,False,Fora
+1903,M-1999-24,1999,group stage,North Korea,0,3,False,False,Fora
+1904,M-1999-25,1999,quarter-final,Russia,0,2,False,False,Fora
+1905,M-1999-26,1999,quarter-final,Sweden,1,3,False,False,Fora
+1906,M-1999-27,1999,quarter-final,Germany,2,3,False,False,Fora
+1907,M-1999-28,1999,quarter-final,Nigeria,3,4,False,False,Fora
+1908,M-1999-29,1999,semi-final,Brazil,0,2,False,False,Fora
+1909,M-1999-30,1999,semi-final,China,5,0,True,False,Fora
+1910,M-1999-31,1999,third-place match,Norway,0,0,False,True,Fora
+1911,M-1999-32,1999,final,China,0,0,False,True,Fora
+1912,M-2002-01,2002,group stage,Senegal,1,0,True,False,Fora
+1913,M-2002-02,2002,group stage,Cameroon,1,1,False,True,Fora
+1914,M-2002-03,2002,group stage,Denmark,2,1,True,False,Fora
+1915,M-2002-04,2002,group stage,Saudi Arabia,0,8,False,False,Fora
+1916,M-2002-05,2002,group stage,Nigeria,0,1,False,False,Fora
+1917,M-2002-06,2002,group stage,South Africa,2,2,False,True,Fora
+1918,M-2002-07,2002,group stage,Sweden,1,1,False,True,Fora
+1919,M-2002-08,2002,group stage,Slovenia,1,3,False,False,Fora
+1920,M-2002-09,2002,group stage,Mexico,1,0,True,False,Fora
+1921,M-2002-10,2002,group stage,Turkey,1,2,False,False,Fora
+1922,M-2002-11,2002,group stage,Ecuador,0,2,False,False,Fora
+1923,M-2002-12,2002,group stage,Costa Rica,2,0,True,False,Fora
+1924,M-2002-13,2002,group stage,Belgium,2,2,False,True,Fora
+1925,M-2002-14,2002,group stage,Poland,0,2,False,False,Fora
+1926,M-2002-15,2002,group stage,Tunisia,0,2,False,False,Fora
+1927,M-2002-16,2002,group stage,Portugal,2,3,False,False,Fora
+1928,M-2002-17,2002,group stage,Republic of Ireland,1,1,False,True,Fora
+1929,M-2002-18,2002,group stage,Senegal,1,1,False,True,Fora
+1930,M-2002-19,2002,group stage,Saudi Arabia,0,1,False,False,Fora
+1931,M-2002-20,2002,group stage,Uruguay,0,0,False,True,Fora
+1932,M-2002-21,2002,group stage,Nigeria,1,2,False,False,Fora
+1933,M-2002-22,2002,group stage,Paraguay,1,3,False,False,Fora
+1934,M-2002-23,2002,group stage,England,1,0,True,False,Fora
+1935,M-2002-24,2002,group stage,Slovenia,0,1,False,False,Fora
+1936,M-2002-25,2002,group stage,Croatia,2,1,True,False,Fora
+1937,M-2002-26,2002,group stage,China,0,4,False,False,Fora
+1938,M-2002-27,2002,group stage,Ecuador,1,2,False,False,Fora
+1939,M-2002-28,2002,group stage,Turkey,1,1,False,True,Fora
+1940,M-2002-29,2002,group stage,Russia,0,1,False,False,Fora
+1941,M-2002-30,2002,group stage,United States,1,1,False,True,Fora
+1942,M-2002-31,2002,group stage,Belgium,1,1,False,True,Fora
+1943,M-2002-32,2002,group stage,Poland,0,4,False,False,Fora
+1944,M-2002-33,2002,group stage,France,0,2,False,False,Fora
+1945,M-2002-34,2002,group stage,Uruguay,3,3,False,True,Fora
+1946,M-2002-35,2002,group stage,Germany,2,0,True,False,Fora
+1947,M-2002-36,2002,group stage,Republic of Ireland,3,0,True,False,Fora
+1948,M-2002-37,2002,group stage,England,0,0,False,True,Fora
+1949,M-2002-38,2002,group stage,Argentina,1,1,False,True,Fora
+1950,M-2002-39,2002,group stage,Paraguay,3,1,True,False,Fora
+1951,M-2002-40,2002,group stage,Spain,3,2,True,False,Fora
+1952,M-2002-41,2002,group stage,Brazil,5,2,True,False,Fora
+1953,M-2002-42,2002,group stage,China,0,3,False,False,Fora
+1954,M-2002-43,2002,group stage,Croatia,0,1,False,False,Fora
+1955,M-2002-44,2002,group stage,Italy,1,1,False,True,Fora
+1956,M-2002-45,2002,group stage,Russia,2,3,False,False,Fora
+1957,M-2002-46,2002,group stage,Japan,2,0,True,False,Fora
+1958,M-2002-47,2002,group stage,United States,1,3,False,False,Fora
+1959,M-2002-48,2002,group stage,South Korea,1,0,True,False,Fora
+1960,M-2002-49,2002,round of 16,Paraguay,0,1,False,False,Fora
+1961,M-2002-50,2002,round of 16,England,3,0,True,False,Fora
+1962,M-2002-51,2002,round of 16,Senegal,2,1,True,False,Fora
+1963,M-2002-52,2002,round of 16,Republic of Ireland,1,1,False,True,Fora
+1964,M-2002-53,2002,round of 16,United States,2,0,True,False,Fora
+1965,M-2002-54,2002,round of 16,Belgium,0,2,False,False,Fora
+1966,M-2002-55,2002,round of 16,Turkey,1,0,True,False,Fora
+1967,M-2002-56,2002,round of 16,Italy,1,2,False,False,Fora
+1968,M-2002-57,2002,quarter-finals,Brazil,2,1,True,False,Fora
+1969,M-2002-58,2002,quarter-finals,United States,0,1,False,False,Fora
+1970,M-2002-59,2002,quarter-finals,South Korea,0,0,False,True,Fora
+1971,M-2002-60,2002,quarter-finals,Turkey,1,0,True,False,Fora
+1972,M-2002-61,2002,semi-finals,South Korea,0,1,False,False,Fora
+1973,M-2002-62,2002,semi-finals,Turkey,0,1,False,False,Fora
+1974,M-2002-63,2002,third-place match,Turkey,3,2,True,False,Fora
+1975,M-2002-64,2002,final,Brazil,2,0,True,False,Fora
+1976,M-2003-01,2003,group stage,France,0,2,False,False,Fora
+1977,M-2003-02,2003,group stage,North Korea,3,0,True,False,Fora
+1978,M-2003-03,2003,group stage,Canada,1,4,False,False,Fora
+1979,M-2003-04,2003,group stage,Argentina,0,6,False,False,Fora
+1980,M-2003-05,2003,group stage,Sweden,1,3,False,False,Fora
+1981,M-2003-06,2003,group stage,South Korea,0,3,False,False,Fora
+1982,M-2003-07,2003,group stage,Russia,2,1,True,False,Fora
+1983,M-2003-08,2003,group stage,Ghana,0,1,False,False,Fora
+1984,M-2003-09,2003,group stage,Brazil,4,1,True,False,Fora
+1985,M-2003-10,2003,group stage,Japan,0,3,False,False,Fora
+1986,M-2003-11,2003,group stage,South Korea,0,1,False,False,Fora
+1987,M-2003-12,2003,group stage,Argentina,0,3,False,False,Fora
+1988,M-2003-13,2003,group stage,Russia,3,0,True,False,Fora
+1989,M-2003-14,2003,group stage,North Korea,0,1,False,False,Fora
+1990,M-2003-15,2003,group stage,Australia,1,1,False,True,Fora
+1991,M-2003-16,2003,group stage,Nigeria,0,5,False,False,Fora
+1992,M-2003-17,2003,group stage,Brazil,1,1,False,True,Fora
+1993,M-2003-18,2003,group stage,Norway,7,1,True,False,Fora
+1994,M-2003-19,2003,group stage,Germany,6,1,True,False,Fora
+1995,M-2003-20,2003,group stage,Japan,1,3,False,False,Fora
+1996,M-2003-21,2003,group stage,Nigeria,0,3,False,False,Fora
+1997,M-2003-22,2003,group stage,United States,3,0,True,False,Fora
+1998,M-2003-23,2003,group stage,Australia,1,2,False,False,Fora
+1999,M-2003-24,2003,group stage,Russia,0,1,False,False,Fora
+2000,M-2003-25,2003,quarter-final,Sweden,2,1,True,False,Fora
+2001,M-2003-26,2003,quarter-final,Norway,0,1,False,False,Fora
+2002,M-2003-27,2003,quarter-final,Russia,1,7,False,False,Fora
+2003,M-2003-28,2003,quarter-final,Canada,1,0,True,False,Fora
+2004,M-2003-29,2003,semi-final,Germany,3,0,True,False,Fora
+2005,M-2003-30,2003,semi-final,Canada,1,2,False,False,Fora
+2006,M-2003-31,2003,third-place match,Canada,1,3,False,False,Fora
+2007,M-2003-32,2003,final,Sweden,1,2,False,False,Fora
+2008,M-2006-01,2006,group stage,Costa Rica,2,4,False,False,Fora
+2009,M-2006-02,2006,group stage,Ecuador,2,0,True,False,Fora
+2010,M-2006-03,2006,group stage,Paraguay,0,1,False,False,Fora
+2011,M-2006-04,2006,group stage,Sweden,0,0,False,True,Fora
+2012,M-2006-05,2006,group stage,Ivory Coast,1,2,False,False,Fora
+2013,M-2006-06,2006,group stage,Netherlands,1,0,True,False,Fora
+2014,M-2006-07,2006,group stage,Iran,1,3,False,False,Fora
+2015,M-2006-08,2006,group stage,Portugal,1,0,True,False,Fora
+2016,M-2006-09,2006,group stage,Japan,1,3,False,False,Fora
+2017,M-2006-10,2006,group stage,Czech Republic,3,0,True,False,Fora
+2018,M-2006-11,2006,group stage,Ghana,0,2,False,False,Fora
+2019,M-2006-12,2006,group stage,Togo,1,2,False,False,Fora
+2020,M-2006-13,2006,group stage,Switzerland,0,0,False,True,Fora
+2021,M-2006-14,2006,group stage,Croatia,0,1,False,False,Fora
+2022,M-2006-15,2006,group stage,Ukraine,0,4,False,False,Fora
+2023,M-2006-16,2006,group stage,Saudi Arabia,2,2,False,True,Fora
+2024,M-2006-17,2006,group stage,Poland,0,1,False,False,Fora
+2025,M-2006-18,2006,group stage,Costa Rica,0,3,False,False,Fora
+2026,M-2006-19,2006,group stage,Trinidad and Tobago,0,2,False,False,Fora
+2027,M-2006-20,2006,group stage,Paraguay,0,1,False,False,Fora
+2028,M-2006-21,2006,group stage,Serbia and Montenegro,0,6,False,False,Fora
+2029,M-2006-22,2006,group stage,Ivory Coast,1,2,False,False,Fora
+2030,M-2006-23,2006,group stage,Angola,0,0,False,True,Fora
+2031,M-2006-24,2006,group stage,Iran,0,2,False,False,Fora
+2032,M-2006-25,2006,group stage,Ghana,2,0,True,False,Fora
+2033,M-2006-26,2006,group stage,United States,1,1,False,True,Fora
+2034,M-2006-27,2006,group stage,Croatia,0,0,False,True,Fora
+2035,M-2006-28,2006,group stage,Australia,0,2,False,False,Fora
+2036,M-2006-29,2006,group stage,South Korea,1,1,False,True,Fora
+2037,M-2006-30,2006,group stage,Switzerland,2,0,True,False,Fora
+2038,M-2006-31,2006,group stage,Ukraine,4,0,True,False,Fora
+2039,M-2006-32,2006,group stage,Tunisia,1,3,False,False,Fora
+2040,M-2006-33,2006,group stage,Poland,2,1,True,False,Fora
+2041,M-2006-34,2006,group stage,Germany,3,0,True,False,Fora
+2042,M-2006-35,2006,group stage,Trinidad and Tobago,0,2,False,False,Fora
+2043,M-2006-36,2006,group stage,England,2,2,False,True,Fora
+2044,M-2006-37,2006,group stage,Angola,1,1,False,True,Fora
+2045,M-2006-38,2006,group stage,Mexico,1,2,False,False,Fora
+2046,M-2006-39,2006,group stage,Serbia and Montenegro,2,3,False,False,Fora
+2047,M-2006-40,2006,group stage,Argentina,0,0,False,True,Fora
+2048,M-2006-41,2006,group stage,Italy,2,0,True,False,Fora
+2049,M-2006-42,2006,group stage,United States,1,2,False,False,Fora
+2050,M-2006-43,2006,group stage,Australia,2,2,False,True,Fora
+2051,M-2006-44,2006,group stage,Brazil,4,1,True,False,Fora
+2052,M-2006-45,2006,group stage,Spain,1,0,True,False,Fora
+2053,M-2006-46,2006,group stage,Tunisia,0,1,False,False,Fora
+2054,M-2006-47,2006,group stage,South Korea,0,2,False,False,Fora
+2055,M-2006-48,2006,group stage,France,2,0,True,False,Fora
+2056,M-2006-49,2006,round of 16,Sweden,0,2,False,False,Fora
+2057,M-2006-50,2006,round of 16,Mexico,1,2,False,False,Fora
+2058,M-2006-51,2006,round of 16,Ecuador,0,1,False,False,Fora
+2059,M-2006-52,2006,round of 16,Netherlands,0,1,False,False,Fora
+2060,M-2006-53,2006,round of 16,Australia,0,1,False,False,Fora
+2061,M-2006-54,2006,round of 16,Ukraine,0,0,False,True,Fora
+2062,M-2006-55,2006,round of 16,Ghana,0,3,False,False,Fora
+2063,M-2006-56,2006,round of 16,France,3,1,True,False,Fora
+2064,M-2006-57,2006,quarter-finals,Argentina,1,1,False,True,Fora
+2065,M-2006-58,2006,quarter-finals,Ukraine,0,3,False,False,Fora
+2066,M-2006-59,2006,quarter-finals,Portugal,0,0,False,True,Fora
+2067,M-2006-60,2006,quarter-finals,France,1,0,True,False,Fora
+2068,M-2006-61,2006,semi-finals,Italy,2,0,True,False,Fora
+2069,M-2006-62,2006,semi-finals,France,1,0,True,False,Fora
+2070,M-2006-63,2006,third-place match,Portugal,1,3,False,False,Fora
+2071,M-2006-64,2006,final,France,1,1,False,True,Fora
+2072,M-2007-01,2007,group stage,Argentina,0,11,False,False,Fora
+2073,M-2007-02,2007,group stage,North Korea,2,2,False,True,Fora
+2074,M-2007-03,2007,group stage,England,2,2,False,True,Fora
+2075,M-2007-04,2007,group stage,Sweden,1,1,False,True,Fora
+2076,M-2007-05,2007,group stage,Australia,4,1,True,False,Fora
+2077,M-2007-06,2007,group stage,Brazil,5,0,True,False,Fora
+2078,M-2007-07,2007,group stage,Canada,1,2,False,False,Fora
+2079,M-2007-08,2007,group stage,Denmark,2,3,False,False,Fora
+2080,M-2007-09,2007,group stage,Japan,1,0,True,False,Fora
+2081,M-2007-10,2007,group stage,United States,2,0,True,False,Fora
+2082,M-2007-11,2007,group stage,Germany,0,0,False,True,Fora
+2083,M-2007-12,2007,group stage,Nigeria,0,2,False,False,Fora
+2084,M-2007-13,2007,group stage,Ghana,0,4,False,False,Fora
+2085,M-2007-14,2007,group stage,New Zealand,0,2,False,False,Fora
+2086,M-2007-15,2007,group stage,Norway,1,1,False,True,Fora
+2087,M-2007-16,2007,group stage,China,0,4,False,False,Fora
+2088,M-2007-17,2007,group stage,Argentina,1,6,False,False,Fora
+2089,M-2007-18,2007,group stage,Japan,0,2,False,False,Fora
+2090,M-2007-19,2007,group stage,United States,1,0,True,False,Fora
+2091,M-2007-20,2007,group stage,Sweden,2,1,True,False,Fora
+2092,M-2007-21,2007,group stage,Canada,2,2,False,True,Fora
+2093,M-2007-22,2007,group stage,Ghana,2,7,False,False,Fora
+2094,M-2007-23,2007,group stage,Denmark,0,1,False,False,Fora
+2095,M-2007-24,2007,group stage,New Zealand,0,2,False,False,Fora
+2096,M-2007-25,2007,quarter-final,North Korea,0,3,False,False,Fora
+2097,M-2007-26,2007,quarter-final,England,0,3,False,False,Fora
+2098,M-2007-27,2007,quarter-final,China,0,1,False,False,Fora
+2099,M-2007-28,2007,quarter-final,Australia,2,3,False,False,Fora
+2100,M-2007-29,2007,semi-final,Norway,0,3,False,False,Fora
+2101,M-2007-30,2007,semi-final,Brazil,4,0,True,False,Fora
+2102,M-2007-31,2007,third-place match,United States,4,1,True,False,Fora
+2103,M-2007-32,2007,final,Brazil,0,2,False,False,Fora
+2104,M-2010-01,2010,group stage,Mexico,1,1,False,True,Fora
+2105,M-2010-02,2010,group stage,France,0,0,False,True,Fora
+2106,M-2010-03,2010,group stage,Greece,0,2,False,False,Fora
+2107,M-2010-04,2010,group stage,Nigeria,0,1,False,False,Fora
+2108,M-2010-05,2010,group stage,United States,1,1,False,True,Fora
+2109,M-2010-06,2010,group stage,Slovenia,1,0,True,False,Fora
+2110,M-2010-07,2010,group stage,Ghana,1,0,True,False,Fora
+2111,M-2010-08,2010,group stage,Australia,0,4,False,False,Fora
+2112,M-2010-09,2010,group stage,Denmark,0,2,False,False,Fora
+2113,M-2010-10,2010,group stage,Cameroon,0,1,False,False,Fora
+2114,M-2010-11,2010,group stage,Paraguay,1,1,False,True,Fora
+2115,M-2010-12,2010,group stage,Slovakia,1,1,False,True,Fora
+2116,M-2010-13,2010,group stage,Portugal,0,0,False,True,Fora
+2117,M-2010-14,2010,group stage,North Korea,1,2,False,False,Fora
+2118,M-2010-15,2010,group stage,Chile,1,0,True,False,Fora
+2119,M-2010-16,2010,group stage,Switzerland,1,0,True,False,Fora
+2120,M-2010-17,2010,group stage,Uruguay,3,0,True,False,Fora
+2121,M-2010-18,2010,group stage,South Korea,1,4,False,False,Fora
+2122,M-2010-19,2010,group stage,Nigeria,1,2,False,False,Fora
+2123,M-2010-20,2010,group stage,Mexico,2,0,True,False,Fora
+2124,M-2010-21,2010,group stage,Serbia,1,0,True,False,Fora
+2125,M-2010-22,2010,group stage,United States,2,2,False,True,Fora
+2126,M-2010-23,2010,group stage,Algeria,0,0,False,True,Fora
+2127,M-2010-24,2010,group stage,Japan,0,1,False,False,Fora
+2128,M-2010-25,2010,group stage,Australia,1,1,False,True,Fora
+2129,M-2010-26,2010,group stage,Denmark,2,1,True,False,Fora
+2130,M-2010-27,2010,group stage,Paraguay,2,0,True,False,Fora
+2131,M-2010-28,2010,group stage,New Zealand,1,1,False,True,Fora
+2132,M-2010-29,2010,group stage,Ivory Coast,1,3,False,False,Fora
+2133,M-2010-30,2010,group stage,North Korea,0,7,False,False,Fora
+2134,M-2010-31,2010,group stage,Switzerland,0,1,False,False,Fora
+2135,M-2010-32,2010,group stage,Honduras,0,2,False,False,Fora
+2136,M-2010-33,2010,group stage,South Africa,2,1,True,False,Fora
+2137,M-2010-34,2010,group stage,Uruguay,1,0,True,False,Fora
+2138,M-2010-35,2010,group stage,Argentina,2,0,True,False,Fora
+2139,M-2010-36,2010,group stage,South Korea,2,2,False,True,Fora
+2140,M-2010-37,2010,group stage,England,1,0,True,False,Fora
+2141,M-2010-38,2010,group stage,Algeria,0,1,False,False,Fora
+2142,M-2010-39,2010,group stage,Serbia,1,2,False,False,Fora
+2143,M-2010-40,2010,group stage,Germany,1,0,True,False,Fora
+2144,M-2010-41,2010,group stage,New Zealand,0,0,False,True,Fora
+2145,M-2010-42,2010,group stage,Italy,2,3,False,False,Fora
+2146,M-2010-43,2010,group stage,Netherlands,2,1,True,False,Fora
+2147,M-2010-44,2010,group stage,Japan,3,1,True,False,Fora
+2148,M-2010-45,2010,group stage,Ivory Coast,3,0,True,False,Fora
+2149,M-2010-46,2010,group stage,Brazil,0,0,False,True,Fora
+2150,M-2010-47,2010,group stage,Spain,2,1,True,False,Fora
+2151,M-2010-48,2010,group stage,Honduras,0,0,False,True,Fora
+2152,M-2010-49,2010,round of 16,South Korea,1,2,False,False,Fora
+2153,M-2010-50,2010,round of 16,Ghana,2,1,True,False,Fora
+2154,M-2010-51,2010,round of 16,England,1,4,False,False,Fora
+2155,M-2010-52,2010,round of 16,Mexico,1,3,False,False,Fora
+2156,M-2010-53,2010,round of 16,Slovakia,1,2,False,False,Fora
+2157,M-2010-54,2010,round of 16,Chile,0,3,False,False,Fora
+2158,M-2010-55,2010,round of 16,Japan,0,0,False,True,Fora
+2159,M-2010-56,2010,round of 16,Portugal,0,1,False,False,Fora
+2160,M-2010-57,2010,quarter-finals,Brazil,1,2,False,False,Fora
+2161,M-2010-58,2010,quarter-finals,Ghana,1,1,False,True,Fora
+2162,M-2010-59,2010,quarter-finals,Germany,4,0,True,False,Fora
+2163,M-2010-60,2010,quarter-finals,Spain,1,0,True,False,Fora
+2164,M-2010-61,2010,semi-finals,Netherlands,3,2,True,False,Fora
+2165,M-2010-62,2010,semi-finals,Spain,1,0,True,False,Fora
+2166,M-2010-63,2010,third-place match,Germany,3,2,True,False,Fora
+2167,M-2010-64,2010,final,Spain,1,0,True,False,Fora
+2168,M-2011-01,2011,group stage,France,1,0,True,False,Fora
+2169,M-2011-02,2011,group stage,Canada,1,2,False,False,Fora
+2170,M-2011-03,2011,group stage,New Zealand,1,2,False,False,Fora
+2171,M-2011-04,2011,group stage,England,1,1,False,True,Fora
+2172,M-2011-05,2011,group stage,Sweden,1,0,True,False,Fora
+2173,M-2011-06,2011,group stage,North Korea,0,2,False,False,Fora
+2174,M-2011-07,2011,group stage,Equatorial Guinea,0,1,False,False,Fora
+2175,M-2011-08,2011,group stage,Australia,0,1,False,False,Fora
+2176,M-2011-09,2011,group stage,France,4,0,True,False,Fora
+2177,M-2011-10,2011,group stage,Nigeria,0,1,False,False,Fora
+2178,M-2011-11,2011,group stage,Mexico,0,4,False,False,Fora
+2179,M-2011-12,2011,group stage,England,2,1,True,False,Fora
+2180,M-2011-13,2011,group stage,Sweden,1,0,True,False,Fora
+2181,M-2011-14,2011,group stage,Colombia,0,3,False,False,Fora
+2182,M-2011-15,2011,group stage,Equatorial Guinea,2,3,False,False,Fora
+2183,M-2011-16,2011,group stage,Norway,0,3,False,False,Fora
+2184,M-2011-17,2011,group stage,Japan,0,2,False,False,Fora
+2185,M-2011-18,2011,group stage,Mexico,2,2,False,True,Fora
+2186,M-2011-19,2011,group stage,Nigeria,1,0,True,False,Fora
+2187,M-2011-20,2011,group stage,Germany,4,2,True,False,Fora
+2188,M-2011-21,2011,group stage,Norway,1,2,False,False,Fora
+2189,M-2011-22,2011,group stage,Brazil,3,0,True,False,Fora
+2190,M-2011-23,2011,group stage,Colombia,0,0,False,True,Fora
+2191,M-2011-24,2011,group stage,United States,1,2,False,False,Fora
+2192,M-2011-25,2011,quarter-final,France,1,1,False,True,Fora
+2193,M-2011-26,2011,quarter-final,Japan,1,0,True,False,Fora
+2194,M-2011-27,2011,quarter-final,Australia,1,3,False,False,Fora
+2195,M-2011-28,2011,quarter-final,United States,2,2,False,True,Fora
+2196,M-2011-29,2011,semi-final,United States,3,1,True,False,Fora
+2197,M-2011-30,2011,semi-final,Sweden,1,3,False,False,Fora
+2198,M-2011-31,2011,third-place match,France,1,2,False,False,Fora
+2199,M-2011-32,2011,final,United States,2,2,False,True,Fora
+2200,M-2014-01,2014,group stage,Croatia,1,3,False,False,Fora
+2201,M-2014-02,2014,group stage,Cameroon,0,1,False,False,Fora
+2202,M-2014-03,2014,group stage,Netherlands,5,1,True,False,Fora
+2203,M-2014-04,2014,group stage,Australia,1,3,False,False,Fora
+2204,M-2014-05,2014,group stage,Greece,0,3,False,False,Fora
+2205,M-2014-06,2014,group stage,Costa Rica,3,1,True,False,Fora
+2206,M-2014-07,2014,group stage,Italy,2,1,True,False,Fora
+2207,M-2014-08,2014,group stage,Japan,1,2,False,False,Fora
+2208,M-2014-09,2014,group stage,Ecuador,1,2,False,False,Fora
+2209,M-2014-10,2014,group stage,Honduras,0,3,False,False,Fora
+2210,M-2014-11,2014,group stage,Bosnia and Herzegovina,1,2,False,False,Fora
+2211,M-2014-12,2014,group stage,Portugal,0,4,False,False,Fora
+2212,M-2014-13,2014,group stage,Nigeria,0,0,False,True,Fora
+2213,M-2014-14,2014,group stage,United States,2,1,True,False,Fora
+2214,M-2014-15,2014,group stage,Algeria,1,2,False,False,Fora
+2215,M-2014-16,2014,group stage,Mexico,0,0,False,True,Fora
+2216,M-2014-17,2014,group stage,South Korea,1,1,False,True,Fora
+2217,M-2014-18,2014,group stage,Netherlands,3,2,True,False,Fora
+2218,M-2014-19,2014,group stage,Chile,2,0,True,False,Fora
+2219,M-2014-20,2014,group stage,Croatia,4,0,True,False,Fora
+2220,M-2014-21,2014,group stage,Ivory Coast,1,2,False,False,Fora
+2221,M-2014-22,2014,group stage,England,1,2,False,False,Fora
+2222,M-2014-23,2014,group stage,Greece,0,0,False,True,Fora
+2223,M-2014-24,2014,group stage,Costa Rica,1,0,True,False,Fora
+2224,M-2014-25,2014,group stage,France,5,2,True,False,Fora
+2225,M-2014-26,2014,group stage,Ecuador,2,1,True,False,Fora
+2226,M-2014-27,2014,group stage,Iran,0,1,False,False,Fora
+2227,M-2014-28,2014,group stage,Ghana,2,2,False,True,Fora
+2228,M-2014-29,2014,group stage,Bosnia and Herzegovina,0,1,False,False,Fora
+2229,M-2014-30,2014,group stage,Russia,0,1,False,False,Fora
+2230,M-2014-31,2014,group stage,Algeria,4,2,True,False,Fora
+2231,M-2014-32,2014,group stage,Portugal,2,2,False,True,Fora
+2232,M-2014-33,2014,group stage,Spain,3,0,True,False,Fora
+2233,M-2014-34,2014,group stage,Chile,0,2,False,False,Fora
+2234,M-2014-35,2014,group stage,Brazil,4,1,True,False,Fora
+2235,M-2014-36,2014,group stage,Mexico,3,1,True,False,Fora
+2236,M-2014-37,2014,group stage,England,0,0,False,True,Fora
+2237,M-2014-38,2014,group stage,Uruguay,1,0,True,False,Fora
+2238,M-2014-39,2014,group stage,Colombia,4,1,True,False,Fora
+2239,M-2014-40,2014,group stage,Ivory Coast,1,2,False,False,Fora
+2240,M-2014-41,2014,group stage,Iran,1,3,False,False,Fora
+2241,M-2014-42,2014,group stage,Argentina,3,2,True,False,Fora
+2242,M-2014-43,2014,group stage,Switzerland,3,0,True,False,Fora
+2243,M-2014-44,2014,group stage,France,0,0,False,True,Fora
+2244,M-2014-45,2014,group stage,Ghana,1,2,False,False,Fora
+2245,M-2014-46,2014,group stage,Germany,1,0,True,False,Fora
+2246,M-2014-47,2014,group stage,Russia,1,1,False,True,Fora
+2247,M-2014-48,2014,group stage,Belgium,1,0,True,False,Fora
+2248,M-2014-49,2014,round of 16,Chile,1,1,False,True,Fora
+2249,M-2014-50,2014,round of 16,Uruguay,0,2,False,False,Fora
+2250,M-2014-51,2014,round of 16,Mexico,1,2,False,False,Fora
+2251,M-2014-52,2014,round of 16,Greece,1,1,False,True,Fora
+2252,M-2014-53,2014,round of 16,Nigeria,0,2,False,False,Fora
+2253,M-2014-54,2014,round of 16,Algeria,1,2,False,False,Fora
+2254,M-2014-55,2014,round of 16,Switzerland,0,1,False,False,Fora
+2255,M-2014-56,2014,round of 16,United States,1,2,False,False,Fora
+2256,M-2014-57,2014,quarter-finals,Germany,1,0,True,False,Fora
+2257,M-2014-58,2014,quarter-finals,Colombia,1,2,False,False,Fora
+2258,M-2014-59,2014,quarter-finals,Belgium,0,1,False,False,Fora
+2259,M-2014-60,2014,quarter-finals,Costa Rica,0,0,False,True,Fora
+2260,M-2014-61,2014,semi-finals,Germany,7,1,True,False,Fora
+2261,M-2014-62,2014,semi-finals,Argentina,0,0,False,True,Fora
+2262,M-2014-63,2014,third-place match,Netherlands,3,0,True,False,Fora
+2263,M-2014-64,2014,final,Argentina,0,1,False,False,Fora
+2264,M-2015-01,2015,group stage,China,0,1,False,False,Fora
+2265,M-2015-02,2015,group stage,Netherlands,1,0,True,False,Fora
+2266,M-2015-03,2015,group stage,Thailand,0,4,False,False,Fora
+2267,M-2015-04,2015,group stage,Ivory Coast,0,10,False,False,Fora
+2268,M-2015-05,2015,group stage,Nigeria,3,3,False,True,Fora
+2269,M-2015-06,2015,group stage,Ecuador,0,6,False,False,Fora
+2270,M-2015-07,2015,group stage,Australia,1,3,False,False,Fora
+2271,M-2015-08,2015,group stage,Switzerland,0,1,False,False,Fora
+2272,M-2015-09,2015,group stage,England,0,1,False,False,Fora
+2273,M-2015-10,2015,group stage,Costa Rica,1,1,False,True,Fora
+2274,M-2015-11,2015,group stage,Mexico,1,1,False,True,Fora
+2275,M-2015-12,2015,group stage,South Korea,0,2,False,False,Fora
+2276,M-2015-13,2015,group stage,Netherlands,0,1,False,False,Fora
+2277,M-2015-14,2015,group stage,Norway,1,1,False,True,Fora
+2278,M-2015-15,2015,group stage,New Zealand,0,0,False,True,Fora
+2279,M-2015-16,2015,group stage,Thailand,3,2,True,False,Fora
+2280,M-2015-17,2015,group stage,Ecuador,1,10,False,False,Fora
+2281,M-2015-18,2015,group stage,Nigeria,0,2,False,False,Fora
+2282,M-2015-19,2015,group stage,Cameroon,1,2,False,False,Fora
+2283,M-2015-20,2015,group stage,Sweden,0,0,False,True,Fora
+2284,M-2015-21,2015,group stage,Colombia,2,0,True,False,Fora
+2285,M-2015-22,2015,group stage,Spain,0,1,False,False,Fora
+2286,M-2015-23,2015,group stage,Mexico,1,2,False,False,Fora
+2287,M-2015-24,2015,group stage,Costa Rica,2,2,False,True,Fora
+2288,M-2015-25,2015,group stage,Germany,4,0,True,False,Fora
+2289,M-2015-26,2015,group stage,Norway,3,1,True,False,Fora
+2290,M-2015-27,2015,group stage,New Zealand,2,2,False,True,Fora
+2291,M-2015-28,2015,group stage,Canada,1,1,False,True,Fora
+2292,M-2015-29,2015,group stage,Cameroon,2,1,True,False,Fora
+2293,M-2015-30,2015,group stage,Japan,1,0,True,False,Fora
+2294,M-2015-31,2015,group stage,United States,1,0,True,False,Fora
+2295,M-2015-32,2015,group stage,Sweden,1,1,False,True,Fora
+2296,M-2015-33,2015,group stage,Colombia,1,2,False,False,Fora
+2297,M-2015-34,2015,group stage,France,5,0,True,False,Fora
+2298,M-2015-35,2015,group stage,Spain,1,2,False,False,Fora
+2299,M-2015-36,2015,group stage,Brazil,1,0,True,False,Fora
+2300,M-2015-37,2015,round of 16,Sweden,1,4,False,False,Fora
+2301,M-2015-38,2015,round of 16,Cameroon,0,1,False,False,Fora
+2302,M-2015-39,2015,round of 16,Australia,1,0,True,False,Fora
+2303,M-2015-40,2015,round of 16,South Korea,0,3,False,False,Fora
+2304,M-2015-41,2015,round of 16,Switzerland,0,1,False,False,Fora
+2305,M-2015-42,2015,round of 16,England,2,1,True,False,Fora
+2306,M-2015-43,2015,round of 16,Colombia,0,2,False,False,Fora
+2307,M-2015-44,2015,round of 16,Netherlands,1,2,False,False,Fora
+2308,M-2015-45,2015,quarter-final,France,1,1,False,True,Fora
+2309,M-2015-46,2015,quarter-final,United States,1,0,True,False,Fora
+2310,M-2015-47,2015,quarter-final,Japan,1,0,True,False,Fora
+2311,M-2015-48,2015,quarter-final,Canada,1,2,False,False,Fora
+2312,M-2015-49,2015,semi-final,Germany,0,2,False,False,Fora
+2313,M-2015-50,2015,semi-final,England,1,2,False,False,Fora
+2314,M-2015-51,2015,third-place match,England,1,0,True,False,Fora
+2315,M-2015-52,2015,final,Japan,2,5,False,False,Fora
+2316,M-2018-01,2018,group stage,Saudi Arabia,0,5,False,False,Fora
+2317,M-2018-02,2018,group stage,Uruguay,1,0,True,False,Fora
+2318,M-2018-03,2018,group stage,Iran,1,0,True,False,Fora
+2319,M-2018-04,2018,group stage,Spain,3,3,False,True,Fora
+2320,M-2018-05,2018,group stage,Australia,1,2,False,False,Fora
+2321,M-2018-06,2018,group stage,Iceland,1,1,False,True,Fora
+2322,M-2018-07,2018,group stage,Denmark,1,0,True,False,Fora
+2323,M-2018-08,2018,group stage,Nigeria,0,2,False,False,Fora
+2324,M-2018-09,2018,group stage,Serbia,1,0,True,False,Fora
+2325,M-2018-10,2018,group stage,Mexico,1,0,True,False,Fora
+2326,M-2018-11,2018,group stage,Switzerland,1,1,False,True,Fora
+2327,M-2018-12,2018,group stage,South Korea,0,1,False,False,Fora
+2328,M-2018-13,2018,group stage,Panama,0,3,False,False,Fora
+2329,M-2018-14,2018,group stage,England,2,1,True,False,Fora
+2330,M-2018-15,2018,group stage,Japan,2,1,True,False,Fora
+2331,M-2018-16,2018,group stage,Senegal,2,1,True,False,Fora
+2332,M-2018-17,2018,group stage,Egypt,1,3,False,False,Fora
+2333,M-2018-18,2018,group stage,Morocco,0,1,False,False,Fora
+2334,M-2018-19,2018,group stage,Saudi Arabia,0,1,False,False,Fora
+2335,M-2018-20,2018,group stage,Spain,1,0,True,False,Fora
+2336,M-2018-21,2018,group stage,Australia,1,1,False,True,Fora
+2337,M-2018-22,2018,group stage,Peru,0,1,False,False,Fora
+2338,M-2018-23,2018,group stage,Croatia,3,0,True,False,Fora
+2339,M-2018-24,2018,group stage,Costa Rica,0,2,False,False,Fora
+2340,M-2018-25,2018,group stage,Iceland,0,2,False,False,Fora
+2341,M-2018-26,2018,group stage,Switzerland,2,1,True,False,Fora
+2342,M-2018-27,2018,group stage,Tunisia,2,5,False,False,Fora
+2343,M-2018-28,2018,group stage,Mexico,2,1,True,False,Fora
+2344,M-2018-29,2018,group stage,Sweden,1,2,False,False,Fora
+2345,M-2018-30,2018,group stage,Panama,1,6,False,False,Fora
+2346,M-2018-31,2018,group stage,Senegal,2,2,False,True,Fora
+2347,M-2018-32,2018,group stage,Colombia,3,0,True,False,Fora
+2348,M-2018-33,2018,group stage,Egypt,1,2,False,False,Fora
+2349,M-2018-34,2018,group stage,Russia,0,3,False,False,Fora
+2350,M-2018-35,2018,group stage,Morocco,2,2,False,True,Fora
+2351,M-2018-36,2018,group stage,Portugal,1,1,False,True,Fora
+2352,M-2018-37,2018,group stage,Peru,2,0,True,False,Fora
+2353,M-2018-38,2018,group stage,France,0,0,False,True,Fora
+2354,M-2018-39,2018,group stage,Croatia,2,1,True,False,Fora
+2355,M-2018-40,2018,group stage,Argentina,2,1,True,False,Fora
+2356,M-2018-41,2018,group stage,Germany,0,2,False,False,Fora
+2357,M-2018-42,2018,group stage,Sweden,3,0,True,False,Fora
+2358,M-2018-43,2018,group stage,Brazil,2,0,True,False,Fora
+2359,M-2018-44,2018,group stage,Costa Rica,2,2,False,True,Fora
+2360,M-2018-45,2018,group stage,Poland,1,0,True,False,Fora
+2361,M-2018-46,2018,group stage,Colombia,1,0,True,False,Fora
+2362,M-2018-47,2018,group stage,Belgium,1,0,True,False,Fora
+2363,M-2018-48,2018,group stage,Tunisia,2,1,True,False,Fora
+2364,M-2018-49,2018,round of 16,Argentina,3,4,False,False,Fora
+2365,M-2018-50,2018,round of 16,Portugal,1,2,False,False,Fora
+2366,M-2018-51,2018,round of 16,Russia,1,1,False,True,Fora
+2367,M-2018-52,2018,round of 16,Denmark,1,1,False,True,Fora
+2368,M-2018-53,2018,round of 16,Mexico,0,2,False,False,Fora
+2369,M-2018-54,2018,round of 16,Japan,2,3,False,False,Fora
+2370,M-2018-55,2018,round of 16,Switzerland,0,1,False,False,Fora
+2371,M-2018-56,2018,round of 16,England,1,1,False,True,Fora
+2372,M-2018-57,2018,quarter-finals,France,2,0,True,False,Fora
+2373,M-2018-58,2018,quarter-finals,Belgium,2,1,True,False,Fora
+2374,M-2018-59,2018,quarter-finals,England,2,0,True,False,Fora
+2375,M-2018-60,2018,quarter-finals,Croatia,2,2,False,True,Fora
+2376,M-2018-61,2018,semi-finals,Belgium,0,1,False,False,Fora
+2377,M-2018-62,2018,semi-finals,England,1,2,False,False,Fora
+2378,M-2018-63,2018,third-place match,England,0,2,False,False,Fora
+2379,M-2018-64,2018,final,Croatia,2,4,False,False,Fora
+2380,M-2019-01,2019,group stage,South Korea,0,4,False,False,Fora
+2381,M-2019-02,2019,group stage,China,0,1,False,False,Fora
+2382,M-2019-03,2019,group stage,South Africa,1,3,False,False,Fora
+2383,M-2019-04,2019,group stage,Nigeria,0,3,False,False,Fora
+2384,M-2019-05,2019,group stage,Italy,2,1,True,False,Fora
+2385,M-2019-06,2019,group stage,Jamaica,0,3,False,False,Fora
+2386,M-2019-07,2019,group stage,Scotland,1,2,False,False,Fora
+2387,M-2019-08,2019,group stage,Japan,0,0,False,True,Fora
+2388,M-2019-09,2019,group stage,Cameroon,0,1,False,False,Fora
+2389,M-2019-10,2019,group stage,Netherlands,1,0,True,False,Fora
+2390,M-2019-11,2019,group stage,Sweden,2,0,True,False,Fora
+2391,M-2019-12,2019,group stage,Thailand,0,13,False,False,Fora
+2392,M-2019-13,2019,group stage,South Korea,0,2,False,False,Fora
+2393,M-2019-14,2019,group stage,Spain,0,1,False,False,Fora
+2394,M-2019-15,2019,group stage,Norway,1,2,False,False,Fora
+2395,M-2019-16,2019,group stage,Brazil,2,3,False,False,Fora
+2396,M-2019-17,2019,group stage,China,1,0,True,False,Fora
+2397,M-2019-18,2019,group stage,Scotland,1,2,False,False,Fora
+2398,M-2019-19,2019,group stage,Italy,5,0,True,False,Fora
+2399,M-2019-20,2019,group stage,Argentina,0,1,False,False,Fora
+2400,M-2019-21,2019,group stage,Cameroon,1,3,False,False,Fora
+2401,M-2019-22,2019,group stage,New Zealand,0,2,False,False,Fora
+2402,M-2019-23,2019,group stage,Thailand,1,5,False,False,Fora
+2403,M-2019-24,2019,group stage,Chile,0,3,False,False,Fora
+2404,M-2019-25,2019,group stage,Spain,0,0,False,True,Fora
+2405,M-2019-26,2019,group stage,Germany,4,0,True,False,Fora
+2406,M-2019-27,2019,group stage,France,1,0,True,False,Fora
+2407,M-2019-28,2019,group stage,Norway,2,1,True,False,Fora
+2408,M-2019-29,2019,group stage,Brazil,1,0,True,False,Fora
+2409,M-2019-30,2019,group stage,Australia,4,1,True,False,Fora
+2410,M-2019-31,2019,group stage,England,2,0,True,False,Fora
+2411,M-2019-32,2019,group stage,Argentina,3,3,False,True,Fora
+2412,M-2019-33,2019,group stage,New Zealand,1,2,False,False,Fora
+2413,M-2019-34,2019,group stage,Canada,1,2,False,False,Fora
+2414,M-2019-35,2019,group stage,United States,2,0,True,False,Fora
+2415,M-2019-36,2019,group stage,Chile,2,0,True,False,Fora
+2416,M-2019-37,2019,round of 16,Nigeria,0,3,False,False,Fora
+2417,M-2019-38,2019,round of 16,Australia,1,1,False,True,Fora
+2418,M-2019-39,2019,round of 16,Cameroon,0,3,False,False,Fora
+2419,M-2019-40,2019,round of 16,Brazil,1,2,False,False,Fora
+2420,M-2019-41,2019,round of 16,United States,2,1,True,False,Fora
+2421,M-2019-42,2019,round of 16,Canada,0,1,False,False,Fora
+2422,M-2019-43,2019,round of 16,China,0,2,False,False,Fora
+2423,M-2019-44,2019,round of 16,Japan,1,2,False,False,Fora
+2424,M-2019-45,2019,quarter-final,England,3,0,True,False,Fora
+2425,M-2019-46,2019,quarter-final,United States,2,1,True,False,Fora
+2426,M-2019-47,2019,quarter-final,Netherlands,2,0,True,False,Fora
+2427,M-2019-48,2019,quarter-final,Sweden,2,1,True,False,Fora
+2428,M-2019-49,2019,semi-final,United States,2,1,True,False,Fora
+2429,M-2019-50,2019,semi-final,Sweden,0,1,False,False,Fora
+2430,M-2019-51,2019,third-place match,Sweden,2,1,True,False,Fora
+2431,M-2019-52,2019,final,Netherlands,0,2,False,False,Fora
+2432,M-2022-01,2022,group stage,Ecuador,2,0,True,False,Fora
+2433,M-2022-02,2022,group stage,Iran,2,6,False,False,Fora
+2434,M-2022-03,2022,group stage,Netherlands,2,0,True,False,Fora
+2435,M-2022-04,2022,group stage,Wales,1,1,False,True,Fora
+2436,M-2022-05,2022,group stage,Saudi Arabia,2,1,True,False,Fora
+2437,M-2022-06,2022,group stage,Tunisia,0,0,False,True,Fora
+2438,M-2022-07,2022,group stage,Poland,0,0,False,True,Fora
+2439,M-2022-08,2022,group stage,Australia,1,4,False,False,Fora
+2440,M-2022-09,2022,group stage,Croatia,0,0,False,True,Fora
+2441,M-2022-10,2022,group stage,Japan,2,1,True,False,Fora
+2442,M-2022-11,2022,group stage,Costa Rica,0,7,False,False,Fora
+2443,M-2022-12,2022,group stage,Canada,0,1,False,False,Fora
+2444,M-2022-13,2022,group stage,Cameroon,0,1,False,False,Fora
+2445,M-2022-14,2022,group stage,South Korea,0,0,False,True,Fora
+2446,M-2022-15,2022,group stage,Ghana,2,3,False,False,Fora
+2447,M-2022-16,2022,group stage,Serbia,0,2,False,False,Fora
+2448,M-2022-17,2022,group stage,Iran,2,0,True,False,Fora
+2449,M-2022-18,2022,group stage,Senegal,3,1,True,False,Fora
+2450,M-2022-19,2022,group stage,Ecuador,1,1,False,True,Fora
+2451,M-2022-20,2022,group stage,United States,0,0,False,True,Fora
+2452,M-2022-21,2022,group stage,Australia,1,0,True,False,Fora
+2453,M-2022-22,2022,group stage,Saudi Arabia,0,2,False,False,Fora
+2454,M-2022-23,2022,group stage,Denmark,1,2,False,False,Fora
+2455,M-2022-24,2022,group stage,Mexico,0,2,False,False,Fora
+2456,M-2022-25,2022,group stage,Costa Rica,1,0,True,False,Fora
+2457,M-2022-26,2022,group stage,Morocco,2,0,True,False,Fora
+2458,M-2022-27,2022,group stage,Canada,1,4,False,False,Fora
+2459,M-2022-28,2022,group stage,Germany,1,1,False,True,Fora
+2460,M-2022-29,2022,group stage,Serbia,3,3,False,True,Fora
+2461,M-2022-30,2022,group stage,Ghana,3,2,True,False,Fora
+2462,M-2022-31,2022,group stage,Switzerland,0,1,False,False,Fora
+2463,M-2022-32,2022,group stage,Uruguay,0,2,False,False,Fora
+2464,M-2022-33,2022,group stage,Senegal,2,1,True,False,Fora
+2465,M-2022-34,2022,group stage,Qatar,0,2,False,False,Fora
+2466,M-2022-35,2022,group stage,United States,1,0,True,False,Fora
+2467,M-2022-36,2022,group stage,England,3,0,True,False,Fora
+2468,M-2022-37,2022,group stage,Denmark,0,1,False,False,Fora
+2469,M-2022-38,2022,group stage,France,0,1,False,False,Fora
+2470,M-2022-39,2022,group stage,Argentina,2,0,True,False,Fora
+2471,M-2022-40,2022,group stage,Mexico,2,1,True,False,Fora
+2472,M-2022-41,2022,group stage,Morocco,2,1,True,False,Fora
+2473,M-2022-42,2022,group stage,Belgium,0,0,False,True,Fora
+2474,M-2022-43,2022,group stage,Germany,4,2,True,False,Fora
+2475,M-2022-44,2022,group stage,Spain,1,2,False,False,Fora
+2476,M-2022-45,2022,group stage,Uruguay,2,0,True,False,Fora
+2477,M-2022-46,2022,group stage,Portugal,1,2,False,False,Fora
+2478,M-2022-47,2022,group stage,Brazil,0,1,False,False,Fora
+2479,M-2022-48,2022,group stage,Switzerland,3,2,True,False,Fora
+2480,M-2022-49,2022,round of 16,United States,1,3,False,False,Fora
+2481,M-2022-50,2022,round of 16,Australia,1,2,False,False,Fora
+2482,M-2022-51,2022,round of 16,Poland,1,3,False,False,Fora
+2483,M-2022-52,2022,round of 16,Senegal,0,3,False,False,Fora
+2484,M-2022-53,2022,round of 16,Croatia,1,1,False,True,Fora
+2485,M-2022-54,2022,round of 16,South Korea,1,4,False,False,Fora
+2486,M-2022-55,2022,round of 16,Spain,0,0,False,True,Fora
+2487,M-2022-56,2022,round of 16,Switzerland,1,6,False,False,Fora
+2488,M-2022-57,2022,quarter-finals,Brazil,1,1,False,True,Fora
+2489,M-2022-58,2022,quarter-finals,Argentina,2,2,False,True,Fora
+2490,M-2022-59,2022,quarter-finals,Portugal,0,1,False,False,Fora
+2491,M-2022-60,2022,quarter-finals,France,2,1,True,False,Fora
+2492,M-2022-61,2022,semi-finals,Croatia,0,3,False,False,Fora
+2493,M-2022-62,2022,semi-finals,Morocco,0,2,False,False,Fora
+2494,M-2022-63,2022,third-place match,Morocco,1,2,False,False,Fora
+2495,M-2022-64,2022,final,France,3,3,False,True,Fora
